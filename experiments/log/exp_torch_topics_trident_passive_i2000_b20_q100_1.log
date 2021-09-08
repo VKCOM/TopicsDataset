@@ -1,0 +1,503 @@
+2020-04-03 14:00:03,878 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start experiment process
+2020-04-03 14:00:09,370 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - initial val_accuracy: 0.474289919058131
+2020-04-03 14:00:09,370 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #0
+2020-04-03 14:00:09,413 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [56261 67021 93332 78355 52665 29050  8826 91005 68347 88667 97482 46309
+ 64588 47914 46709 50399 87934 58390 30625  3651]
+2020-04-03 14:00:23,684 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #0 for 14.312976121902466 sec
+2020-04-03 14:00:23,686 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4766740250183959
+2020-04-03 14:00:23,686 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #1
+2020-04-03 14:00:23,689 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [72730 56181 39063 64690 41388 96181 79310 13301 13637 26275 47277 60364
+ 90597 93487 41828 83785 60508 99805 56879 80658]
+2020-04-03 14:00:29,363 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #1 for 5.676260948181152 sec
+2020-04-03 14:00:29,363 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4750551876379691
+2020-04-03 14:00:29,363 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #2
+2020-04-03 14:00:29,363 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [19389 61013 70457 93563 61463 90885 91641 10991 13432  7206 73269 40664
+ 72797 95507  2866 99920 63495 64050 28994 52943]
+2020-04-03 14:00:32,815 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #2 for 3.4519171714782715 sec
+2020-04-03 14:00:32,816 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.47635025754231053
+2020-04-03 14:00:32,816 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #3
+2020-04-03 14:00:32,816 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [33450 84095 67758 10561 92278 57294 98688 38131  1512  6256 82236 75259
+ 16859 94940 49121 30305 74319 25962 47124 71389]
+2020-04-03 14:00:37,020 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #3 for 4.204370021820068 sec
+2020-04-03 14:00:37,021 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4722295805739514
+2020-04-03 14:00:37,021 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #4
+2020-04-03 14:00:37,021 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 6281 16745 14697 53446 94917 95925 38774 38243 56649 69427 33991 18994
+ 85018 85063 96296 88387 53286 42862 15227 23624]
+2020-04-03 14:00:40,394 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #4 for 3.3734290599823 sec
+2020-04-03 14:00:40,394 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4765268579838116
+2020-04-03 14:00:40,395 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #5
+2020-04-03 14:00:40,395 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 1841 25401 44140 71533 18828 49348 14204 10532 45665 39344 22315 83056
+ 95562 51949 40110 25846  3925 28292  5690 64707]
+2020-04-03 14:00:44,992 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #5 for 4.5971808433532715 sec
+2020-04-03 14:00:44,992 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.47746872700515086
+2020-04-03 14:00:44,993 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #6
+2020-04-03 14:00:44,993 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [53855 48438 80042  3749 91270 26912 55539 49911 18578 90787 62394 55551
+ 55313 17105 29296 35454 49111 92821 61343 17157]
+2020-04-03 14:00:52,539 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #6 for 7.546712160110474 sec
+2020-04-03 14:00:52,540 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4757615894039735
+2020-04-03 14:00:52,540 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #7
+2020-04-03 14:00:52,603 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [66812 51830 16221 74344 25644 44432 91101 93982 52320 47534  9396 85645
+ 75400 17667 63338 97935 28632 12787 13149 64182]
+2020-04-03 14:01:02,032 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #7 for 9.492112874984741 sec
+2020-04-03 14:01:02,033 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.47799852832965417
+2020-04-03 14:01:02,034 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #8
+2020-04-03 14:01:02,039 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 3661  8328 89013 49320 66395 95753 10457 28719 40387 31347 82314 10172
+ 22209 84254 89763 78201 44473 23541 74151 28234]
+2020-04-03 14:01:06,606 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #8 for 4.572447061538696 sec
+2020-04-03 14:01:06,615 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48061810154525386
+2020-04-03 14:01:06,616 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #9
+2020-04-03 14:01:06,616 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [79411  4279 52415 16223 23871 59354 45325 63561 96675 58182 51105 55857
+ 77770 94019 75867 49375  6819 96201 43260 37607]
+2020-04-03 14:01:09,971 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #9 for 3.3551840782165527 sec
+2020-04-03 14:01:09,971 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4799705665930831
+2020-04-03 14:01:09,971 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #10
+2020-04-03 14:01:09,972 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [67660 53993  2027 61048 26115 54732 28352 32626 47966 46811 81747 51087
+ 86427 57907 67860 97506 49661 90232 73393 64463]
+2020-04-03 14:01:15,042 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #10 for 5.0703301429748535 sec
+2020-04-03 14:01:15,044 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4757027225901398
+2020-04-03 14:01:15,046 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #11
+2020-04-03 14:01:15,103 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [23411 77666 85340 53456 54791 97408 83540 25793 70105 94341 54876 15785
+ 69277 54296 41971 51678 27875 96261 46947 66797]
+2020-04-03 14:01:21,926 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #11 for 6.880465984344482 sec
+2020-04-03 14:01:21,926 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4835908756438558
+2020-04-03 14:01:21,927 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #12
+2020-04-03 14:01:21,927 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [66107 37080 91099 92349 58141 96776 67129 27027 91188 65813 34067 45741
+ 31719 10702 53872 97598 58759 63782 28048 66848]
+2020-04-03 14:01:24,771 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #12 for 2.8438467979431152 sec
+2020-04-03 14:01:24,771 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.480588668138337
+2020-04-03 14:01:24,771 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #13
+2020-04-03 14:01:24,771 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 4401 10414 45752 90847 64157 85628 95737 36173 77126 29865 74294 29497
+ 33310 17175 41149 52708 68435 61145 80882 42912]
+2020-04-03 14:01:27,959 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #13 for 3.188354969024658 sec
+2020-04-03 14:01:27,960 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4821486387049301
+2020-04-03 14:01:27,960 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #14
+2020-04-03 14:01:27,961 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [55065 48071 43150 51122 53936 70054 22515 63367 45854 67319 80591 22759
+ 88297  2923 21318 23733 50934 59637 14480 70804]
+2020-04-03 14:01:31,466 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #14 for 3.5061838626861572 sec
+2020-04-03 14:01:31,467 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48420897718910966
+2020-04-03 14:01:31,467 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #15
+2020-04-03 14:01:31,467 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [27593 87575 66209 39339 90726 33540 66337 57248 61668 85153 53203 23365
+ 54827 84660 85107 83816 47601 50401 33497 99186]
+2020-04-03 14:01:34,639 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #15 for 3.1719207763671875 sec
+2020-04-03 14:01:34,639 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48415011037527594
+2020-04-03 14:01:34,639 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #16
+2020-04-03 14:01:34,640 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [30631 39911 53433  6741 16226 23295 11130  8950 22736  8418 70158  1647
+ 99593 95061 87247 22906  1920 75727  5431 95297]
+2020-04-03 14:01:38,882 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #16 for 4.242539167404175 sec
+2020-04-03 14:01:38,883 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48653421633554084
+2020-04-03 14:01:38,883 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #17
+2020-04-03 14:01:38,884 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [69530 85803 57011 22224 28911 68100 62830 33829 73720 47547 60118 23199
+ 30875 54445 37125 88067 84841 65146 98783  5753]
+2020-04-03 14:01:46,746 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #17 for 7.863010883331299 sec
+2020-04-03 14:01:46,747 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.483355408388521
+2020-04-03 14:01:46,747 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #18
+2020-04-03 14:01:46,772 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [50055 73912 59731 89489 77260 79453 16261 40594 77950 73913 29875 80088
+ 71995 50778  3892 16593 58813 50686 73428 81417]
+2020-04-03 14:01:59,061 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #18 for 12.31410527229309 sec
+2020-04-03 14:01:59,062 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4834142752023547
+2020-04-03 14:01:59,062 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #19
+2020-04-03 14:01:59,064 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [64625  5992 55969  9903 43126 50560  8085 75166 15702 71075 24122 98942
+ 68341 79064 25512 96573 16353 56438 50839 30096]
+2020-04-03 14:02:28,194 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #19 for 29.1285617351532 sec
+2020-04-03 14:02:28,201 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48429727740986017
+2020-04-03 14:02:28,204 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #20
+2020-04-03 14:02:28,254 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [70425 10994 54353 37746 97802 18334 80519 29275 96245 95186 87492  6529
+  1232 24432 13275 59680 58673 47697 34295 49287]
+2020-04-03 14:02:44,817 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #20 for 16.6125328540802 sec
+2020-04-03 14:02:44,819 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48450331125827817
+2020-04-03 14:02:44,820 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #21
+2020-04-03 14:02:44,824 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [14836  1173 38665 19830 86630 36810 92096 51248 45284 15095 90824 22938
+ 51114 73474 78299 40300 35355 50819 41771 34230]
+2020-04-03 14:02:58,789 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #21 for 13.968655109405518 sec
+2020-04-03 14:02:58,790 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4877998528329654
+2020-04-03 14:02:58,791 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #22
+2020-04-03 14:02:58,794 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [16675 71918 50628 61197 76425  9300 89967 49827 90827 65835  2713 31894
+ 12716 55747 35179 46879 11369 20071 87325 33978]
+2020-04-03 14:03:12,543 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #22 for 13.75003170967102 sec
+2020-04-03 14:03:12,545 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48897718910963944
+2020-04-03 14:03:12,546 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #23
+2020-04-03 14:03:12,551 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [75985 15260 28614 90624 59732 66970  4702 10075 12469 60466 53219 54583
+ 69714  3530 21086 44742 77810 59494 74035 60534]
+2020-04-03 14:03:22,589 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #23 for 10.042514324188232 sec
+2020-04-03 14:03:22,591 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48706401766004415
+2020-04-03 14:03:22,592 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #24
+2020-04-03 14:03:22,597 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [11279 59428 54597 54924 79513 49595 54757  2499 29266 27813 56965 46255
+ 88452 37663 37024 65318 14126 18904 71486 33016]
+2020-04-03 14:03:31,463 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #24 for 8.87040901184082 sec
+2020-04-03 14:03:31,465 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49036055923473143
+2020-04-03 14:03:31,467 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #25
+2020-04-03 14:03:31,471 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 7095  4932 90937 34981 71968 76384 81794 39162 24014  4553 62779 33749
+ 21706 57530 93567 92372 22628 83060 57234 40636]
+2020-04-03 14:03:42,056 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #25 for 10.588276147842407 sec
+2020-04-03 14:03:42,058 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49203826342899193
+2020-04-03 14:03:42,059 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #26
+2020-04-03 14:03:42,065 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [93241 27288 32729 21907  4063 39136 34536 19600 24959 79851 35336 89997
+ 34272 37224 37456 53881 92653 48746 48949 22890]
+2020-04-03 14:03:51,172 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #26 for 9.112356901168823 sec
+2020-04-03 14:03:51,174 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49103752759381897
+2020-04-03 14:03:51,175 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #27
+2020-04-03 14:03:51,179 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [27206 90813 98396 11641 52142 71942 11836 76200 52335 11614 82329 75904
+ 43028 61290 60862 48321 12643 51096 59406 82305]
+2020-04-03 14:04:00,246 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #27 for 9.070863008499146 sec
+2020-04-03 14:04:00,248 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49480500367917585
+2020-04-03 14:04:00,248 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #28
+2020-04-03 14:04:00,252 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [45309 36565 12622 25181 46452 38386 47767 39852 19588 41883 94749 98884
+  3533 74011 46661  4875 77393 94912 93873 56400]
+2020-04-03 14:04:09,196 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #28 for 8.946998119354248 sec
+2020-04-03 14:04:09,198 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49380426784400294
+2020-04-03 14:04:09,198 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #29
+2020-04-03 14:04:09,201 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [98197 21277 13217   336 82257 55431 62265 80090 23110 11177 60104 96738
+ 53614 79323 28864 40829 34740 56345 57092 27522]
+2020-04-03 14:04:19,497 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #29 for 10.298712968826294 sec
+2020-04-03 14:04:19,498 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49218543046357616
+2020-04-03 14:04:19,498 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #30
+2020-04-03 14:04:19,499 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [69049 89277 51897 55295 45717 17772 22119 31819 56063 87840  6744 39608
+ 23267 82078 58860 27899 85863 12026 17653 72577]
+2020-04-03 14:04:30,634 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #30 for 11.133724212646484 sec
+2020-04-03 14:04:30,636 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.48944812362030904
+2020-04-03 14:04:30,636 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #31
+2020-04-03 14:04:30,640 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [13698 26698 58045 50078 82039 76618 92403 52389 15432 16395  5969 81548
+ 54716 37362 11830 99049 88548 29469 77041 38512]
+2020-04-03 14:04:39,371 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #31 for 8.733943700790405 sec
+2020-04-03 14:04:39,375 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49236203090507724
+2020-04-03 14:04:39,375 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #32
+2020-04-03 14:04:39,380 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [51075 60756 52622 12369 59040  7202 11076 50876 36194 57269 67790 51264
+ 58703 25713 38148 69288 86081 76631  5438 95452]
+2020-04-03 14:04:52,501 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #32 for 13.124004125595093 sec
+2020-04-03 14:04:52,519 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49427520235467254
+2020-04-03 14:04:52,521 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #33
+2020-04-03 14:04:52,538 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [72102 26082 57291 80111 38691 83584 74249 89346 88149 49261 48879 59135
+ 72607 23706 86918 27561  5738 34394 47361 96777]
+2020-04-03 14:05:02,607 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #33 for 10.084551095962524 sec
+2020-04-03 14:05:02,609 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4924503311258278
+2020-04-03 14:05:02,610 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #34
+2020-04-03 14:05:02,614 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [67795 83968 45581 19217 67996  5661 30830  2902 87459   447 23808 75325
+  9755 76008 15501 32880 96930 56430 83779 80056]
+2020-04-03 14:05:10,369 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #34 for 7.758157014846802 sec
+2020-04-03 14:05:10,373 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4910963944076527
+2020-04-03 14:05:10,373 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #35
+2020-04-03 14:05:10,378 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 4653 88841 40322 44922 81589 73657 50673  6880 29582  8461 13514  5230
+ 52061 25873 32195 40114  1874 63479 29142 14840]
+2020-04-03 14:05:21,166 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #35 for 10.791557788848877 sec
+2020-04-03 14:05:21,170 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4936571008094187
+2020-04-03 14:05:21,174 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #36
+2020-04-03 14:05:21,182 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [19722 56927  9524 82237 26203 92157   162 72340 55146  2741 52214 25967
+ 56393 41194 80741 52817 19386 20619 74686 28629]
+2020-04-03 14:05:27,772 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #36 for 6.598296880722046 sec
+2020-04-03 14:05:27,772 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49586460632818247
+2020-04-03 14:05:27,773 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #37
+2020-04-03 14:05:27,773 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [22945 49508 36404  7118 18889 82759 10295 16576 28354 31106 17636 46763
+ 44154 90929 77843 37612 92435 39357 96779 73837]
+2020-04-03 14:05:32,089 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #37 for 4.316191911697388 sec
+2020-04-03 14:05:32,089 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4971302428256071
+2020-04-03 14:05:32,090 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #38
+2020-04-03 14:05:32,090 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [29482 24176 16817 56681 14583 88166 15129 47816  9720 89650  6289 84719
+ 30337 53075 64693 98080 87300 43558 55692 72185]
+2020-04-03 14:05:37,861 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #38 for 5.770771265029907 sec
+2020-04-03 14:05:37,863 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4998086828550405
+2020-04-03 14:05:37,864 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #39
+2020-04-03 14:05:37,866 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [52760 78635 56068 32597  9377  1720 91372 38796 50679  3822 78287 12796
+ 84442 32307 40857 97672 62217 32799  7597 75937]
+2020-04-03 14:05:57,397 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #39 for 19.53171467781067 sec
+2020-04-03 14:05:57,400 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4982781456953642
+2020-04-03 14:05:57,401 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #40
+2020-04-03 14:05:57,402 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [34112 36864 61940 67204 94426 96645 43931 95517 77758 95514 28380 48329
+ 75642 76038 41793 58923 81498 39209 70285 55258]
+2020-04-03 14:06:05,641 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #40 for 8.239392042160034 sec
+2020-04-03 14:06:09,960 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49395143487858717
+2020-04-03 14:06:09,994 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #41
+2020-04-03 14:06:10,105 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [70680 36971   157 69345 36737 67130 12049  6277 17400 63176 33033 18731
+  1462 74092  5296 73808 84843 71382 56769 54601]
+2020-04-03 14:06:17,822 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #41 for 7.724761009216309 sec
+2020-04-03 14:06:17,824 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49433406916850625
+2020-04-03 14:06:17,824 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #42
+2020-04-03 14:06:17,827 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [22769 66888 92045 61029  2391 57686 19912 60907 97060 58684 39784 25578
+ 61911 14689 91411 82069  8696  8895 91352  3373]
+2020-04-03 14:06:27,392 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #42 for 9.567947149276733 sec
+2020-04-03 14:06:27,395 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4984841795437822
+2020-04-03 14:06:27,395 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #43
+2020-04-03 14:06:27,396 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [98451 33095 34080   138 15241  1903 70730 11641  2246 27456 37302 70304
+ 75071 18050 52140 29763 60708 42302 21984 38356]
+2020-04-03 14:06:35,871 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #43 for 8.475368976593018 sec
+2020-04-03 14:06:35,873 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5003679175864606
+2020-04-03 14:06:35,874 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #44
+2020-04-03 14:06:35,877 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [14160  9339 11703 63415 99076 37003 45750 82279 79298 37728 66830 54671
+ 54326 11719 44613  7648 17314 60818 85607 25619]
+2020-04-03 14:06:46,534 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #44 for 10.658143043518066 sec
+2020-04-03 14:06:46,539 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5003384841795437
+2020-04-03 14:06:46,540 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #45
+2020-04-03 14:06:46,545 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 4760 25412  4489 82662 72083 75385 27582 82037 93086  1184 24473 21281
+ 76845 57977 57314 19014 10323 17166 34023 59926]
+2020-04-03 14:06:57,015 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #45 for 10.474885940551758 sec
+2020-04-03 14:06:57,017 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5011331861662988
+2020-04-03 14:06:57,017 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #46
+2020-04-03 14:06:57,019 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [35274 61622  3304 41133 69921 29511 79607 24905 96671 52542 64824 73498
+ 92498 36963 69591  6298 73440 67714 16491 43690]
+2020-04-03 14:07:04,364 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #46 for 7.345319747924805 sec
+2020-04-03 14:07:04,366 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.49998528329654157
+2020-04-03 14:07:04,366 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #47
+2020-04-03 14:07:04,371 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [  970 74975 47080 26360 36160 60796 31642 19560 20145 25521 91385 87374
+ 91655 10680 38704 81909 60189 15978 70915 18674]
+2020-04-03 14:07:13,005 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #47 for 8.637238025665283 sec
+2020-04-03 14:07:13,008 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4977483443708609
+2020-04-03 14:07:13,008 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #48
+2020-04-03 14:07:13,011 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [  391 63548 93894 49742 74472 15971 81201 15633 76676 29055 78128  6426
+ 33712 60614 44281 14956 23997 89606 68642 39649]
+2020-04-03 14:07:24,885 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #48 for 11.876605987548828 sec
+2020-04-03 14:07:24,888 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.4995732155997057
+2020-04-03 14:07:24,888 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #49
+2020-04-03 14:07:24,899 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [56837 85182  4003 68598 24473 85457 11800 39572 82623 20809  3256  8405
+ 83946 62809 88296  2536 30463 17979 24664 67474]
+2020-04-03 14:07:46,731 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #49 for 21.834463834762573 sec
+2020-04-03 14:07:46,742 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5028403237674761
+2020-04-03 14:07:46,745 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #50
+2020-04-03 14:07:46,777 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [61191 62217 87299 18766 67027 67063  7497 70725 80739 26730 95549 22556
+  5458 35820 55631 71805 66932 92872 72472 72779]
+2020-04-03 14:08:12,004 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #50 for 25.258318185806274 sec
+2020-04-03 14:08:12,008 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5040470934510669
+2020-04-03 14:08:12,008 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #51
+2020-04-03 14:08:12,012 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [96888  6332 95891 31246 89466 17575 38646 40808 24941 52744 48038 33748
+ 91943 88311 73688 54020 76415 13915 20496 38011]
+2020-04-03 14:08:22,049 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #51 for 10.039413928985596 sec
+2020-04-03 14:08:22,053 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5044591611479029
+2020-04-03 14:08:22,054 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #52
+2020-04-03 14:08:22,058 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [94151  1168 35042 27154  1628 44406 85134 76709 92923 13399  6135 81540
+ 77233 55144 19950 56187 59622 33595 69082 66000]
+2020-04-03 14:08:37,148 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #52 for 15.093945026397705 sec
+2020-04-03 14:08:37,150 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5026048565121413
+2020-04-03 14:08:37,151 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #53
+2020-04-03 14:08:37,153 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [49874 65588 12976 89368 74554 55149 39940 89810 82942 50782 84256 16797
+ 11757 56786 45401 61397 73092 79086 28852  6714]
+2020-04-03 14:08:47,599 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #53 for 10.447399854660034 sec
+2020-04-03 14:08:47,601 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5040470934510669
+2020-04-03 14:08:47,601 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #54
+2020-04-03 14:08:47,604 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [52647  9555 22978 82792 83763 96149 54156 95473 79763 67304  9858 86883
+ 50520 40418 64081  3668 55155 47751 86636 48946]
+2020-04-03 14:08:59,490 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #54 for 11.888582944869995 sec
+2020-04-03 14:08:59,673 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.499514348785872
+2020-04-03 14:08:59,676 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #55
+2020-04-03 14:08:59,710 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [28502  7916 24538 32406 31575 48869 22902 49703 42839 15634 44561 50358
+ 41669 94681 80846 15080 63117  9459 47519 41428]
+2020-04-03 14:09:12,558 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #55 for 12.881862163543701 sec
+2020-04-03 14:09:12,560 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5060485651214128
+2020-04-03 14:09:12,560 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #56
+2020-04-03 14:09:12,561 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 5559 87020 95257 61588 38093 45094 25140 42112 65668 39515 56113 32287
+ 34066 82837 41711 73494 91377 51891 86259 68237]
+2020-04-03 14:09:22,129 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #56 for 9.568735837936401 sec
+2020-04-03 14:09:22,134 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.50719646799117
+2020-04-03 14:09:22,135 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #57
+2020-04-03 14:09:22,139 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [80706 29447 39176 60073 86029 70586 28640 74010 55376  3155 56735 86240
+ 72935 42853  4249  5502 24576 17205 69607 94434]
+2020-04-03 14:09:32,668 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #57 for 10.532700061798096 sec
+2020-04-03 14:09:32,672 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5065783664459161
+2020-04-03 14:09:32,675 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #58
+2020-04-03 14:09:32,689 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [83979 75452 89389 54922 41654 96973 90855  1625 59406 58134 92210 12613
+ 83395 31743 46478 90479 93532 46295 53511  5897]
+2020-04-03 14:09:44,132 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #58 for 11.45695185661316 sec
+2020-04-03 14:09:44,133 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5052832965415747
+2020-04-03 14:09:44,134 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #59
+2020-04-03 14:09:44,167 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [80363 88300 40803 48326  2665 27480 92367 77476 50081 63191 94117  2612
+ 46466 83929  1798 60302 85316  4018 86399 38441]
+2020-04-03 14:09:55,122 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #59 for 10.9878511428833 sec
+2020-04-03 14:09:55,123 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5014275202354672
+2020-04-03 14:09:55,125 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #60
+2020-04-03 14:09:55,172 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [18849  3516   227 22357 72366 44865 54834 14076 89035  9653 43633 42823
+ 88145 41151 15356   263 69568  9620 13954 30334]
+2020-04-03 14:10:05,215 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #60 for 10.088116884231567 sec
+2020-04-03 14:10:05,218 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5042825607064018
+2020-04-03 14:10:05,219 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #61
+2020-04-03 14:10:05,236 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [30396 25371  7592 92665 24065 78879 21283 37847 23552 93175 40063 28785
+ 19040 98574  2483 93653 69080 16465 22566 34185]
+2020-04-03 14:10:15,303 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #61 for 10.08370304107666 sec
+2020-04-03 14:10:15,306 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5031640912435614
+2020-04-03 14:10:15,307 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #62
+2020-04-03 14:10:15,327 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [76470 64846 32418 73779 30827 47497 36782 82349  5998 60410 46102 13520
+ 31611 29347 62768 14112 15434 70657 50908 33961]
+2020-04-03 14:10:23,278 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #62 for 7.970625162124634 sec
+2020-04-03 14:10:23,278 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5056953642384105
+2020-04-03 14:10:23,278 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #63
+2020-04-03 14:10:23,279 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [67702 73314 95724 63881 63657 12000 28360  2773 28170 50907 77297 61343
+ 69454 68467 28929 75110 44711 78553 11083 18003]
+2020-04-03 14:10:30,255 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #63 for 6.9763572216033936 sec
+2020-04-03 14:10:30,256 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5037527593818985
+2020-04-03 14:10:30,256 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #64
+2020-04-03 14:10:30,263 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [52410 69203 91464 94831 61841 40021 82920 54294 22453 29733 50934 97580
+  7973 88324 24956 53219 18275 46409 43012 18043]
+2020-04-03 14:10:38,093 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #64 for 7.837236166000366 sec
+2020-04-03 14:10:38,094 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5059308314937454
+2020-04-03 14:10:38,094 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #65
+2020-04-03 14:10:38,101 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [21676 64810 71956  8499 19276 12539 43155 74370 26801 90822 62178 48010
+ 39736 57520 78592 95456  2138 77653 82659 98294]
+2020-04-03 14:11:00,749 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #65 for 22.653711795806885 sec
+2020-04-03 14:11:00,757 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5052538631346578
+2020-04-03 14:11:00,757 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #66
+2020-04-03 14:11:00,827 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [82499 67523 73157 42002 11487 23370 76400  3836 42708 21946 23243  4635
+ 30005 70953 76369 12019 15343  3438 24503 89416]
+2020-04-03 14:11:46,835 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #66 for 46.07568597793579 sec
+2020-04-03 14:11:46,838 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5059896983075791
+2020-04-03 14:11:46,840 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #67
+2020-04-03 14:11:46,854 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [45705 31430 88543 77959  3115 39648 46560 44999 83021 86675 29890 97564
+ 22011 73472 24082 40422 30952 54755 54211 69234]
+2020-04-03 14:12:02,413 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #67 for 15.567703008651733 sec
+2020-04-03 14:12:02,424 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5067549668874172
+2020-04-03 14:12:02,427 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #68
+2020-04-03 14:12:02,485 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [69321 90455 57698 66704  9717  8144 15718 43117 64822 64288 23292 33652
+ 50163 89246 87745  3299 91755 23624 96626 36768]
+2020-04-03 14:12:17,097 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #68 for 14.668619871139526 sec
+2020-04-03 14:12:17,100 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5042531272994849
+2020-04-03 14:12:17,101 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #69
+2020-04-03 14:12:17,124 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [98522 72946 19681 83025  7048 94673  3721 14039 20818 98492 77924 88740
+ 32332 42222 52420 57892 95044 86429 57520 48452]
+2020-04-03 14:12:28,763 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #69 for 11.662149906158447 sec
+2020-04-03 14:12:28,765 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5057836644591611
+2020-04-03 14:12:28,767 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #70
+2020-04-03 14:12:28,802 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [50931 79843 53313 68237 57066 49837 72020 95096 44599 87800 94715 42887
+ 35964 97043 68948 12384 65164 44945 29066  9249]
+2020-04-03 14:12:38,645 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #70 for 9.877806186676025 sec
+2020-04-03 14:12:38,646 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5049595290654894
+2020-04-03 14:12:38,646 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #71
+2020-04-03 14:12:38,661 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 8861 37830 93712 20407 86869 27520 37291 62819  2507  7160 30902 33804
+ 70233  6135 57344 51474 55203 73894 57438 18361]
+2020-04-03 14:12:56,544 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #71 for 17.89663314819336 sec
+2020-04-03 14:12:56,546 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5094334069168506
+2020-04-03 14:12:56,546 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #72
+2020-04-03 14:12:56,554 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [88247 22271  2629 90099 18751 74937 88367 49673 94681 16392  4389 30611
+ 61117 36549 33258 52256 28081 36731  2352 94457]
+2020-04-03 14:13:07,029 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #72 for 10.481842756271362 sec
+2020-04-03 14:13:07,032 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5080206033848418
+2020-04-03 14:13:07,032 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #73
+2020-04-03 14:13:07,042 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [41915 34731 61985 17046  6734 75184  6369 72369 19530 28299 53853 98265
+ 74456 82900 76479 27402 71125 83649 42855  1549]
+2020-04-03 14:13:15,768 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #73 for 8.735868215560913 sec
+2020-04-03 14:13:15,769 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5059013980868285
+2020-04-03 14:13:15,770 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #74
+2020-04-03 14:13:15,770 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [20580 89276 63868 96234 18848 75984 31682   788 69444 70211 26318 73289
+ 93607 95864 96466 69905 15970 84910 16111 79067]
+2020-04-03 14:13:24,805 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #74 for 9.034059047698975 sec
+2020-04-03 14:13:24,809 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.511729212656365
+2020-04-03 14:13:24,809 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #75
+2020-04-03 14:13:24,833 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [94578 66975 10776 24763 40040  7988 43842 78724 88079 29403  6922  7010
+ 95859 42216 27799 12898 40168 26433 95230 91450]
+2020-04-03 14:13:35,080 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #75 for 10.270914793014526 sec
+2020-04-03 14:13:35,081 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5105518763796909
+2020-04-03 14:13:35,081 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #76
+2020-04-03 14:13:35,097 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [52362 55806 86536 95237 60253 57535 40220 22437 55814 73233 92006 65881
+ 54388 74510 51610 54767 61792 31048 30509 65559]
+2020-04-03 14:13:45,905 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #76 for 10.823696851730347 sec
+2020-04-03 14:13:45,907 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5089919058130978
+2020-04-03 14:13:45,907 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #77
+2020-04-03 14:13:45,907 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [11795 62857 96486 25619 84009   112 22725 46973 98369  1913  2459 33418
+ 30524  5380 86218 91498  5721 13502 34929 44393]
+2020-04-03 14:13:51,341 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #77 for 5.433866262435913 sec
+2020-04-03 14:13:51,342 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5112877115526122
+2020-04-03 14:13:51,342 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #78
+2020-04-03 14:13:51,342 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 7079 32221 49070  3139 19789 62602 66557 66339 34581 20648  5674 59047
+ 40805 46404 68636 33434 78146  1592 24565 57846]
+2020-04-03 14:13:56,320 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #78 for 4.9776201248168945 sec
+2020-04-03 14:13:56,320 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5099926416482707
+2020-04-03 14:13:56,321 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #79
+2020-04-03 14:13:56,321 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [84723 17598 91852 50610 53307 55971 15617 77594 48886 19785  5203 23383
+ 75646 77396 27487 42822 84062  7861 43395 83300]
+2020-04-03 14:14:01,901 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #79 for 5.58000373840332 sec
+2020-04-03 14:14:01,904 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5082855040470935
+2020-04-03 14:14:01,904 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #80
+2020-04-03 14:14:01,908 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [45436  6297 88025 88638 64317 26279 34165 31400   207 70707 80424 30132
+ 92071 22329 84442  2813 68334 21428 60130 15478]
+2020-04-03 14:14:08,159 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #80 for 6.254093885421753 sec
+2020-04-03 14:14:08,160 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5110816777041942
+2020-04-03 14:14:08,160 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #81
+2020-04-03 14:14:08,161 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [46080 18499 74438 21289 15493 20672 50126 83287 70424  1073 29595 98325
+  7978 62535  3549 85621  4665 68912 31134 10162]
+2020-04-03 14:14:13,335 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #81 for 5.174503803253174 sec
+2020-04-03 14:14:13,335 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5076379690949228
+2020-04-03 14:14:13,335 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #82
+2020-04-03 14:14:13,336 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [28725 67421  2992 44081 81855 49534 51214 57985 77610 65453 42476 85230
+ 40625 66461 66606 14168 67430 83927 76858 41176]
+2020-04-03 14:14:24,112 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #82 for 10.776408195495605 sec
+2020-04-03 14:14:24,115 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5116997792494481
+2020-04-03 14:14:24,115 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #83
+2020-04-03 14:14:24,165 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [25080 81242 48990 41331 12566 22823 56248 74448 45389 54901 87249 52950
+  1936 20804 60375 36187 87975 69050 37655 49575]
+2020-04-03 14:14:42,532 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #83 for 18.415730953216553 sec
+2020-04-03 14:14:42,838 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5103752759381899
+2020-04-03 14:14:42,844 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #84
+2020-04-03 14:14:42,909 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [ 5932 70968 10571 97099 64961 26764 42124 41045 20246 68379 18643 30684
+ 14774 27834 38617 35849 37826 25294 26150 77919]
+2020-04-03 14:15:00,703 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #84 for 17.858155965805054 sec
+2020-04-03 14:15:00,708 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5124650478292863
+2020-04-03 14:15:00,710 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #85
+2020-04-03 14:15:00,772 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [15325 20046 62733 52655 75168  8856 30602 62675 52805 51141 35275 91858
+ 47519 63918 78006 61896 15364 19098  7799 61970]
+2020-04-03 14:15:16,093 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #85 for 15.38236689567566 sec
+2020-04-03 14:15:16,098 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5106401766004415
+2020-04-03 14:15:16,099 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #86
+2020-04-03 14:15:16,122 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [80623 36694 24975 47959 81130 18384 83063 39886 81207 84257  2666 63252
+ 90395 64109 12982  7030 46803 36527   106 27303]
+2020-04-03 14:15:32,967 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #86 for 16.863433122634888 sec
+2020-04-03 14:15:32,970 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.512111846946284
+2020-04-03 14:15:32,971 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #87
+2020-04-03 14:15:32,995 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [19515 79044   277 33584 17149 32259 36059 14006 72024 37353 37314 43354
+  6414 73637 10241 20020 70377 70609 90483 97345]
+2020-04-03 14:15:49,335 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #87 for 16.362179040908813 sec
+2020-04-03 14:15:49,336 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.518233995584989
+2020-04-03 14:15:49,336 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #88
+2020-04-03 14:15:49,366 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [66025 24397 25262 19135 88783 89895 86857 38796 61501 27282 13905 17272
+ 42983 17463 16725 59518 53710 87385   507 36206]
+2020-04-03 14:16:03,052 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #88 for 13.713433027267456 sec
+2020-04-03 14:16:03,069 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5106990434142752
+2020-04-03 14:16:03,070 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #89
+2020-04-03 14:16:03,084 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [74840 14023 40026 71473 75274 80672 47936 24217 41888 63632 87118 97784
+ 13081  4703 81740 30940 41021 87073  3792 96647]
+2020-04-03 14:16:13,903 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #89 for 10.832388877868652 sec
+2020-04-03 14:16:13,909 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5103164091243562
+2020-04-03 14:16:13,909 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #90
+2020-04-03 14:16:13,960 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [36588 67173 89469 40647 51403 71273 80727 82203 91898 81297 52557 74084
+ 42515 27941 65098 60588 39464 21548 56233 14284]
+2020-04-03 14:16:23,716 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #90 for 9.806998014450073 sec
+2020-04-03 14:16:23,717 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5135540838852097
+2020-04-03 14:16:23,719 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #91
+2020-04-03 14:16:23,719 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [29235 12773 90056 65999  7318 13391 21804 89151 27988 60804 92492 37745
+ 52907 70735 38028 84689 14468 42424 36768 39507]
+2020-04-03 14:16:29,266 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #91 for 5.546788215637207 sec
+2020-04-03 14:16:29,266 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5101986754966887
+2020-04-03 14:16:29,266 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #92
+2020-04-03 14:16:29,267 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [92236 71292 70293 35092 62930  6208 52286 67876 26866 96344 79941 53813
+ 93214 97038 42527 74637 18656 13300 17939 75592]
+2020-04-03 14:16:33,968 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #92 for 4.701700925827026 sec
+2020-04-03 14:16:33,969 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5122001471670345
+2020-04-03 14:16:33,969 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #93
+2020-04-03 14:16:33,970 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [76183  4740 24595 57650 31320 94824 63036 89002   869 42765 69090 43558
+ 28279 86063 37725  2446 97381 69375 57045 60171]
+2020-04-03 14:16:39,838 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #93 for 5.868829965591431 sec
+2020-04-03 14:16:39,838 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5105813097866078
+2020-04-03 14:16:39,839 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #94
+2020-04-03 14:16:39,839 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [84863 81987 70384 58470 11808 62949 87036 81241 49953 80717 59274 42974
+ 93515 94392 77887 39889 63182 32094 12128 88641]
+2020-04-03 14:16:48,674 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #94 for 8.835469007492065 sec
+2020-04-03 14:16:48,675 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5144370860927152
+2020-04-03 14:16:48,675 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #95
+2020-04-03 14:16:48,689 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [60605 84744 19316  1373 84724 76904 49029 49105 17048 67110 76708 70427
+ 82467 90283  5705 66665 90814 50300 34263 19043]
+2020-04-03 14:16:57,456 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #95 for 8.779978036880493 sec
+2020-04-03 14:16:57,456 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.512317880794702
+2020-04-03 14:16:57,456 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #96
+2020-04-03 14:16:57,465 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [29349 66160 40857 32493 73369 49585 82715 81679 55900  3290 52172  5740
+ 22584 90896 68255 29984 50569 92363 24113  2948]
+2020-04-03 14:17:04,313 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #96 for 6.856442928314209 sec
+2020-04-03 14:17:04,313 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5099043414275203
+2020-04-03 14:17:04,314 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #97
+2020-04-03 14:17:04,314 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [29046 76583  6936  7821 44503 32431 53087 61997 65348 17328 41962 31065
+ 35473 18984 15370 61539 78480  8696 72191 39737]
+2020-04-03 14:17:10,274 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #97 for 5.959892988204956 sec
+2020-04-03 14:17:10,274 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5164091243561443
+2020-04-03 14:17:10,274 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #98
+2020-04-03 14:17:10,275 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [21552  3570 75796 19700 40382 91490 31801 41353 79546 76079  3712 33876
+  5958 84184 84800 43708 66443 17525 16318 42088]
+2020-04-03 14:17:15,266 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #98 for 4.991854190826416 sec
+2020-04-03 14:17:15,267 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5141721854304636
+2020-04-03 14:17:15,267 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - start step #99
+2020-04-03 14:17:15,267 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - query idx: [49079 72075 50183 34353 12423 47643 86773  1968 54712 11447 71511 79942
+ 50436 54611 63032 94114 85320 91284 19751 28575]
+2020-04-03 14:17:20,519 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish step #99 for 5.251836061477661 sec
+2020-04-03 14:17:20,520 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - current val_accuracy: 0.5129359823399559
+2020-04-03 14:17:20,520 - exp_torch_topics_trident_passive_i2000_b20_q100_1 - INFO - finish experiment process for 1036.6145331859589 sec

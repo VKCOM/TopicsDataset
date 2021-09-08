@@ -1,0 +1,403 @@
+2020-03-30 01:25:27,628 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start experiment process
+2020-03-30 01:25:31,378 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - initial val_accuracy: 0.4495952906548933
+2020-03-30 01:25:31,379 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #0
+2020-03-30 01:25:36,731 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [38971, 9263, 6199, 3884, 10032, 14079, 57820, 925, 52988, 73712, 66756, 45358, 72853, 9684, 7735, 42832, 87527, 19114, 27935, 44246]
+2020-03-30 01:25:41,425 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #0 for 10.045935869216919 sec
+2020-03-30 01:25:41,425 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4515084621044886
+2020-03-30 01:25:41,425 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #1
+2020-03-30 01:25:47,578 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [62739, 33873, 82931, 43418, 62039, 17518, 10206, 27360, 7812, 82343, 56400, 43385, 37218, 12415, 87742, 47558, 75812, 58356, 65431, 56288]
+2020-03-30 01:25:50,625 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #1 for 9.199685096740723 sec
+2020-03-30 01:25:50,625 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.44694628403237674
+2020-03-30 01:25:50,626 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #2
+2020-03-30 01:25:56,038 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [44733, 86417, 96300, 23308, 83521, 89621, 4383, 62753, 4565, 50295, 87982, 81292, 49362, 42431, 54847, 75414, 28040, 36729, 64536, 67299]
+2020-03-30 01:25:58,511 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #2 for 7.885479927062988 sec
+2020-03-30 01:25:58,511 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.45142016188373807
+2020-03-30 01:25:58,511 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #3
+2020-03-30 01:26:04,120 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [69960, 92125, 73734, 94098, 71711, 56761, 34584, 10834, 95177, 42076, 94258, 5659, 16007, 49194, 95064, 51202, 58687, 91922, 12850, 49630]
+2020-03-30 01:26:06,566 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #3 for 8.05491304397583 sec
+2020-03-30 01:26:06,567 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.45336276674025017
+2020-03-30 01:26:06,567 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #4
+2020-03-30 01:26:12,137 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [38309, 37980, 5505, 40626, 402, 92351, 4049, 10867, 91781, 87686, 35582, 55067, 5204, 23604, 54923, 15063, 57361, 71407, 86274, 76535]
+2020-03-30 01:26:14,585 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #4 for 8.018210172653198 sec
+2020-03-30 01:26:14,585 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.45356880058866816
+2020-03-30 01:26:14,585 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #5
+2020-03-30 01:26:20,279 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [78995, 87592, 23399, 49142, 15650, 94895, 79994, 82453, 89248, 51502, 42668, 2137, 5709, 94038, 54709, 58374, 31931, 69695, 44750, 69998]
+2020-03-30 01:26:22,742 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #5 for 8.156758785247803 sec
+2020-03-30 01:26:22,742 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.45595290654893306
+2020-03-30 01:26:22,742 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #6
+2020-03-30 01:26:28,507 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [35998, 31599, 15150, 45356, 35493, 79777, 75249, 17941, 53926, 46905, 40387, 81716, 87435, 46331, 67802, 16461, 24075, 89501, 85924, 95881]
+2020-03-30 01:26:30,947 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #6 for 8.204545974731445 sec
+2020-03-30 01:26:30,949 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.45306843267108166
+2020-03-30 01:26:30,949 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #7
+2020-03-30 01:26:36,716 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [43354, 6985, 7288, 87502, 74108, 24284, 12181, 69654, 69634, 27921, 44618, 53360, 25257, 73633, 47587, 74381, 73204, 40009, 14659, 80967]
+2020-03-30 01:26:39,137 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #7 for 8.188031911849976 sec
+2020-03-30 01:26:39,137 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4560117733627667
+2020-03-30 01:26:39,137 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #8
+2020-03-30 01:26:45,017 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [85023, 31808, 14707, 18579, 85400, 64724, 24202, 19981, 12298, 49499, 38679, 97285, 26286, 44613, 36576, 53363, 25569, 63574, 9623, 69222]
+2020-03-30 01:26:47,471 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #8 for 8.333722114562988 sec
+2020-03-30 01:26:47,471 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4596909492273731
+2020-03-30 01:26:47,471 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #9
+2020-03-30 01:26:53,415 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [81848, 14502, 22689, 94455, 22260, 55913, 94366, 166, 52998, 32719, 60876, 86680, 63158, 37873, 91944, 68158, 37794, 83780, 32681, 41295]
+2020-03-30 01:26:55,882 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #9 for 8.4103102684021 sec
+2020-03-30 01:26:55,882 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.46172185430463575
+2020-03-30 01:26:55,882 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #10
+2020-03-30 01:27:01,806 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [4536, 52960, 22259, 26973, 89213, 1604, 65401, 28050, 1697, 82008, 9912, 9674, 28622, 49068, 73493, 59646, 34964, 54747, 52163, 34351]
+2020-03-30 01:27:04,225 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #10 for 8.343174934387207 sec
+2020-03-30 01:27:04,225 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.46195732155997055
+2020-03-30 01:27:04,226 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #11
+2020-03-30 01:27:10,277 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [21212, 33555, 90938, 60243, 62898, 32549, 13820, 61071, 81176, 39737, 25488, 37643, 43406, 83480, 55920, 54924, 34796, 93527, 70723, 94769]
+2020-03-30 01:27:12,732 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #11 for 8.505789756774902 sec
+2020-03-30 01:27:12,732 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4636644591611479
+2020-03-30 01:27:12,732 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #12
+2020-03-30 01:27:18,776 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [92856, 83814, 75135, 40902, 90657, 67910, 31519, 89735, 38143, 50075, 79375, 45070, 83734, 9726, 14621, 28169, 88260, 18899, 87667, 57289]
+2020-03-30 01:27:21,254 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #12 for 8.52164602279663 sec
+2020-03-30 01:27:21,254 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.46654893303899925
+2020-03-30 01:27:21,254 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #13
+2020-03-30 01:27:27,297 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [65411, 13423, 82869, 41298, 57961, 8390, 90521, 8771, 38695, 39223, 87519, 82395, 14998, 1288, 44032, 47231, 27060, 17389, 37718, 53735]
+2020-03-30 01:27:29,750 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #13 for 8.496383905410767 sec
+2020-03-30 01:27:29,751 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4652832965415747
+2020-03-30 01:27:29,751 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #14
+2020-03-30 01:27:35,918 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [67771, 87028, 22479, 90826, 71048, 54342, 87140, 39234, 37889, 95660, 54305, 65907, 9233, 10207, 51423, 42657, 96075, 5396, 41765, 63379]
+2020-03-30 01:27:38,379 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #14 for 8.628715991973877 sec
+2020-03-30 01:27:38,380 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4610448859455482
+2020-03-30 01:27:38,380 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #15
+2020-03-30 01:27:44,526 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [76374, 8829, 7519, 80853, 18501, 49449, 46031, 72087, 76808, 65516, 92979, 30692, 36024, 12180, 61608, 41239, 66083, 72097, 55365, 34110]
+2020-03-30 01:27:47,028 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #15 for 8.64789605140686 sec
+2020-03-30 01:27:47,028 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4649006622516556
+2020-03-30 01:27:47,028 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #16
+2020-03-30 01:27:53,342 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [51595, 49682, 25117, 48196, 26695, 61844, 97551, 250, 16271, 2930, 71344, 11416, 39431, 58501, 74994, 49642, 22044, 66037, 92362, 13504]
+2020-03-30 01:27:55,784 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #16 for 8.755545854568481 sec
+2020-03-30 01:27:55,784 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4674025018395879
+2020-03-30 01:27:55,784 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #17
+2020-03-30 01:28:02,083 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [26657, 18380, 55789, 85367, 66442, 78415, 99012, 51250, 16671, 71435, 86611, 20716, 86720, 71936, 82680, 27777, 21577, 52426, 56309, 83258]
+2020-03-30 01:28:04,513 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #17 for 8.728529214859009 sec
+2020-03-30 01:28:04,513 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.46660779985283296
+2020-03-30 01:28:04,513 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #18
+2020-03-30 01:28:10,820 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [44085, 60700, 60177, 7836, 11704, 5291, 24050, 68663, 63737, 46778, 45647, 59446, 94855, 8037, 43337, 34808, 38104, 19903, 34047, 40267]
+2020-03-30 01:28:13,299 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #18 for 8.78571891784668 sec
+2020-03-30 01:28:13,299 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4687270051508462
+2020-03-30 01:28:13,299 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #19
+2020-03-30 01:28:19,737 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [1597, 34612, 63394, 97156, 82272, 61892, 27990, 46112, 482, 47045, 59377, 94390, 17206, 77403, 49063, 49034, 96448, 48630, 79648, 51296]
+2020-03-30 01:28:22,201 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #19 for 8.90198016166687 sec
+2020-03-30 01:28:22,201 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.46516556291390726
+2020-03-30 01:28:22,202 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #20
+2020-03-30 01:28:28,621 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [47233, 20087, 98076, 90289, 51369, 40869, 79869, 3658, 7951, 74302, 8708, 34264, 59327, 67779, 63821, 75364, 48546, 78542, 85583, 77043]
+2020-03-30 01:28:31,104 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #20 for 8.902635097503662 sec
+2020-03-30 01:28:31,106 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4695805739514349
+2020-03-30 01:28:31,106 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #21
+2020-03-30 01:28:37,681 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [14629, 79560, 43130, 27939, 76492, 24969, 47957, 59739, 70917, 3209, 96333, 33945, 79701, 19962, 34435, 35492, 56008, 51607, 47480, 69713]
+2020-03-30 01:28:40,072 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #21 for 8.966017007827759 sec
+2020-03-30 01:28:40,073 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4711111111111111
+2020-03-30 01:28:40,073 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #22
+2020-03-30 01:28:46,699 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [76591, 72722, 85491, 97218, 51533, 41830, 40867, 49773, 23233, 65381, 55575, 80924, 33674, 55107, 42828, 50689, 29041, 39971, 95785, 18285]
+2020-03-30 01:28:49,189 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #22 for 9.116137981414795 sec
+2020-03-30 01:28:49,190 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4699337748344371
+2020-03-30 01:28:49,190 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #23
+2020-03-30 01:28:55,839 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [93132, 65124, 13479, 7056, 90197, 28504, 93584, 77010, 25687, 68974, 15424, 2344, 9470, 26477, 41300, 63010, 30356, 37132, 57837, 82157]
+2020-03-30 01:28:58,296 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #23 for 9.10629415512085 sec
+2020-03-30 01:28:58,297 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47061074319352464
+2020-03-30 01:28:58,297 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #24
+2020-03-30 01:29:05,020 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [90950, 25991, 4815, 52131, 55157, 46227, 53955, 38801, 57706, 9903, 5980, 20281, 34819, 12498, 35190, 42378, 30206, 92810, 77325, 54142]
+2020-03-30 01:29:08,198 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #24 for 9.900500059127808 sec
+2020-03-30 01:29:08,199 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.46690213392200147
+2020-03-30 01:29:08,199 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #25
+2020-03-30 01:29:14,929 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [25590, 13271, 92663, 3983, 14659, 73820, 82999, 17318, 50637, 91158, 21286, 98186, 92450, 58274, 63016, 4220, 57110, 60936, 16126, 70680]
+2020-03-30 01:29:17,477 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #25 for 9.278008699417114 sec
+2020-03-30 01:29:17,477 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4682560706401766
+2020-03-30 01:29:17,478 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #26
+2020-03-30 01:29:24,319 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [62515, 3563, 48729, 40954, 58422, 12575, 51761, 84067, 50272, 11140, 99042, 82684, 53684, 35018, 13748, 70039, 79152, 39298, 37094, 47597]
+2020-03-30 01:29:26,854 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #26 for 9.376167058944702 sec
+2020-03-30 01:29:26,854 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.46961000735835173
+2020-03-30 01:29:26,854 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #27
+2020-03-30 01:29:33,754 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [10366, 25341, 49648, 65569, 28688, 56216, 34751, 67930, 35687, 30603, 62643, 22640, 18697, 93551, 598, 9409, 29699, 8701, 73390, 65050]
+2020-03-30 01:29:36,247 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #27 for 9.392297983169556 sec
+2020-03-30 01:29:36,247 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47158204562178074
+2020-03-30 01:29:36,247 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #28
+2020-03-30 01:29:43,184 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [45570, 15040, 80742, 86405, 34048, 9272, 71293, 18866, 16331, 45053, 47286, 64080, 90593, 73761, 15698, 70771, 20423, 60534, 2492, 79816]
+2020-03-30 01:29:45,705 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #28 for 9.458231925964355 sec
+2020-03-30 01:29:45,705 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4704047093451067
+2020-03-30 01:29:45,705 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #29
+2020-03-30 01:29:52,740 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [43678, 57258, 523, 75517, 22852, 50018, 28084, 56460, 9721, 92744, 38149, 93784, 51657, 74591, 73301, 72482, 18106, 74763, 19752, 99276]
+2020-03-30 01:29:55,257 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #29 for 9.551940202713013 sec
+2020-03-30 01:29:55,263 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47364238410596027
+2020-03-30 01:29:55,264 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #30
+2020-03-30 01:30:02,368 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [79099, 11519, 39536, 45631, 6139, 79029, 99384, 91249, 66001, 76471, 96218, 35848, 49553, 38274, 32949, 99268, 80097, 31698, 74866, 5663]
+2020-03-30 01:30:04,860 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #30 for 9.596783876419067 sec
+2020-03-30 01:30:04,861 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4708756438557763
+2020-03-30 01:30:04,861 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #31
+2020-03-30 01:30:11,965 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [77170, 91594, 80108, 97392, 88226, 17535, 35477, 49705, 6177, 11947, 42943, 95385, 30528, 14376, 70147, 68086, 78556, 3137, 97923, 59782]
+2020-03-30 01:30:14,576 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #31 for 9.714900016784668 sec
+2020-03-30 01:30:14,576 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4750551876379691
+2020-03-30 01:30:14,576 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #32
+2020-03-30 01:30:21,723 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [88956, 93607, 46150, 40624, 19397, 81250, 44895, 84352, 95730, 93234, 49275, 81105, 89052, 82408, 82689, 67010, 45855, 2030, 3132, 61845]
+2020-03-30 01:30:24,227 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #32 for 9.651169061660767 sec
+2020-03-30 01:30:24,228 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47855776306107434
+2020-03-30 01:30:24,228 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #33
+2020-03-30 01:30:31,386 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [84807, 42581, 66281, 52455, 41000, 64850, 73005, 20857, 18489, 75372, 20591, 19674, 88907, 18559, 93933, 88026, 63187, 20164, 40948, 98068]
+2020-03-30 01:30:33,901 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #33 for 9.672997951507568 sec
+2020-03-30 01:30:33,902 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47602649006622516
+2020-03-30 01:30:33,902 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #34
+2020-03-30 01:30:41,269 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [75291, 58487, 96849, 92733, 46170, 26816, 72222, 76148, 77706, 95791, 64216, 84276, 39460, 94815, 3865, 39048, 8448, 92199, 73685, 87592]
+2020-03-30 01:30:44,680 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #34 for 10.777372121810913 sec
+2020-03-30 01:30:44,681 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4748197203826343
+2020-03-30 01:30:44,681 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #35
+2020-03-30 01:30:51,994 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [90532, 4430, 13228, 58639, 19769, 85588, 32014, 15654, 91520, 13258, 47423, 57700, 76817, 55342, 93030, 33291, 87976, 56895, 22148, 27206]
+2020-03-30 01:30:54,838 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #35 for 10.157679796218872 sec
+2020-03-30 01:30:54,839 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4720824135393672
+2020-03-30 01:30:54,839 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #36
+2020-03-30 01:31:02,202 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [61025, 92054, 24450, 54161, 66158, 81704, 31802, 87498, 49155, 64187, 58435, 20324, 78443, 81117, 85415, 72388, 39436, 11445, 74543, 49915]
+2020-03-30 01:31:04,741 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #36 for 9.902466058731079 sec
+2020-03-30 01:31:04,742 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4726710816777042
+2020-03-30 01:31:04,742 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #37
+2020-03-30 01:31:12,188 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [23680, 40420, 63842, 27098, 37295, 99168, 33243, 58816, 50921, 27913, 6768, 79684, 86156, 78406, 24469, 39040, 86321, 59406, 92497, 69295]
+2020-03-30 01:31:14,699 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #37 for 9.957377910614014 sec
+2020-03-30 01:31:14,699 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47458425312729946
+2020-03-30 01:31:14,699 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #38
+2020-03-30 01:31:22,171 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [19701, 36072, 27569, 68368, 23569, 84109, 73309, 40579, 23217, 59523, 18112, 34255, 56691, 8054, 34670, 86235, 96550, 90832, 32673, 56165]
+2020-03-30 01:31:24,770 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #38 for 10.070988893508911 sec
+2020-03-30 01:31:24,771 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47373068432671084
+2020-03-30 01:31:24,771 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #39
+2020-03-30 01:31:32,361 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [50073, 66635, 23071, 35028, 951, 29762, 94230, 37541, 38096, 27595, 25647, 96505, 27111, 45788, 2434, 45890, 11516, 22620, 93019, 67290]
+2020-03-30 01:31:34,870 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #39 for 10.098968029022217 sec
+2020-03-30 01:31:34,870 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4789698307579102
+2020-03-30 01:31:34,870 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #40
+2020-03-30 01:31:42,435 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [44928, 84675, 2167, 61430, 59125, 13962, 73686, 57883, 7236, 44218, 94341, 75406, 62701, 29093, 13147, 2980, 21012, 36442, 73560, 91361]
+2020-03-30 01:31:44,938 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #40 for 10.067575931549072 sec
+2020-03-30 01:31:44,938 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4779102281089036
+2020-03-30 01:31:44,938 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #41
+2020-03-30 01:31:52,556 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [41463, 15663, 28986, 26712, 40854, 78178, 61471, 41374, 13477, 36835, 60652, 11651, 92045, 19421, 41307, 81983, 37293, 21676, 73836, 53467]
+2020-03-30 01:31:55,091 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #41 for 10.152993202209473 sec
+2020-03-30 01:31:55,091 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47735099337748343
+2020-03-30 01:31:55,092 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #42
+2020-03-30 01:32:02,807 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [98635, 76770, 83192, 11960, 6258, 40328, 42521, 74057, 47378, 81565, 40218, 32151, 60936, 52671, 42970, 34474, 60703, 66225, 35589, 22628]
+2020-03-30 01:32:05,306 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #42 for 10.214414119720459 sec
+2020-03-30 01:32:05,306 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.479411331861663
+2020-03-30 01:32:05,306 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #43
+2020-03-30 01:32:13,060 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [25348, 35807, 92554, 36765, 10291, 15327, 52418, 28527, 49821, 38623, 22773, 19241, 28958, 59255, 38774, 80793, 53138, 7402, 14922, 93458]
+2020-03-30 01:32:15,573 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #43 for 10.266323804855347 sec
+2020-03-30 01:32:15,573 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4747019867549669
+2020-03-30 01:32:15,573 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #44
+2020-03-30 01:32:23,342 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [85182, 12382, 67393, 2669, 82060, 49123, 83556, 52704, 551, 43102, 71787, 23076, 10247, 71907, 7957, 35592, 22903, 21993, 40617, 9850]
+2020-03-30 01:32:25,992 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #44 for 10.419073820114136 sec
+2020-03-30 01:32:25,992 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48300220750551875
+2020-03-30 01:32:25,993 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #45
+2020-03-30 01:32:33,899 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [19520, 66032, 7513, 16977, 31119, 52301, 28303, 35863, 57807, 76404, 78795, 32430, 64800, 83394, 51345, 23453, 11185, 47268, 63487, 18583]
+2020-03-30 01:32:36,370 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #45 for 10.376926183700562 sec
+2020-03-30 01:32:36,370 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4827373068432671
+2020-03-30 01:32:36,370 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #46
+2020-03-30 01:32:44,229 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [85376, 7379, 13373, 69455, 88765, 45272, 26563, 64481, 13151, 41733, 65127, 7390, 90397, 71329, 5980, 44550, 76263, 5475, 13697, 51199]
+2020-03-30 01:32:46,703 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #46 for 10.33309006690979 sec
+2020-03-30 01:32:46,703 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47955849889624724
+2020-03-30 01:32:46,703 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #47
+2020-03-30 01:32:54,641 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [12067, 21491, 30809, 54597, 63822, 2809, 94817, 32854, 83419, 70807, 9960, 91186, 74598, 86330, 61112, 74504, 95457, 76095, 82368, 59407]
+2020-03-30 01:32:57,207 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #47 for 10.50365424156189 sec
+2020-03-30 01:32:57,207 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.482560706401766
+2020-03-30 01:32:57,207 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #48
+2020-03-30 01:33:05,314 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [80128, 61708, 69090, 9346, 53903, 67122, 1120, 49210, 19139, 78818, 36057, 43164, 80514, 21265, 95837, 24875, 57754, 95014, 89867, 38354]
+2020-03-30 01:33:07,814 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #48 for 10.606953859329224 sec
+2020-03-30 01:33:07,815 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47487858719646797
+2020-03-30 01:33:07,815 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #49
+2020-03-30 01:33:15,956 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [33258, 73050, 6094, 84569, 51816, 60312, 18982, 39845, 28698, 3364, 57844, 998, 83114, 18855, 52877, 18464, 63465, 9118, 10215, 30664]
+2020-03-30 01:33:18,421 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #49 for 10.60654592514038 sec
+2020-03-30 01:33:18,422 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.47961736571008096
+2020-03-30 01:33:18,422 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #50
+2020-03-30 01:33:26,601 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [88114, 42687, 22716, 22414, 33143, 51671, 29258, 94611, 50282, 76755, 22054, 67696, 96848, 29641, 51535, 52352, 21419, 12761, 29546, 57349]
+2020-03-30 01:33:29,310 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #50 for 10.888191938400269 sec
+2020-03-30 01:33:29,310 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4806769683590876
+2020-03-30 01:33:29,310 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #51
+2020-03-30 01:33:37,525 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [7989, 94747, 79565, 85161, 66959, 50184, 38393, 28736, 38913, 76056, 48691, 8486, 55072, 65644, 46743, 55553, 16983, 84878, 47744, 15735]
+2020-03-30 01:33:40,016 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #51 for 10.70521092414856 sec
+2020-03-30 01:33:40,016 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4787343635025754
+2020-03-30 01:33:40,016 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #52
+2020-03-30 01:33:48,390 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [69341, 12986, 36136, 60284, 57880, 86751, 46109, 25306, 92272, 74783, 66868, 58308, 95245, 87117, 73796, 14303, 1982, 15275, 74543, 76228]
+2020-03-30 01:33:50,924 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #52 for 10.907763004302979 sec
+2020-03-30 01:33:50,924 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4835908756438558
+2020-03-30 01:33:50,924 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #53
+2020-03-30 01:33:59,176 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [76330, 74785, 64818, 86071, 50860, 7646, 77135, 72430, 88946, 32505, 5617, 50858, 5664, 74714, 90389, 72895, 46809, 19631, 65501, 13389]
+2020-03-30 01:34:01,795 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #53 for 10.870545864105225 sec
+2020-03-30 01:34:01,796 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4804120676968359
+2020-03-30 01:34:01,796 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #54
+2020-03-30 01:34:10,195 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [86768, 17198, 7886, 84527, 29803, 6329, 91871, 86965, 55372, 43404, 33244, 74141, 15730, 43876, 10647, 16841, 7860, 44859, 10285, 54712]
+2020-03-30 01:34:12,685 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #54 for 10.888766050338745 sec
+2020-03-30 01:34:12,685 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4789992641648271
+2020-03-30 01:34:12,685 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #55
+2020-03-30 01:34:21,131 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [80738, 94174, 5264, 70744, 46382, 3563, 43391, 45978, 11954, 43041, 71997, 12235, 83849, 98417, 21992, 38904, 67253, 91805, 53713, 58927]
+2020-03-30 01:34:23,666 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #55 for 10.980958938598633 sec
+2020-03-30 01:34:23,666 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48147167034584254
+2020-03-30 01:34:23,666 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #56
+2020-03-30 01:34:32,253 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [56644, 51014, 46461, 6973, 78491, 93945, 69615, 74955, 80995, 65868, 37159, 40971, 48667, 37635, 8687, 38981, 14789, 25257, 89837, 19287]
+2020-03-30 01:34:34,781 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #56 for 11.114764928817749 sec
+2020-03-30 01:34:34,782 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.483944076526858
+2020-03-30 01:34:34,782 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #57
+2020-03-30 01:34:43,291 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [20291, 62056, 94120, 41949, 85872, 44474, 67680, 67910, 22406, 32709, 7314, 89852, 61600, 28416, 26350, 39394, 25178, 18049, 147, 53749]
+2020-03-30 01:34:45,886 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #57 for 11.104128122329712 sec
+2020-03-30 01:34:45,887 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48032376747608535
+2020-03-30 01:34:45,887 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #58
+2020-03-30 01:34:54,511 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [38234, 60608, 32466, 87284, 82091, 57415, 94202, 15871, 94883, 86473, 71229, 2677, 34450, 21539, 38157, 15182, 31600, 95743, 86844, 54151]
+2020-03-30 01:34:57,114 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #58 for 11.227210760116577 sec
+2020-03-30 01:34:57,114 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4827961736571008
+2020-03-30 01:34:57,114 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #59
+2020-03-30 01:35:05,730 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [98122, 88184, 28443, 20141, 86233, 2331, 66128, 77806, 38346, 34932, 15963, 31082, 30848, 64610, 90958, 96065, 80543, 24615, 57052, 39283]
+2020-03-30 01:35:08,305 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #59 for 11.190928936004639 sec
+2020-03-30 01:35:08,305 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4817365710080942
+2020-03-30 01:35:08,306 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #60
+2020-03-30 01:35:17,010 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [37547, 87353, 60304, 27323, 28051, 17435, 95559, 72643, 92336, 23252, 4075, 85981, 39154, 9781, 46448, 72147, 69930, 18849, 146, 6707]
+2020-03-30 01:35:19,628 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #60 for 11.322481870651245 sec
+2020-03-30 01:35:19,628 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4815599705665931
+2020-03-30 01:35:19,628 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #61
+2020-03-30 01:35:28,385 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [69127, 94161, 17629, 79158, 20941, 13825, 54349, 26752, 29581, 1733, 42257, 77494, 65814, 1535, 16944, 87714, 14948, 90485, 96050, 40410]
+2020-03-30 01:35:30,967 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #61 for 11.338560104370117 sec
+2020-03-30 01:35:30,967 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.483944076526858
+2020-03-30 01:35:30,967 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #62
+2020-03-30 01:35:39,835 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [98110, 3503, 55000, 92627, 93117, 13052, 81747, 20821, 19321, 36457, 95767, 50945, 33524, 56036, 1898, 58881, 14482, 25367, 84669, 46099]
+2020-03-30 01:35:42,637 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #62 for 11.66962718963623 sec
+2020-03-30 01:35:42,637 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48659308314937455
+2020-03-30 01:35:42,637 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #63
+2020-03-30 01:35:51,559 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [52236, 19115, 68229, 73589, 6041, 62407, 94566, 19239, 72420, 73640, 94188, 53755, 32124, 10099, 47307, 31592, 91645, 97176, 62916, 70707]
+2020-03-30 01:35:54,171 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #63 for 11.533154964447021 sec
+2020-03-30 01:35:54,171 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48450331125827817
+2020-03-30 01:35:54,171 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #64
+2020-03-30 01:36:03,156 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [17150, 46342, 76150, 55411, 74350, 55768, 79510, 54119, 52210, 43660, 91488, 93626, 93720, 18658, 90110, 51484, 27870, 49597, 82795, 55710]
+2020-03-30 01:36:05,855 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #64 for 11.683847904205322 sec
+2020-03-30 01:36:05,856 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4848859455481972
+2020-03-30 01:36:05,856 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #65
+2020-03-30 01:36:14,797 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [4003, 15569, 12161, 62035, 47428, 46039, 10734, 84750, 77033, 83479, 3830, 38298, 6802, 61627, 4599, 82394, 1239, 9969, 78101, 13076]
+2020-03-30 01:36:17,445 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #65 for 11.588897943496704 sec
+2020-03-30 01:36:17,445 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49103752759381897
+2020-03-30 01:36:17,445 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #66
+2020-03-30 01:36:26,540 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [57736, 37202, 56620, 14100, 76905, 7017, 9629, 48292, 36759, 7228, 89195, 5778, 34849, 12709, 80326, 25662, 36575, 62042, 12780, 37757]
+2020-03-30 01:36:30,488 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #66 for 13.042832136154175 sec
+2020-03-30 01:36:30,489 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4863281824871229
+2020-03-30 01:36:30,489 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #67
+2020-03-30 01:36:39,538 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [74740, 7115, 58844, 40059, 72925, 55773, 84939, 69523, 75103, 16990, 68066, 63670, 82984, 85071, 93651, 80521, 34491, 76307, 15303, 38643]
+2020-03-30 01:36:42,724 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #67 for 12.234787225723267 sec
+2020-03-30 01:36:42,724 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4840618101545254
+2020-03-30 01:36:42,724 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #68
+2020-03-30 01:36:51,841 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [42999, 74924, 91270, 21748, 96043, 68206, 67614, 57144, 7988, 71745, 33747, 8313, 88097, 23632, 89104, 477, 96573, 88665, 2097, 90634]
+2020-03-30 01:36:54,493 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #68 for 11.76814317703247 sec
+2020-03-30 01:36:54,493 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4837086092715232
+2020-03-30 01:36:54,493 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #69
+2020-03-30 01:37:03,670 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [26244, 27645, 60178, 51625, 43591, 8774, 44400, 85858, 14024, 29083, 96359, 74945, 49984, 40248, 70235, 17533, 97355, 16160, 64564, 18212]
+2020-03-30 01:37:06,217 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #69 for 11.724370956420898 sec
+2020-03-30 01:37:06,218 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48453274466519497
+2020-03-30 01:37:06,218 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #70
+2020-03-30 01:37:15,380 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [26395, 41263, 24211, 13093, 18675, 16819, 74961, 51191, 16378, 28171, 31993, 22378, 42091, 27409, 33161, 81800, 32709, 2948, 44780, 51237]
+2020-03-30 01:37:17,918 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #70 for 11.700715065002441 sec
+2020-03-30 01:37:17,919 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4868579838116262
+2020-03-30 01:37:17,919 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #71
+2020-03-30 01:37:27,158 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [962, 89650, 45798, 94977, 18189, 25616, 58953, 18812, 4204, 48263, 40218, 48691, 34758, 66723, 70778, 36877, 90970, 36841, 65223, 63154]
+2020-03-30 01:37:29,754 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #71 for 11.834933042526245 sec
+2020-03-30 01:37:29,754 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4857983811626196
+2020-03-30 01:37:29,754 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #72
+2020-03-30 01:37:39,080 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [17241, 56779, 8455, 21121, 49810, 50812, 16281, 6279, 12976, 22557, 70789, 65345, 76979, 55162, 51510, 11158, 17778, 21321, 62920, 73820]
+2020-03-30 01:37:41,605 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #72 for 11.850612163543701 sec
+2020-03-30 01:37:41,605 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4870345842531273
+2020-03-30 01:37:41,605 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #73
+2020-03-30 01:37:51,009 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [55695, 73897, 34410, 46133, 94296, 74286, 9319, 51588, 43852, 9520, 859, 86811, 45183, 7177, 6531, 60040, 23123, 50782, 1266, 81671]
+2020-03-30 01:37:53,569 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #73 for 11.963397979736328 sec
+2020-03-30 01:37:53,569 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48765268579838117
+2020-03-30 01:37:53,569 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #74
+2020-03-30 01:38:02,971 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [68314, 8224, 7409, 8648, 83663, 84460, 75768, 60225, 25400, 70723, 32710, 40653, 8393, 34167, 87029, 24035, 94986, 74986, 38853, 41482]
+2020-03-30 01:38:05,554 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #74 for 11.98540210723877 sec
+2020-03-30 01:38:05,555 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48821192052980134
+2020-03-30 01:38:05,555 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #75
+2020-03-30 01:38:15,145 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [84216, 57492, 65932, 66578, 11197, 75439, 43541, 2078, 72905, 67151, 6521, 40806, 83574, 64407, 18271, 10053, 33818, 39653, 61589, 38997]
+2020-03-30 01:38:17,727 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #75 for 12.171899795532227 sec
+2020-03-30 01:38:17,728 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.489860191317145
+2020-03-30 01:38:17,728 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #76
+2020-03-30 01:38:27,326 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [10019, 12890, 20962, 60167, 54157, 73526, 74343, 73005, 54567, 28171, 8963, 72210, 61645, 56947, 51687, 86324, 23443, 24439, 1048, 46673]
+2020-03-30 01:38:29,942 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #76 for 12.213872909545898 sec
+2020-03-30 01:38:29,943 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4904782928623988
+2020-03-30 01:38:29,943 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #77
+2020-03-30 01:38:39,603 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [55475, 78549, 55738, 14437, 57156, 80771, 58834, 34681, 56764, 4749, 15948, 69006, 47898, 18903, 3893, 65306, 68327, 54524, 42335, 17838]
+2020-03-30 01:38:42,236 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #77 for 12.293651103973389 sec
+2020-03-30 01:38:42,237 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4883885209713024
+2020-03-30 01:38:42,237 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #78
+2020-03-30 01:38:51,770 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [878, 90048, 22902, 77461, 79374, 5141, 86508, 51666, 45043, 86775, 76440, 25575, 20949, 22621, 6888, 71215, 31031, 23498, 6573, 29044]
+2020-03-30 01:38:54,334 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #78 for 12.096773862838745 sec
+2020-03-30 01:38:54,334 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49165562913907285
+2020-03-30 01:38:54,334 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #79
+2020-03-30 01:39:03,994 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [96913, 96364, 81904, 90236, 97413, 6993, 51856, 81299, 55196, 19507, 42331, 14608, 60933, 73874, 97030, 71144, 84612, 14077, 80593, 52881]
+2020-03-30 01:39:06,573 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #79 for 12.238672018051147 sec
+2020-03-30 01:39:06,573 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49041942604856514
+2020-03-30 01:39:06,573 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #80
+2020-03-30 01:39:16,324 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [22941, 47949, 66810, 62049, 95152, 62699, 57257, 74111, 32166, 35860, 70613, 2362, 31875, 5925, 41448, 17084, 84077, 23134, 46145, 59851]
+2020-03-30 01:39:18,990 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #80 for 12.417031288146973 sec
+2020-03-30 01:39:18,990 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4905371596762325
+2020-03-30 01:39:18,991 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #81
+2020-03-30 01:39:28,783 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [13978, 44106, 17996, 30744, 31132, 89141, 23770, 77167, 38628, 54964, 87991, 29738, 19348, 72516, 592, 33977, 35022, 7860, 76834, 48980]
+2020-03-30 01:39:31,404 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #81 for 12.413806200027466 sec
+2020-03-30 01:39:31,406 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4891537895511405
+2020-03-30 01:39:31,406 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #82
+2020-03-30 01:39:41,282 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [59638, 40389, 24686, 77139, 5232, 87829, 19985, 73258, 95048, 33879, 22747, 75543, 68754, 87880, 49058, 41378, 60499, 26905, 45091, 45296]
+2020-03-30 01:39:43,877 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #82 for 12.470477104187012 sec
+2020-03-30 01:39:43,877 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4899484915378955
+2020-03-30 01:39:43,877 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #83
+2020-03-30 01:39:53,728 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [49384, 13641, 85663, 68642, 19921, 354, 52261, 43196, 96465, 34518, 97751, 39248, 87714, 39965, 18342, 45891, 18579, 70637, 90523, 76855]
+2020-03-30 01:39:56,925 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #83 for 13.047949075698853 sec
+2020-03-30 01:39:56,926 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.48912435614422367
+2020-03-30 01:39:56,926 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #84
+2020-03-30 01:40:07,016 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [54827, 34105, 57735, 72284, 59716, 37978, 38079, 53272, 5826, 59992, 81691, 21588, 5606, 87458, 2974, 35068, 26959, 84772, 40746, 79035]
+2020-03-30 01:40:10,700 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #84 for 13.773590087890625 sec
+2020-03-30 01:40:10,701 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.493598233995585
+2020-03-30 01:40:10,701 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #85
+2020-03-30 01:40:20,805 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [93024, 47805, 60988, 40421, 43457, 26728, 32745, 34116, 54395, 91686, 33095, 22879, 14459, 33004, 42152, 13094, 63931, 89041, 6912, 96874]
+2020-03-30 01:40:23,845 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #85 for 13.14438009262085 sec
+2020-03-30 01:40:23,845 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49147902869757176
+2020-03-30 01:40:23,845 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #86
+2020-03-30 01:40:33,893 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [50339, 59765, 2102, 58093, 4276, 77718, 79345, 90207, 25354, 6441, 4118, 91772, 33696, 33315, 14211, 91774, 87502, 25077, 12491, 8250]
+2020-03-30 01:40:36,565 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #86 for 12.719202995300293 sec
+2020-03-30 01:40:36,565 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49271523178807947
+2020-03-30 01:40:36,566 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #87
+2020-03-30 01:40:46,838 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [21548, 93811, 97163, 30505, 93358, 26776, 71017, 7926, 84805, 14861, 89278, 44667, 71963, 11257, 48448, 17332, 12780, 45873, 54979, 61156]
+2020-03-30 01:40:50,395 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #87 for 13.828768014907837 sec
+2020-03-30 01:40:50,396 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4903899926416483
+2020-03-30 01:40:50,396 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #88
+2020-03-30 01:41:00,615 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [8150, 40546, 18017, 69429, 54793, 95652, 52935, 66260, 1356, 2782, 56548, 13050, 33185, 51608, 10549, 71002, 88933, 29229, 58963, 7317]
+2020-03-30 01:41:03,591 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #88 for 13.194931983947754 sec
+2020-03-30 01:41:03,591 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.490242825607064
+2020-03-30 01:41:03,591 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #89
+2020-03-30 01:41:13,888 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [11275, 78017, 42677, 5696, 11355, 97815, 23831, 29104, 64341, 7721, 31173, 76247, 66690, 39508, 94317, 39565, 23286, 16615, 52015, 46846]
+2020-03-30 01:41:16,564 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #89 for 12.972285270690918 sec
+2020-03-30 01:41:16,564 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4951582045621781
+2020-03-30 01:41:16,564 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #90
+2020-03-30 01:41:26,807 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [1265, 33404, 56455, 16275, 40260, 969, 11287, 24101, 58867, 26943, 89269, 29703, 40489, 34348, 4200, 24035, 68912, 70245, 82072, 43109]
+2020-03-30 01:41:29,495 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #90 for 12.931335926055908 sec
+2020-03-30 01:41:29,496 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49256806475349524
+2020-03-30 01:41:29,496 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #91
+2020-03-30 01:41:39,912 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [80488, 43205, 84941, 20106, 7601, 22237, 19637, 85700, 11197, 31660, 76438, 61640, 87379, 53920, 71279, 9193, 57939, 37854, 16712, 47491]
+2020-03-30 01:41:42,680 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #91 for 13.183916091918945 sec
+2020-03-30 01:41:42,680 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4917439293598234
+2020-03-30 01:41:42,680 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #92
+2020-03-30 01:41:53,182 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [97148, 76354, 12680, 60373, 81691, 27843, 50349, 74413, 15424, 66474, 19974, 3793, 93818, 37558, 1257, 72923, 59575, 13033, 9830, 66039]
+2020-03-30 01:41:55,880 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #92 for 13.199976921081543 sec
+2020-03-30 01:41:55,880 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4942163355408388
+2020-03-30 01:41:55,880 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #93
+2020-03-30 01:42:06,261 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [61945, 7957, 54433, 88885, 19150, 77588, 24273, 38472, 63669, 90892, 10253, 60262, 9256, 53712, 86936, 70859, 4884, 27856, 82377, 28967]
+2020-03-30 01:42:08,994 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #93 for 13.113402128219604 sec
+2020-03-30 01:42:08,994 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4923325974981604
+2020-03-30 01:42:08,994 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #94
+2020-03-30 01:42:19,498 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [43611, 7195, 59579, 92693, 71533, 7334, 84736, 17814, 30804, 51981, 27246, 4676, 62966, 7882, 41816, 57455, 89839, 39589, 51368, 75700]
+2020-03-30 01:42:22,196 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #94 for 13.20214295387268 sec
+2020-03-30 01:42:22,197 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49386313465783666
+2020-03-30 01:42:22,197 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #95
+2020-03-30 01:42:32,690 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [32123, 70052, 65103, 89510, 17810, 73271, 49700, 54721, 34389, 36325, 74352, 3383, 52046, 52563, 54307, 96831, 81239, 25483, 6999, 984]
+2020-03-30 01:42:35,402 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #95 for 13.204880952835083 sec
+2020-03-30 01:42:35,402 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49768947755702725
+2020-03-30 01:42:35,402 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #96
+2020-03-30 01:42:46,168 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [9756, 26444, 90080, 75074, 95795, 40114, 3235, 20385, 37370, 7166, 54717, 13866, 77020, 32397, 57945, 6280, 74789, 3880, 76098, 88508]
+2020-03-30 01:42:48,868 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #96 for 13.465857982635498 sec
+2020-03-30 01:42:48,868 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4932450331125828
+2020-03-30 01:42:48,868 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #97
+2020-03-30 01:42:59,561 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [32034, 19381, 21823, 97844, 88888, 66640, 55234, 65861, 85386, 57237, 60497, 63526, 51905, 79685, 89759, 6320, 77277, 54221, 68007, 20108]
+2020-03-30 01:43:02,278 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #97 for 13.409952163696289 sec
+2020-03-30 01:43:02,279 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49533480500367916
+2020-03-30 01:43:02,279 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #98
+2020-03-30 01:43:12,940 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [66817, 65172, 48544, 32820, 45833, 92553, 87650, 75679, 9192, 75761, 67987, 51284, 25978, 34003, 49532, 75504, 61181, 74580, 10053, 84128]
+2020-03-30 01:43:15,642 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #98 for 13.363218069076538 sec
+2020-03-30 01:43:15,642 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.49386313465783666
+2020-03-30 01:43:15,642 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - start step #99
+2020-03-30 01:43:26,572 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - query idx: [17373, 37282, 61352, 2043, 89803, 41583, 16978, 65455, 72477, 53726, 10927, 94984, 76341, 6932, 97115, 76169, 96800, 63726, 81506, 36751]
+2020-03-30 01:43:29,382 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish step #99 for 13.739189386367798 sec
+2020-03-30 01:43:29,382 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - current val_accuracy: 0.4933627667402502
+2020-03-30 01:43:29,382 - exp_torch_topics_diversity_img_i2000_b20_q100_sf512_2 - INFO - finish experiment process for 1081.753978252411 sec

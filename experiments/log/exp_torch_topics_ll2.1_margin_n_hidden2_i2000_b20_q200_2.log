@@ -1,0 +1,983 @@
+2020-05-06 13:33:15,875 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start experiment process
+2020-05-06 13:33:20,840 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - initial val_accuracy: 0.4830316409124356
+2020-05-06 13:33:20,840 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #0
+2020-05-06 13:33:36,640 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [49881 37264 19398  6683 55715 53084  4103 41312 97199 55944  5182 89263
+ 50090 91651 90143 42156 63172 49763 83719 87459]
+2020-05-06 13:33:48,243 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #0 for 27.402639865875244 sec
+2020-05-06 13:33:48,246 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4833259749816041
+2020-05-06 13:33:48,280 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 0 saved
+2020-05-06 13:33:48,281 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #1
+2020-05-06 13:33:58,674 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [29586 14967 55296  2297 36673  7009  3454 47736 37239 51942 78111 21545
+ 35082 83435 21939 36177 83152 95694 31076 79782]
+2020-05-06 13:34:06,364 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #1 for 18.082733154296875 sec
+2020-05-06 13:34:06,367 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4813539367181751
+2020-05-06 13:34:06,367 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #2
+2020-05-06 13:34:15,956 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [26503  8074 45403 57887 96795 35880 71996 70327 61949 77761 46861  3032
+ 29765 62366 72954 88328  9539 93348 83151 67155]
+2020-05-06 13:34:19,606 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #2 for 13.239010095596313 sec
+2020-05-06 13:34:19,607 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4814128035320088
+2020-05-06 13:34:19,607 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #3
+2020-05-06 13:34:26,552 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [59443 27691 19096 44419 36166   256 12399 77722 55750 10579 25111 52865
+ 72299 69169 78995 21363 42484 52809 83671 17928]
+2020-05-06 13:34:35,046 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #3 for 15.438232660293579 sec
+2020-05-06 13:34:35,047 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48253127299484916
+2020-05-06 13:34:35,114 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #4
+2020-05-06 13:34:44,127 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 5911  1469  3245 64514 40879 81350 94112 96982 95759 61333 49880 97264
+ 96460 34326 55094 35288  2747 54478 94444 26016]
+2020-05-06 13:34:47,321 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #4 for 12.204807043075562 sec
+2020-05-06 13:34:47,322 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4838852097130243
+2020-05-06 13:34:47,323 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #5
+2020-05-06 13:34:52,384 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 3957  1237 54033 18582 21382 14869 80310 46728 46737 10457 53096 76436
+ 93051 81460 43744 42715 40370 39774 86912 10997]
+2020-05-06 13:34:55,894 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #5 for 8.571823120117188 sec
+2020-05-06 13:34:55,895 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48532744665195
+2020-05-06 13:34:55,895 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #6
+2020-05-06 13:35:02,275 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [67320  7755 75152  6635  7314 39242 78737 40234 49115 91186  1595 48929
+   673 14252 34209 87249 98346 11921 71098 31952]
+2020-05-06 13:35:06,773 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #6 for 10.877645015716553 sec
+2020-05-06 13:35:06,774 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48485651214128034
+2020-05-06 13:35:06,774 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #7
+2020-05-06 13:35:11,923 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [  136 85078 46050 39310 22923 64048 61965 92088 90691 25819 94595 39813
+ 42007 34503 44418 77811 92376 85987 86937 47799]
+2020-05-06 13:35:17,410 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #7 for 10.636075973510742 sec
+2020-05-06 13:35:17,411 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4865636497424577
+2020-05-06 13:35:17,411 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #8
+2020-05-06 13:35:22,703 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [92291 19604 91023 32307 14520 52289 77608 40415  7686 68771 92178 62716
+ 89063 83787 44884  7724 86395 67461 46794 15100]
+2020-05-06 13:35:27,047 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #8 for 9.635611295700073 sec
+2020-05-06 13:35:27,047 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4872700515084621
+2020-05-06 13:35:27,047 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #9
+2020-05-06 13:35:32,097 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [77502 75949 62290 10443 98346 76398 78592 24774 94532 49044 93793 13415
+ 21284 82663 81710 11036  7390 79226 23803 81037]
+2020-05-06 13:35:38,746 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #9 for 11.698607206344604 sec
+2020-05-06 13:35:38,747 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4875643855776306
+2020-05-06 13:35:38,747 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #10
+2020-05-06 13:35:53,394 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [15689 86184 90669 47994 54142 78394 48337 52179 13823 40844 81165 29886
+ 72754 81450 86891 53292 46947 41785 75992 97909]
+2020-05-06 13:35:59,078 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #10 for 20.33101987838745 sec
+2020-05-06 13:35:59,078 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48668138337012506
+2020-05-06 13:35:59,084 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 10 saved
+2020-05-06 13:35:59,084 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #11
+2020-05-06 13:36:05,862 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [13651 64354 20872 56166 86579 10914  9173 74113 38735 55010 47505 21255
+ 43524 77203 44625 63208 45540 79098  6663 54691]
+2020-05-06 13:36:13,102 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #11 for 14.018117189407349 sec
+2020-05-06 13:36:13,102 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48553348050036793
+2020-05-06 13:36:13,102 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #12
+2020-05-06 13:36:24,502 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [78615 94717 54716 78182 14313  8420 56800 10852 15661 16487 93702 41863
+ 70809  1849 65323 26708 65917 56862 18567 86541]
+2020-05-06 13:36:30,107 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #12 for 17.00462007522583 sec
+2020-05-06 13:36:30,107 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48621044885945547
+2020-05-06 13:36:30,108 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #13
+2020-05-06 13:36:36,638 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [49953 51487 12891 51199 62514  8105 44088 90874 85655 16569 62679 58260
+ 81402 72637   642 41969 82450 59380 61702 25833]
+2020-05-06 13:36:42,389 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #13 for 12.28125 sec
+2020-05-06 13:36:42,389 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48880058866813836
+2020-05-06 13:36:42,389 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #14
+2020-05-06 13:36:52,221 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [58253 67522 61630  9069 79734 83564 83715  8310 94497 75915 74333 57582
+ 84867 59487 22704 27407  2605 39148 50370 33575]
+2020-05-06 13:36:55,660 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #14 for 13.270931005477905 sec
+2020-05-06 13:36:55,660 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4894186902133922
+2020-05-06 13:36:55,661 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #15
+2020-05-06 13:37:00,982 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [84488 30072 22645 48525  1831 66088 44835  9872 76865 90469 73324 21907
+  1458 37516 76802 20200 19516 81609 89398 86417]
+2020-05-06 13:37:09,100 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #15 for 13.439297199249268 sec
+2020-05-06 13:37:09,103 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49103752759381897
+2020-05-06 13:37:09,103 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #16
+2020-05-06 13:37:27,210 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [88640 63398 95500 49989 47815 77108 64809 96502 48436 49658  1896 10833
+ 20621 57829  9047 30458 70749 10178 45315 24464]
+2020-05-06 13:37:38,093 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #16 for 28.989431142807007 sec
+2020-05-06 13:37:38,095 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48956585724797647
+2020-05-06 13:37:38,096 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #17
+2020-05-06 13:37:47,672 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [61947 39714  1295  8322 30411 22178  9994 24819  9648 81014 24131 25758
+ 34908 31433 34684 38724 90478 81976 88642 83836]
+2020-05-06 13:37:51,136 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #17 for 13.040163040161133 sec
+2020-05-06 13:37:51,137 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4913907284768212
+2020-05-06 13:37:51,137 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #18
+2020-05-06 13:37:56,559 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [35388 20800 44685 14239 79085 66879 38080 89290 50068 26003 62864  4909
+ 82175 60373 15750 10030 68764 43056 45105 81097]
+2020-05-06 13:38:02,793 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #18 for 11.65623426437378 sec
+2020-05-06 13:38:02,794 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49118469462840325
+2020-05-06 13:38:02,794 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #19
+2020-05-06 13:38:07,568 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 7292 30036 67152 42690 82273 74475 55714 84649 86462 19561 90061 27417
+ 64842 70573 49644  5430 76596 28319 26505 87863]
+2020-05-06 13:38:11,722 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #19 for 8.927795886993408 sec
+2020-05-06 13:38:11,723 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48997792494481235
+2020-05-06 13:38:11,723 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #20
+2020-05-06 13:38:16,669 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [44837 36604 95028 51649 89492 46569 95232 15489 40494 91793  2443 53066
+ 12016 76840 56673 46975 55245 30355 77388 18442]
+2020-05-06 13:38:21,663 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #20 for 9.939544916152954 sec
+2020-05-06 13:38:21,663 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49071376011773365
+2020-05-06 13:38:21,666 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 20 saved
+2020-05-06 13:38:21,666 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #21
+2020-05-06 13:38:26,333 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [17557 72542 37614  5035 33267  5371 68446 82856 25015 22352 67224 12948
+ 26236 80128 65244 77126 28897   434 86722 34760]
+2020-05-06 13:38:30,735 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #21 for 9.068888187408447 sec
+2020-05-06 13:38:30,736 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49309786607799855
+2020-05-06 13:38:30,736 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #22
+2020-05-06 13:38:36,132 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [27709  1264 39184 43750 51623 14404 37626 21714 52113 49746  6360 73072
+ 39649  8772 81037 84720 62115 83589 30024  3088]
+2020-05-06 13:38:41,096 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #22 for 10.359496116638184 sec
+2020-05-06 13:38:41,097 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4952759381898455
+2020-05-06 13:38:41,097 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #23
+2020-05-06 13:38:46,359 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [37778 87478 69618 10366 77030 75560 61554 74343 14816 57059 63951 36408
+ 55958 43862 46793 29731 27238 18749 94863 93382]
+2020-05-06 13:38:51,437 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #23 for 10.339804887771606 sec
+2020-05-06 13:38:51,438 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4936865342163355
+2020-05-06 13:38:51,438 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #24
+2020-05-06 13:38:56,323 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [20342 39512 53497 58400 34085 63358 47833 82939 60361 97306 75206 93960
+ 42219 16708 71061 10709 28372 37937 46349 88136]
+2020-05-06 13:39:01,264 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #24 for 9.826171875 sec
+2020-05-06 13:39:01,265 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49642384105960263
+2020-05-06 13:39:01,265 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #25
+2020-05-06 13:39:05,915 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 8058 89062 47257  1579 88755 53054 54261 11044 25937 70014 30671 46618
+ 66063 39074 50608 46313 14366 57664 23273 64660]
+2020-05-06 13:39:09,035 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #25 for 7.76992392539978 sec
+2020-05-06 13:39:09,036 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49763061074319354
+2020-05-06 13:39:09,036 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #26
+2020-05-06 13:39:13,767 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [65451 78244  6204 80742  7324 17490 21490  4786 92375 26098 75673 37625
+ 55477 59092 63186  5911 72688 45697 27863 89014]
+2020-05-06 13:39:17,032 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #26 for 7.996009826660156 sec
+2020-05-06 13:39:17,033 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49495217071376013
+2020-05-06 13:39:17,033 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #27
+2020-05-06 13:39:22,449 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [18187 40470  9584 58319 87794 94678 64873 25798 43343 86218 30333 50138
+ 61005 74632 39223 90904 43727 36928 28484  9405]
+2020-05-06 13:39:26,007 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #27 for 8.974399089813232 sec
+2020-05-06 13:39:26,009 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49869021339220015
+2020-05-06 13:39:26,009 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #28
+2020-05-06 13:39:31,522 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [76024  1107 84583 92204 99207 91035 87946  8853 69338 43887 45544 80054
+ 92131 33556 76595 80690 76909 23082 47551 64392]
+2020-05-06 13:39:37,080 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #28 for 11.071409940719604 sec
+2020-05-06 13:39:37,083 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4981898454746137
+2020-05-06 13:39:37,083 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #29
+2020-05-06 13:39:44,298 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 9155 31560 38967 78510 36602 72372 74442 89113 79743 30708 24311 88737
+  1417 55004 62956 99028 60591 61879 32005 73343]
+2020-05-06 13:39:49,450 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #29 for 12.367250919342041 sec
+2020-05-06 13:39:49,451 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4966887417218543
+2020-05-06 13:39:49,451 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #30
+2020-05-06 13:39:54,488 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [51247  8732 97368 37029 97957  3991 22147 80029 48864 91594 64228 83320
+ 14245 75558 68444    49 57629 17913 45109 53611]
+2020-05-06 13:40:00,325 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #30 for 10.873637914657593 sec
+2020-05-06 13:40:00,326 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49683590875643857
+2020-05-06 13:40:00,328 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 30 saved
+2020-05-06 13:40:00,328 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #31
+2020-05-06 13:40:11,398 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [24792 74185 81539 46477 80968 46212  3915 45194  3358 49711 52609 15690
+ 37985 86323 49038 61742 97583 31515 43591 76835]
+2020-05-06 13:40:14,834 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #31 for 14.506464958190918 sec
+2020-05-06 13:40:14,835 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49648270787343635
+2020-05-06 13:40:14,835 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #32
+2020-05-06 13:40:19,519 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [66824 42410  5868 75152 24083 95180 21279 92825 64653 38232 54233 77476
+ 92028 43080 30277 73747  1544 54852 90376 14902]
+2020-05-06 13:40:22,938 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #32 for 8.10286283493042 sec
+2020-05-06 13:40:22,939 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49524650478292864
+2020-05-06 13:40:22,939 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #33
+2020-05-06 13:40:29,669 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [17652 13758 74130 44618 36216 80292 28460 58705 17054 49828 31961  9986
+ 18594 70638 69351 25533  4891 56717 34249 78751]
+2020-05-06 13:40:40,367 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #33 for 17.427937984466553 sec
+2020-05-06 13:40:40,368 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4972774098601913
+2020-05-06 13:40:40,369 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #34
+2020-05-06 13:40:51,785 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 7579 74951 33470 55345 51107 91412 65048 24451 25341 58862 84638 46961
+ 97784 73937 16704 59781 75390 69899 15112 20313]
+2020-05-06 13:40:56,868 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #34 for 16.499300956726074 sec
+2020-05-06 13:40:56,868 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49792494481236205
+2020-05-06 13:40:56,868 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #35
+2020-05-06 13:41:02,558 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [44533 42441 60298 23287 68206 67895 32999 85278 47110 13768 66728 26578
+ 93844  8446 11467 95994 62836 15277 31277 25724]
+2020-05-06 13:41:09,420 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #35 for 12.551958084106445 sec
+2020-05-06 13:41:09,421 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49718910963944074
+2020-05-06 13:41:09,421 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #36
+2020-05-06 13:41:17,518 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 5724 70730 70568 64732 18558 94100 98353 81654 42260  9334  6704 36201
+ 15431 81536 93358 59506 27115  9702 27368 12501]
+2020-05-06 13:41:22,282 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #36 for 12.860785007476807 sec
+2020-05-06 13:41:22,282 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4969830757910228
+2020-05-06 13:41:22,282 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #37
+2020-05-06 13:41:34,680 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [47493 29845  3003 77186 76370 18509 32125 21941 51041 94643 50916 52143
+ 79174 24247  9993 30484 91360 79639   961 23795]
+2020-05-06 13:41:42,524 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #37 for 20.24190592765808 sec
+2020-05-06 13:41:42,524 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49869021339220015
+2020-05-06 13:41:42,524 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #38
+2020-05-06 13:41:47,764 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [69337 73567   123 59878 61200 70782 81183 64775 10917 76755 61108 81446
+ 31599 22177 23773 33672 87512 80446 51839 84302]
+2020-05-06 13:41:53,311 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #38 for 10.786792993545532 sec
+2020-05-06 13:41:53,311 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49624724061810155
+2020-05-06 13:41:53,311 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #39
+2020-05-06 13:41:58,168 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [35167   935 79381 50663 25603 84167 32800 28752 83105 85062 10606  8550
+ 72009 86451 45005 40127 10467 13293 89500 45832]
+2020-05-06 13:42:03,240 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #39 for 9.928301095962524 sec
+2020-05-06 13:42:03,240 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49630610743193526
+2020-05-06 13:42:03,240 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #40
+2020-05-06 13:42:08,192 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [84653 48095  4280 64534  2834 82174 65621 97725 17989 71978 67553 43712
+ 21020 10220 51736 35118 29365 34667  1686 15645]
+2020-05-06 13:42:12,621 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #40 for 9.380761861801147 sec
+2020-05-06 13:42:12,621 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.496158940397351
+2020-05-06 13:42:12,624 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 40 saved
+2020-05-06 13:42:12,624 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #41
+2020-05-06 13:42:17,756 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [62293 40941 51709 12727 41901 54367 35847 65523 42825 67265 31095 93529
+  3634 82355 87284 59891 19009 87867 48900 35812]
+2020-05-06 13:42:23,001 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #41 for 10.37660002708435 sec
+2020-05-06 13:42:23,001 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49642384105960263
+2020-05-06 13:42:23,001 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #42
+2020-05-06 13:42:27,943 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [86428 58445   759 60282 26559 71833 31183 21845 37729 18700  4160 93131
+ 14847 20722 60985 62147 30486 35904 96235 75622]
+2020-05-06 13:42:33,041 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #42 for 10.039359092712402 sec
+2020-05-06 13:42:33,041 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4960412067696836
+2020-05-06 13:42:33,041 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #43
+2020-05-06 13:42:38,168 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [33625 57893   237  9415 63111 82524 30194 32610 47191 24601 33050  9847
+ 42653 30760 85410 89730 78448 26061 80635 22995]
+2020-05-06 13:42:42,184 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #43 for 9.142320156097412 sec
+2020-05-06 13:42:42,184 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49362766740250186
+2020-05-06 13:42:42,184 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #44
+2020-05-06 13:42:46,712 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [79590 76436 92383 58490 63110 41206 66372 89699 93530 70797 69751 19530
+ 84964 63479 87869 35993 67638 33414 73203 53336]
+2020-05-06 13:42:49,952 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #44 for 7.767495155334473 sec
+2020-05-06 13:42:49,952 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49350993377483443
+2020-05-06 13:42:49,952 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #45
+2020-05-06 13:42:54,557 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 9635 86280 58923 29941 58098 59658 73415 13217 26171  2688 33625 36277
+ 57802  4370 81374 67270 39444  3821 43273 96468]
+2020-05-06 13:42:57,818 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #45 for 7.8655290603637695 sec
+2020-05-06 13:42:57,818 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49739514348785874
+2020-05-06 13:42:57,818 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #46
+2020-05-06 13:43:03,318 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [31665 19264 10656 68177 17008 73814 78439 27102 62049 37909 64523  7919
+ 73543 81737 55977 77175 33064 41535 90911 27584]
+2020-05-06 13:43:07,130 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #46 for 9.311723709106445 sec
+2020-05-06 13:43:07,130 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49892568064753495
+2020-05-06 13:43:07,131 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #47
+2020-05-06 13:43:12,016 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [72567 31158 20953 87067 65868  5513 46290 41611 74826  1880 74127 67702
+ 39931 27715 21092 39144 64988 97081 65261 74370]
+2020-05-06 13:43:16,022 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #47 for 8.891878366470337 sec
+2020-05-06 13:43:16,023 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5017218543046358
+2020-05-06 13:43:16,023 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #48
+2020-05-06 13:43:20,602 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 3412  1930 79607 70591 55879 38995 48383 98381 87949 46793 22093 92515
+  2131 90616 52316 54537 66282 21320 51381 69689]
+2020-05-06 13:43:23,966 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #48 for 7.94323992729187 sec
+2020-05-06 13:43:23,967 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.50027961736571
+2020-05-06 13:43:23,967 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #49
+2020-05-06 13:43:28,628 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [93575 65264 66874  4990 88060 44914 83951 72430 76915 34639 81998 62004
+ 68832 65232 97993 57094 17694 73112 92821 57511]
+2020-05-06 13:43:32,027 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #49 for 8.059558153152466 sec
+2020-05-06 13:43:32,027 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5016041206769684
+2020-05-06 13:43:32,027 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #50
+2020-05-06 13:43:36,970 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [62867 63373 65557 76588 18559 74295 89705  4866 16519 79785 33833 19803
+ 57617 70473 42967 24642 32860 26696 54780 88519]
+2020-05-06 13:43:44,663 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #50 for 12.635097026824951 sec
+2020-05-06 13:43:44,663 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5010154525386313
+2020-05-06 13:43:44,673 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 50 saved
+2020-05-06 13:43:44,673 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #51
+2020-05-06 13:43:52,738 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [49188 77152 51576 65654 12569 90698 47282 52344 73241 78869 83439 86165
+ 92167 12315 24373 95287 76377 44398 68270 71368]
+2020-05-06 13:43:56,288 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #51 for 11.614542245864868 sec
+2020-05-06 13:43:56,289 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4985724797645327
+2020-05-06 13:43:56,289 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #52
+2020-05-06 13:44:01,644 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [32815 20979 49629 35916 45147  8229 43529 50615 83050 88534 78278 62428
+ 62937 88147 92715 72510 83447 87696 63733 41031]
+2020-05-06 13:44:05,516 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #52 for 9.226780891418457 sec
+2020-05-06 13:44:05,517 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4984253127299485
+2020-05-06 13:44:05,517 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #53
+2020-05-06 13:44:11,292 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [80409 68380 42411 55183 18753 72807 50184 70865 14807  9798 58983 40855
+ 84315 13406 91530 64493 66237 24024 33753 97628]
+2020-05-06 13:44:15,818 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #53 for 10.300678014755249 sec
+2020-05-06 13:44:15,818 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4977483443708609
+2020-05-06 13:44:15,818 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #54
+2020-05-06 13:44:21,321 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [29760 62417 25370 48546 19397 90340 66000 77537 91759 12481 98608 55154
+ 81703 29222 43316 69586 20960 78331 21029 10115]
+2020-05-06 13:44:27,418 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #54 for 11.599968194961548 sec
+2020-05-06 13:44:27,419 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4968947755702723
+2020-05-06 13:44:27,419 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #55
+2020-05-06 13:44:32,935 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [55201  1395 55373 80256 17634 20534 17091 24365 82352 33793 84661 45203
+ 19455  8741 43046 91164 96468 92380 68730 41348]
+2020-05-06 13:44:42,124 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #55 for 14.704158067703247 sec
+2020-05-06 13:44:42,125 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4983664459161148
+2020-05-06 13:44:42,125 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #56
+2020-05-06 13:44:53,045 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [13838 17878 62450 37030 31046  7113 25604 36799 76590 29581 57956 80850
+ 16859 59969 22504 75595 68625  8454  1204  1780]
+2020-05-06 13:44:58,429 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #56 for 16.30399489402771 sec
+2020-05-06 13:44:58,430 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4984841795437822
+2020-05-06 13:44:58,430 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #57
+2020-05-06 13:45:07,645 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [30324 25152  3470 94059  7708 81805 13319 24519 63898 75855 37890 36754
+ 71465 56096 11286 87592 26927 15720 50677 50964]
+2020-05-06 13:45:12,024 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #57 for 13.593883037567139 sec
+2020-05-06 13:45:12,025 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5021633554083885
+2020-05-06 13:45:12,025 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #58
+2020-05-06 13:45:18,395 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [94442 82428 43192 45721 27570 70804 39004 16577 68866 30767  6984 84703
+ 39922 23431  2517 60918 81820 20422 69183 95638]
+2020-05-06 13:45:26,551 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #58 for 14.526047945022583 sec
+2020-05-06 13:45:26,552 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4995732155997057
+2020-05-06 13:45:26,552 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #59
+2020-05-06 13:45:32,409 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [71871 81746 49097 70320 97902 34510 94177 63265 30159  8411 44155 33650
+  6866 59158 32847  7728 96918 37330 19501 80262]
+2020-05-06 13:45:40,191 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #59 for 13.639656782150269 sec
+2020-05-06 13:45:40,192 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.499896983075791
+2020-05-06 13:45:40,193 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #60
+2020-05-06 13:45:47,963 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [11881 36252 66380 41546 51308 61984 60370  9333 71004 31448 10022 10328
+  4132 50977 14869 36918  3049 11085 85249 32526]
+2020-05-06 13:45:56,609 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #60 for 16.4157931804657 sec
+2020-05-06 13:45:56,611 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4991905813097866
+2020-05-06 13:45:56,622 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 60 saved
+2020-05-06 13:45:56,622 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #61
+2020-05-06 13:46:05,697 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [77188 42482  1141 10841 68393 14032 36842 70799 91752 22476 82660 84622
+ 23021 60126 86864 67232 60944 84281 80017 58156]
+2020-05-06 13:46:10,171 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #61 for 13.548176050186157 sec
+2020-05-06 13:46:10,171 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5017512877115526
+2020-05-06 13:46:10,171 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #62
+2020-05-06 13:46:15,727 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 5438 75422 49799 80654 30737  5639 14596 36140 74929  4965 49572 98704
+ 97051 93129  8318 22280  5746 87588 62796 60209]
+2020-05-06 13:46:21,956 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #62 for 11.78446078300476 sec
+2020-05-06 13:46:21,957 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5013980868285504
+2020-05-06 13:46:21,957 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #63
+2020-05-06 13:46:26,785 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 5567 88563 70738 53151 71302  9415 75683 11182 94446 51057 93361 39439
+ 15978 67993 89325 75979 29307  3548 50333 69922]
+2020-05-06 13:46:30,316 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #63 for 8.35859489440918 sec
+2020-05-06 13:46:30,317 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5037821927888153
+2020-05-06 13:46:30,317 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #64
+2020-05-06 13:46:36,026 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [76865 13379 44284 45689 39211 64898 93384 59423 37919 12626  8822 84930
+ 61457 82301 96334 25240 51034 96099 40854 84350]
+2020-05-06 13:46:44,137 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #64 for 13.820450067520142 sec
+2020-05-06 13:46:44,138 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5046651949963208
+2020-05-06 13:46:44,138 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #65
+2020-05-06 13:46:49,372 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [43106 86402 78340 70376 91194 80854 89912 62024 65795 11920 82481 42791
+ 89138 11198 34971  3965 37010 54593 48629 31272]
+2020-05-06 13:46:56,338 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #65 for 12.199195861816406 sec
+2020-05-06 13:46:56,338 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5049889624724062
+2020-05-06 13:46:56,339 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #66
+2020-05-06 13:47:01,171 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [75485 60223 75329 61151 96835 29248 12930 54295 93412 49630 65395 75201
+ 36265  6036 47095 92790 50094 50501 68700 24310]
+2020-05-06 13:47:05,387 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #66 for 9.04869294166565 sec
+2020-05-06 13:47:05,388 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5003090507726269
+2020-05-06 13:47:05,388 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #67
+2020-05-06 13:47:09,891 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 6392 12327 64171 72774 57472    34 88855 74670 42720 38258 82077 16894
+ 29627 64838 87675 84603 63551  3880 90372 79727]
+2020-05-06 13:47:16,015 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #67 for 10.626327753067017 sec
+2020-05-06 13:47:16,016 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.49998528329654157
+2020-05-06 13:47:16,017 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #68
+2020-05-06 13:47:33,671 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [51788 63834 28513 79154 13446 32318 17025 22066 62603 91521 16093 17229
+ 20033 50361 16741 36945 23735 43874 23021 76055]
+2020-05-06 13:47:43,884 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #68 for 27.86652708053589 sec
+2020-05-06 13:47:43,885 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5029580573951435
+2020-05-06 13:47:43,886 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #69
+2020-05-06 13:47:51,589 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [62715 24219 17736 19267 52344 30071 79672 61330 69428   473 26979 78499
+ 85396 72937  5363 51458 28442 88876 92428 49334]
+2020-05-06 13:47:59,260 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #69 for 15.37311601638794 sec
+2020-05-06 13:47:59,264 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5058719646799117
+2020-05-06 13:47:59,264 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #70
+2020-05-06 13:48:10,303 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [82568 14260 28864  5893 92525 49848 93002 25368 19368 22816 48214 60642
+ 98390 29592 47097 57321  4002 84117 87915  1127]
+2020-05-06 13:48:17,060 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #70 for 17.79564905166626 sec
+2020-05-06 13:48:17,060 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5046651949963208
+2020-05-06 13:48:17,063 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 70 saved
+2020-05-06 13:48:17,063 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #71
+2020-05-06 13:48:24,911 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [21767 35452 40584 37380 73843 54902 25377 80846 44306 16418 59051 90471
+ 41388 15799 81541 53410 48478 12216 27502  7007]
+2020-05-06 13:48:32,007 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #71 for 14.944137811660767 sec
+2020-05-06 13:48:32,007 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5042531272994849
+2020-05-06 13:48:32,008 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #72
+2020-05-06 13:48:40,905 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [88312 45691 53785 88478 88058 31105 78986 17565 38857 22936 47477 57187
+ 18647 33892 15201 79975  2192 80880 62181   980]
+2020-05-06 13:48:47,738 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #72 for 15.730272054672241 sec
+2020-05-06 13:48:47,738 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5058719646799117
+2020-05-06 13:48:47,739 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #73
+2020-05-06 13:48:57,610 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 7662 91948 74077 57180 43173 97141  2477 78084 82163 92229 80478  8546
+ 93824 71455 95309 15168 45386  2861  5043 47080]
+2020-05-06 13:49:08,501 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #73 for 20.761093139648438 sec
+2020-05-06 13:49:08,502 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5072847682119205
+2020-05-06 13:49:08,503 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #74
+2020-05-06 13:49:33,218 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [48349 41502 77028 58327 19045 11913 89160  1486 68388 15113 11674 95635
+  9751 44600 80791 76172 63830 91589 50893 63222]
+2020-05-06 13:49:48,264 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #74 for 39.759557008743286 sec
+2020-05-06 13:49:48,267 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5040176600441502
+2020-05-06 13:49:48,269 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #75
+2020-05-06 13:50:07,763 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [12804 88975 83673 14121 23034 60166 58363  6582 70704 53160 64770 51935
+ 23066 68752 49916 12399 64798 39060  3479 21830]
+2020-05-06 13:50:17,798 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #75 for 29.529497861862183 sec
+2020-05-06 13:50:17,798 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5062840323767476
+2020-05-06 13:50:17,799 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #76
+2020-05-06 13:50:40,649 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [23631 79011 77703 84016 46564 71026  2328 16957 73113 30986 81042 98230
+ 85017 47616 35018 67408 52804 76319 20115 58455]
+2020-05-06 13:50:53,365 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #76 for 35.56625413894653 sec
+2020-05-06 13:50:53,367 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5041353936718175
+2020-05-06 13:50:53,367 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #77
+2020-05-06 13:51:10,609 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [37467  6112 84199 44290 85321 47541 50859 89417  9752 43181 54683 98003
+ 84456 95189 27201 23934 57038 14399 95359 88227]
+2020-05-06 13:51:20,115 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #77 for 26.74722909927368 sec
+2020-05-06 13:51:20,115 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5056070640176601
+2020-05-06 13:51:20,115 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #78
+2020-05-06 13:51:32,185 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [61140 92250 23404 31560  1996 78778 50216 46647 96389 48821 85424 26162
+ 57930 71735 15169 69331 23833 60503 56743 68101]
+2020-05-06 13:51:42,455 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #78 for 22.339391946792603 sec
+2020-05-06 13:51:42,455 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5066961000735836
+2020-05-06 13:51:42,455 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #79
+2020-05-06 13:51:49,020 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [17099 31557 11457  3142 66520 58358 87468 74994 17047   950 80921 52606
+ 89810 22643  2312 84017 25817 79657 68129 76821]
+2020-05-06 13:51:55,949 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #79 for 13.493367910385132 sec
+2020-05-06 13:51:55,949 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5081089036055924
+2020-05-06 13:51:55,949 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #80
+2020-05-06 13:52:04,276 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [24393 98126 59254 70251 18697  2011 78705 69075 74223 81342 37494 22752
+ 53586 46988 91629 38428 86841 14185  3321 45175]
+2020-05-06 13:52:09,129 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #80 for 13.179370880126953 sec
+2020-05-06 13:52:09,129 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.508579838116262
+2020-05-06 13:52:09,131 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 80 saved
+2020-05-06 13:52:09,132 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #81
+2020-05-06 13:52:15,119 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [56787 53041 30606 54422  5560 24689  2197 68096 29217 47042 42974 49909
+ 55211 84467 88605 55525 65448 19760 64681 25258]
+2020-05-06 13:52:23,536 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #81 for 14.40408992767334 sec
+2020-05-06 13:52:23,538 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5081972038263429
+2020-05-06 13:52:23,539 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #82
+2020-05-06 13:52:33,079 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [72453 40393 48704 20211 13879 21528 78626 33547 61637 57210 51681  1137
+ 71691 22321 45890 78250 50078 30933 47838 88006]
+2020-05-06 13:52:40,001 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #82 for 16.46214985847473 sec
+2020-05-06 13:52:40,003 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5068432671081677
+2020-05-06 13:52:40,003 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #83
+2020-05-06 13:52:49,138 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 3249 21602 62960 47889 29422 63638 22301 14012 53657 58170 56032 36012
+ 61679 87368 89664 87695 84220 49775 36161 50662]
+2020-05-06 13:52:54,200 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #83 for 14.196460962295532 sec
+2020-05-06 13:52:54,201 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5069021339220015
+2020-05-06 13:52:54,202 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #84
+2020-05-06 13:53:00,314 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 8364 49383 69613 47009 36395 65645 32277 47692 60599 25811  6347 40579
+  3575 72041   865 86315 53413 90270 72660 41616]
+2020-05-06 13:53:07,031 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #84 for 12.82948613166809 sec
+2020-05-06 13:53:07,033 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5066372332597499
+2020-05-06 13:53:07,035 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #85
+2020-05-06 13:53:16,278 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [41956 47321 87098 57538 53334 93177 65678 84163 39754 20808  1718 19560
+ 83555 51397 92580 58592 49848 75604 52667  8558]
+2020-05-06 13:53:19,904 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #85 for 12.867960929870605 sec
+2020-05-06 13:53:19,904 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5079028697571744
+2020-05-06 13:53:19,904 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #86
+2020-05-06 13:53:24,668 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [73355 71507 61944 42435  8632 12551 22363 66026 72833 94622 50073 47561
+ 84014 90869 71692 61167 31623 50871 93398  4396]
+2020-05-06 13:53:29,444 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #86 for 9.540407180786133 sec
+2020-05-06 13:53:29,446 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5081677704194261
+2020-05-06 13:53:29,446 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #87
+2020-05-06 13:53:34,940 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [72190 88458 19043 75515  4643 82047 14328 36874 24629 51780 95236 74087
+ 97607 30127 55163 20171 63894 68954 26750 84368]
+2020-05-06 13:53:43,171 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #87 for 13.725318908691406 sec
+2020-05-06 13:53:43,172 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5068138337012509
+2020-05-06 13:53:43,486 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #88
+2020-05-06 13:54:01,626 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [45694 37069 54932 11092   296 54751 66175 72890 35686 85364  1505 14391
+ 57651 44097 59970  6216 86883 13172 61215 10608]
+2020-05-06 13:54:12,204 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #88 for 28.71329975128174 sec
+2020-05-06 13:54:12,205 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5068138337012509
+2020-05-06 13:54:12,205 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #89
+2020-05-06 13:54:19,011 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [75704 62115 78368  7402 17103 94890 61296 10439 52475 75607 34267 88227
+  2055 30426 55848 54972 48442 97743 79280 14474]
+2020-05-06 13:54:28,530 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #89 for 16.32519507408142 sec
+2020-05-06 13:54:28,531 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5094922737306843
+2020-05-06 13:54:28,531 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #90
+2020-05-06 13:54:56,067 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [21607 94708   641 83734 48381  1390 29192 29735 87095 87628 76067  2206
+ 69760 77652 50053 77173 54653 66641 16842 84039]
+2020-05-06 13:55:11,325 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #90 for 42.76936197280884 sec
+2020-05-06 13:55:11,340 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5079911699779249
+2020-05-06 13:55:11,365 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 90 saved
+2020-05-06 13:55:11,370 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #91
+2020-05-06 13:55:26,282 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [93380 57931 38401 13298  3686 77167 43893 73084 14677 50277 96368 37197
+ 88335 84911 75577 88876 65702   514 37603 58721]
+2020-05-06 13:55:39,732 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #91 for 28.361575841903687 sec
+2020-05-06 13:55:39,735 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5033995584988963
+2020-05-06 13:55:39,749 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #92
+2020-05-06 13:55:58,983 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [88422 54677 19122 12432 28453 98092 20644 58261 59245  6704 91836 30220
+   790 96260 44245 75711 95607 53744 97055 74271]
+2020-05-06 13:56:07,715 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #92 for 27.965065956115723 sec
+2020-05-06 13:56:07,715 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5043414275202355
+2020-05-06 13:56:07,715 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #93
+2020-05-06 13:56:22,574 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [74352 40610 92720 64916 74554 20156 75117 15251 59817 38267 27361 81405
+ 58457 72249 38496 56135  5359 35388 25494 74117]
+2020-05-06 13:56:30,833 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #93 for 23.117669820785522 sec
+2020-05-06 13:56:30,833 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5057542310522443
+2020-05-06 13:56:30,833 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #94
+2020-05-06 13:56:47,510 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [79536 35460  7060 61766 41527  5524 88881 11176 42836 36628 41212   469
+ 17978 60847 62877 54689 16009 31900 83025 96381]
+2020-05-06 13:56:55,465 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #94 for 24.63134503364563 sec
+2020-05-06 13:56:55,465 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5076968359087565
+2020-05-06 13:56:55,465 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #95
+2020-05-06 13:57:20,083 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [55512  3631 11273 88549 80562  9171 65058 22159 83184 68430 42973 72260
+ 49264 19485 39276 55836 23512 25033 77288 43860]
+2020-05-06 13:57:40,413 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #95 for 44.9466028213501 sec
+2020-05-06 13:57:40,418 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5089919058130978
+2020-05-06 13:57:40,421 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #96
+2020-05-06 13:57:52,620 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [77213 45474 43158 71383 65796 55806 68767 49997 75096 28776 35828 57658
+ 88170 29810 83202 27035 43707 65046  5410 84404]
+2020-05-06 13:57:59,573 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #96 for 19.151264905929565 sec
+2020-05-06 13:57:59,573 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5101986754966887
+2020-05-06 13:57:59,574 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #97
+2020-05-06 13:58:19,118 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [36316 37846 94507 55579 53830 77690 70832  7328 39878 81746 25189 15079
+ 47102 10716 23094 94787 86809 56460 63535 19793]
+2020-05-06 13:58:30,992 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #97 for 31.418659925460815 sec
+2020-05-06 13:58:30,995 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5088741721854305
+2020-05-06 13:58:30,995 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #98
+2020-05-06 13:58:51,752 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [38439 57183 96638 68055 49550 35669 39388 78596 19421 12317 23291 74755
+ 22101 82149 41587 13761 81839 44755  8945 17319]
+2020-05-06 13:59:13,973 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #98 for 42.9729118347168 sec
+2020-05-06 13:59:13,983 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5100809418690213
+2020-05-06 13:59:13,985 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #99
+2020-05-06 13:59:26,922 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [71392 77580 63160 74602 33221 25961 46499 89513 43062 16196 14662 51331
+ 24628 29904 79924 45938 28923 78471 72466  5333]
+2020-05-06 13:59:35,404 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #99 for 21.418296098709106 sec
+2020-05-06 13:59:35,406 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5099043414275203
+2020-05-06 13:59:35,406 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #100
+2020-05-06 13:59:48,771 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [14797  4817 43641 39919   621 30141 31069 74807 84391 83079 84764 58004
+ 74106 54790 57590 55826 89119 40546 61825 76845]
+2020-05-06 13:59:56,407 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #100 for 21.000508785247803 sec
+2020-05-06 13:59:56,407 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5085209713024282
+2020-05-06 13:59:56,410 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 100 saved
+2020-05-06 13:59:56,410 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #101
+2020-05-06 14:00:08,848 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [84522  8315 54371 94413 18880 30919 65428 48264 54321 42539 35956 92168
+ 10990  3298 47861 25016  9464 10289 92118  4400]
+2020-05-06 14:00:17,857 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #101 for 21.446473360061646 sec
+2020-05-06 14:00:17,859 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5074025018395879
+2020-05-06 14:00:17,860 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #102
+2020-05-06 14:00:30,669 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [91002 40115 64120  7648 70259 96736  6480 80984  4373 87612 80508 78461
+ 25819 30214 76373 86613 21604 93245 52799  4302]
+2020-05-06 14:00:37,708 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #102 for 19.847947120666504 sec
+2020-05-06 14:00:37,708 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5103164091243562
+2020-05-06 14:00:37,709 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #103
+2020-05-06 14:00:45,636 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [20464 29907 13461 43265 34569 24077 55318 17928  9392 46597 55997 23651
+ 67959 71441 90767 17051 18877 72195 31222 36276]
+2020-05-06 14:00:53,683 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #103 for 15.97322130203247 sec
+2020-05-06 14:00:53,683 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5101103752759382
+2020-05-06 14:00:53,684 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #104
+2020-05-06 14:01:02,503 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [87538  1210 75102 11213 80647 38561 48461  8449 17674 20245 71485 85443
+ 10059 16625   629 66268 31702 92273 93113 26837]
+2020-05-06 14:01:10,021 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #104 for 16.335505962371826 sec
+2020-05-06 14:01:10,022 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5084032376747608
+2020-05-06 14:01:10,024 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #105
+2020-05-06 14:01:21,711 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [91029 16889 39455 64460  8731 88342 87260  2441 74084 96367 69553   534
+ 35841 29614 79635  7570 60990 89382 88630 62656]
+2020-05-06 14:01:27,205 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #105 for 17.181806087493896 sec
+2020-05-06 14:01:27,206 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5122295805739514
+2020-05-06 14:01:27,206 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #106
+2020-05-06 14:01:34,726 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [84496 39903 35942 77273 30930 62759 24357  3253 27027 39581 75671 57118
+  8224 26200 28219 95991 19366 80622 64082 48123]
+2020-05-06 14:01:44,765 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #106 for 17.5570068359375 sec
+2020-05-06 14:01:44,770 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5121707137601177
+2020-05-06 14:01:44,770 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #107
+2020-05-06 14:01:56,136 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [18114 13442  8744 70573 53743 19725 47985 90021 54911 90633 60425    72
+ 61818 81656 10847 79154 10978 74967 87974 33762]
+2020-05-06 14:02:01,197 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #107 for 16.426363945007324 sec
+2020-05-06 14:02:01,198 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.512317880794702
+2020-05-06 14:02:01,198 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #108
+2020-05-06 14:02:08,820 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [68991 39641 31610 47696 25692 76311 37639 70735 50512  3527 73267 23744
+ 53887 85611 19417 69770 72402 57726 24098 19910]
+2020-05-06 14:02:15,719 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #108 for 14.52039098739624 sec
+2020-05-06 14:02:15,721 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5093451066961001
+2020-05-06 14:02:15,721 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #109
+2020-05-06 14:02:25,325 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [72562 76503 47950 57463 81262 72063 54882 64758 65349 71483  6104 82596
+ 54730 53360 60731 71072 14267 53025 94828 29410]
+2020-05-06 14:02:32,420 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #109 for 16.69926905632019 sec
+2020-05-06 14:02:32,421 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5110228108903606
+2020-05-06 14:02:32,421 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #110
+2020-05-06 14:02:50,582 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [79207 40706 22338 33776 39110 95158 54670 21336 15170 82699 96187 59127
+  8825  8136 28772 23777 17451 62840 18220  7705]
+2020-05-06 14:03:02,158 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #110 for 29.73668098449707 sec
+2020-05-06 14:03:02,158 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5135540838852097
+2020-05-06 14:03:02,164 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 110 saved
+2020-05-06 14:03:02,164 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #111
+2020-05-06 14:03:14,401 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [96040 22648 72214 13134 25635 62469 52299 79070  4016 60325 50769 58407
+ 91107  7082 73131 32421 38663 16388 47029 14422]
+2020-05-06 14:03:23,778 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #111 for 21.614482879638672 sec
+2020-05-06 14:03:23,779 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5135835172921266
+2020-05-06 14:03:23,779 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #112
+2020-05-06 14:03:37,073 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [95801 74975 37483 45308  2486 45014 48591 85930 35431   607 33632 58325
+ 77090  1830 36062 89755  4632 95115  3291 37342]
+2020-05-06 14:03:43,966 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #112 for 20.186748027801514 sec
+2020-05-06 14:03:43,966 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5133186166298749
+2020-05-06 14:03:43,966 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #113
+2020-05-06 14:04:02,954 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [65427 52872 57503  6349 75691 63385 26607 56248 24534 95393 57122 81119
+ 94302 60274 92989 27711 60489 24982 15825 54523]
+2020-05-06 14:04:15,571 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #113 for 31.604712963104248 sec
+2020-05-06 14:04:15,572 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5142016188373805
+2020-05-06 14:04:15,573 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #114
+2020-05-06 14:04:32,925 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 6988 17306 86362 87044 35251 66623 59153   288 64706 30357 78766 60598
+ 85464 19871 96920 41500 90704 38762 18311 23631]
+2020-05-06 14:04:41,053 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #114 for 25.479410886764526 sec
+2020-05-06 14:04:41,053 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5148491537895511
+2020-05-06 14:04:41,053 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #115
+2020-05-06 14:04:48,516 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [84296 22416 39915 83817 76160 28783  9069 70043 43187 30896 55925 50469
+ 18269 87091 88342 71344 17365 70852 89320 27137]
+2020-05-06 14:04:54,989 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #115 for 13.936007022857666 sec
+2020-05-06 14:04:54,989 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5140544518027962
+2020-05-06 14:04:54,990 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #116
+2020-05-06 14:05:05,487 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [38531 19350 62415 13676 58322 10694 80599 68203 37390 44795 39450 60834
+   173 94492   387 59212 66738 92775 30388 61019]
+2020-05-06 14:05:12,622 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #116 for 17.631949186325073 sec
+2020-05-06 14:05:12,622 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5149374540103017
+2020-05-06 14:05:12,622 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #117
+2020-05-06 14:05:22,929 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [11587 25279 74527 69111 11251 55565 31564 20962 81214 11869 51487   331
+ 61414 66915 90446 71803  3818 45637 84477 95133]
+2020-05-06 14:05:29,587 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #117 for 16.96473002433777 sec
+2020-05-06 14:05:29,587 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5167328918322296
+2020-05-06 14:05:29,588 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #118
+2020-05-06 14:05:42,954 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [23005 80699 31900 57475 70977 54498 27228 16385 54046  4532 42298 24818
+ 86673 80701 95042 96597 56247 35693 85922 53686]
+2020-05-06 14:05:56,419 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #118 for 26.831175088882446 sec
+2020-05-06 14:05:56,420 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5159381898454746
+2020-05-06 14:05:56,420 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #119
+2020-05-06 14:06:10,208 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [46505 95294 28282 55830 19703 34259 15312 26740 86177 72155 80052 87260
+  3260 52619  8030 86753 18863 82582 79648 68244]
+2020-05-06 14:06:22,623 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #119 for 26.202423095703125 sec
+2020-05-06 14:06:22,623 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5127299484915379
+2020-05-06 14:06:22,624 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #120
+2020-05-06 14:06:40,504 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [59133 49334 49248 82439  3462 24308 25655 80143 77222   738 69924 28684
+ 89269 42700 73559 12748 19353 59135 78934 30968]
+2020-05-06 14:06:54,206 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #120 for 31.58223009109497 sec
+2020-05-06 14:06:54,214 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5132008830022075
+2020-05-06 14:06:54,223 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 120 saved
+2020-05-06 14:06:54,224 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #121
+2020-05-06 14:07:12,921 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [70484 76582 32092 24475 94406 73601 43905 67876 93753 42851 54907 67445
+ 91528 12947 67700 12369 41507 77214 48172 24800]
+2020-05-06 14:07:30,278 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #121 for 36.04906487464905 sec
+2020-05-06 14:07:30,282 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5185871964679911
+2020-05-06 14:07:30,283 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #122
+2020-05-06 14:08:01,238 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [67056 89255 45371  1888 40405 47262 65437 91827  9753 73365  5381 68845
+ 20376 33166 70224 36791  7100  3893 26870 69384]
+2020-05-06 14:08:16,500 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #122 for 46.213255167007446 sec
+2020-05-06 14:08:16,508 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5185871964679911
+2020-05-06 14:08:16,509 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #123
+2020-05-06 14:08:31,084 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [48568 49679 75355 11818 45093 95322 95393 43005 69394 62412 16082 46022
+ 38335 57272 90706 17921 86231 63959 66116 23734]
+2020-05-06 14:08:38,987 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #123 for 22.477899074554443 sec
+2020-05-06 14:08:38,987 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5173215599705666
+2020-05-06 14:08:38,988 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #124
+2020-05-06 14:08:47,541 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [75211 67667 35714 91577 54495 16926 80879 43348 39445 40163 64611 84542
+  5268 70817 70270 79759 67111   595 26380 20065]
+2020-05-06 14:08:54,992 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #124 for 16.004105806350708 sec
+2020-05-06 14:08:54,992 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.519793966151582
+2020-05-06 14:08:54,993 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #125
+2020-05-06 14:09:13,637 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [38405 68999  3426  6629 53921  7960 30776 70780 51463 85902 68446  9397
+ 83625 62401 21844 68365 68018 73701   219 93110]
+2020-05-06 14:09:23,104 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #125 for 28.111398935317993 sec
+2020-05-06 14:09:23,105 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.518616629874908
+2020-05-06 14:09:23,105 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #126
+2020-05-06 14:09:34,570 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [22198 21893  7876 93143 73712 55225 69055 87269  3352 29538 43187 15656
+ 54592 55904 59348 21914 43998 90427 53864 47699]
+2020-05-06 14:09:42,346 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #126 for 19.24075198173523 sec
+2020-05-06 14:09:42,346 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5201177336276674
+2020-05-06 14:09:42,346 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #127
+2020-05-06 14:09:55,482 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [26456 88643 79296 10424 18126 25429 63122 31443 78012 56458 16515 29951
+ 24133 80435 91956 90865 59710 28474 51162 42021]
+2020-05-06 14:10:03,885 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #127 for 21.538844108581543 sec
+2020-05-06 14:10:03,886 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5171743929359823
+2020-05-06 14:10:03,886 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #128
+2020-05-06 14:10:15,704 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [86060 16008 21149 44337 58980 68240   876 49983 75564 14074 86994 86726
+ 74521 61713 48872 50244 96876 30573 24039 64001]
+2020-05-06 14:10:22,637 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #128 for 18.750926733016968 sec
+2020-05-06 14:10:22,637 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5161736571008094
+2020-05-06 14:10:22,637 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #129
+2020-05-06 14:10:30,672 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [71634 23680 20083 57104 37073 32845 30029 91194 75576 40863 30557  3429
+ 21726 14389 47273 29356 36612 53112 27434 78948]
+2020-05-06 14:10:40,857 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #129 for 18.218649864196777 sec
+2020-05-06 14:10:40,859 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5165562913907285
+2020-05-06 14:10:40,861 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #130
+2020-05-06 14:10:57,451 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 2670  9327 86613 69059 52312 38948 93131 68148 27293 56917 91581  3489
+ 24617 55508 47823 48108 80113 29996 28619 53935]
+2020-05-06 14:11:08,478 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #130 for 27.61664581298828 sec
+2020-05-06 14:11:08,479 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5168211920529802
+2020-05-06 14:11:08,481 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 130 saved
+2020-05-06 14:11:08,481 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #131
+2020-05-06 14:11:22,842 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [87780 91642 30013 20430 70900 57380 27223 35786 67061 81625 55472 54102
+ 57986 31949 71712 69288 83194 67414 66174 65530]
+2020-05-06 14:11:31,873 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #131 for 23.39137887954712 sec
+2020-05-06 14:11:31,873 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5173509933774835
+2020-05-06 14:11:31,873 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #132
+2020-05-06 14:11:47,724 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [69064 47351  3467 67218 47543 33224 30435 14786 45465 87711 46698 55320
+ 92919 85750 17793 39142 56152 70808 43429 69045]
+2020-05-06 14:11:58,769 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #132 for 26.895312070846558 sec
+2020-05-06 14:11:58,770 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5182634289919058
+2020-05-06 14:11:58,770 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #133
+2020-05-06 14:12:17,801 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [85788 48967 29336 80830 70802 55961  3211 18780 25820 97128 31976 30167
+ 67874 56790  3540 53912 20283 29368 64082 17508]
+2020-05-06 14:12:26,661 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #133 for 27.890897035598755 sec
+2020-05-06 14:12:26,719 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5205003679175865
+2020-05-06 14:12:26,719 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #134
+2020-05-06 14:12:37,312 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [35092 38703 65440 79071 63745 56070 94015 73997 39752 91684 86155 11205
+ 70608 60750 22321 13578 77320 31802 68416 30278]
+2020-05-06 14:12:49,544 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #134 for 22.824283123016357 sec
+2020-05-06 14:12:49,545 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5186754966887417
+2020-05-06 14:12:49,545 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #135
+2020-05-06 14:13:09,189 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [81812 67181 61411 18352 40967 91210 77241 84405 23310 47973 95663 88027
+  1405 13443 90408 58671 70826 53187 30280 18534]
+2020-05-06 14:13:30,149 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #135 for 40.590115785598755 sec
+2020-05-06 14:13:30,198 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5160853568800589
+2020-05-06 14:13:30,206 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #136
+2020-05-06 14:13:58,612 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [23069 17313 50016 76492 22098  6115 56702 54286  9490 84535 53499 34942
+ 68443 28874 21807 55446 44183 18189  1422 11681]
+2020-05-06 14:14:23,407 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #136 for 53.18685483932495 sec
+2020-05-06 14:14:23,483 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.519028697571744
+2020-05-06 14:14:23,490 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #137
+2020-05-06 14:14:41,868 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [65010 73003 96890 30710  3061 39462 44142  6044 17862 51664 18714 86628
+  7000 36121 68431  3583 74360 96638 69834 26099]
+2020-05-06 14:14:53,226 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #137 for 29.73599886894226 sec
+2020-05-06 14:14:53,227 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5202943340691685
+2020-05-06 14:14:53,227 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #138
+2020-05-06 14:15:15,186 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [23633 88613 78249   207  4663 43205 35163 68635 88856 47672 16211 80795
+ 55042 13585 66622 96597 67822 32796 54009 38698]
+2020-05-06 14:15:28,639 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #138 for 35.41137099266052 sec
+2020-05-06 14:15:28,642 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5168800588668139
+2020-05-06 14:15:28,642 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #139
+2020-05-06 14:15:43,421 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [93337 75247 76372 83558 69616   678 55943  4437 40573 22283  9961 77948
+ 93258 51842 55752 49291 77702 55390 36690 12563]
+2020-05-06 14:15:53,732 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #139 for 25.089581966400146 sec
+2020-05-06 14:15:53,733 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5170860927152318
+2020-05-06 14:15:53,733 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #140
+2020-05-06 14:16:04,350 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [27675 66199 63208 86103 40047 82830  8098 58371 34804 92565 28673  9837
+ 92961 34870 83349 16629 76621 12488 30250  5539]
+2020-05-06 14:16:13,102 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #140 for 19.36939001083374 sec
+2020-05-06 14:16:13,105 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5169977924944812
+2020-05-06 14:16:13,116 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 140 saved
+2020-05-06 14:16:13,116 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #141
+2020-05-06 14:16:30,602 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [17321 81931 12043  2368 34867 66160 81899  7913 72160 31996 37094 74339
+ 48079 60460 10278 62501 29607 15018 26080 46196]
+2020-05-06 14:16:48,689 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #141 for 35.55946707725525 sec
+2020-05-06 14:16:48,705 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5190581309786608
+2020-05-06 14:16:48,706 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #142
+2020-05-06 14:17:03,198 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [88579 68128 18743 56118 35764 48742 56196 75259  3537 92842 11607 28619
+ 92644 38804 80085 49922 35303  7311 28737 92199]
+2020-05-06 14:17:11,780 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #142 for 23.07396912574768 sec
+2020-05-06 14:17:11,782 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5162325239146431
+2020-05-06 14:17:11,782 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #143
+2020-05-06 14:17:32,756 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [78698 47513 56960  3139 56138 70755   746 78314 74622 26173 93411 47288
+ 56915 79562 80965 17436 30433 36143 51001 83548]
+2020-05-06 14:17:43,368 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #143 for 31.585996866226196 sec
+2020-05-06 14:17:43,369 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5157321559970567
+2020-05-06 14:17:43,369 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #144
+2020-05-06 14:18:01,040 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [23723 39093 30697 66092 71109 47201 79993 24106 17285 25670 63208  7345
+ 67096 48326 18658 64178 85494 17764 56908 53898]
+2020-05-06 14:18:14,652 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #144 for 31.283374071121216 sec
+2020-05-06 14:18:14,656 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5179102281089036
+2020-05-06 14:18:14,656 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #145
+2020-05-06 14:18:30,266 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [46798 86674 13707 38877 77247 56942 66099 77772 72134  2929 32323 14377
+ 38761 71134 55118 88166 30380 60044   457 61768]
+2020-05-06 14:18:44,484 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #145 for 29.82783317565918 sec
+2020-05-06 14:18:44,485 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5214128035320088
+2020-05-06 14:18:44,486 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #146
+2020-05-06 14:19:08,575 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 1023 19864 64824 60227 50850 92166 21080 30120 33045 24630  5646 96537
+  9104 54262 76066 73140 23617 71130 25400 57537]
+2020-05-06 14:19:24,006 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #146 for 39.519580125808716 sec
+2020-05-06 14:19:24,009 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5175275938189845
+2020-05-06 14:19:24,009 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #147
+2020-05-06 14:19:38,071 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [87169  7667 20001 65097 84944 60929 48261 29757 72187 48112 94907 38217
+ 43129 80486 83829 71153 35010 59523 19456 85339]
+2020-05-06 14:19:54,497 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #147 for 30.486698150634766 sec
+2020-05-06 14:19:54,505 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.522178072111847
+2020-05-06 14:19:54,509 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #148
+2020-05-06 14:20:13,894 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 9173 93633 34822 47291  2651 21924 47070 64191  2184 13657 77619  3548
+  5780 73812 25834   941 72821 37290 70706  1777]
+2020-05-06 14:20:27,111 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #148 for 32.60103917121887 sec
+2020-05-06 14:20:27,113 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5226195732155997
+2020-05-06 14:20:27,113 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #149
+2020-05-06 14:20:42,614 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [47530 90284 65179 66139  3753 27921 45933 79971 73945 38578  4382 55256
+ 30608 74550 56286  6034 36626 85519 15330 64897]
+2020-05-06 14:20:52,339 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #149 for 25.226299047470093 sec
+2020-05-06 14:20:52,340 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5233259749816042
+2020-05-06 14:20:52,340 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #150
+2020-05-06 14:21:02,775 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [31288 39938 39254 91040 32270 38721 60910 64284 16622 71431 61287 58560
+ 34330  9806 42445 28685 24814 94848 12561 45445]
+2020-05-06 14:21:10,984 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #150 for 18.643242120742798 sec
+2020-05-06 14:21:10,986 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5222958057395144
+2020-05-06 14:21:10,994 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 150 saved
+2020-05-06 14:21:10,994 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #151
+2020-05-06 14:21:24,595 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [35685 67899 70735 80754 39317 24244 34712 31494 72966  3575 93653 37492
+ 32893  6840 19061 94036 42041 29236 68404 74368]
+2020-05-06 14:21:34,313 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #151 for 23.3189959526062 sec
+2020-05-06 14:21:34,314 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.52
+2020-05-06 14:21:34,321 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #152
+2020-05-06 14:21:43,783 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [29689  3797 85390 49898 92209 46828 35084 96389 18729 36630 27928 17780
+ 13183 10067 37656 84700 57144  3212 27886 38605]
+2020-05-06 14:21:54,087 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #152 for 19.76471519470215 sec
+2020-05-06 14:21:54,089 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.518233995584989
+2020-05-06 14:21:54,091 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #153
+2020-05-06 14:22:09,585 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [84286 80379 25631 76215 27158  4412 58831 70292 93242 38076 93606 41157
+ 27486 66056 77315 96484 43880 22882 47688  1136]
+2020-05-06 14:22:19,487 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #153 for 25.3955500125885 sec
+2020-05-06 14:22:19,488 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.519793966151582
+2020-05-06 14:22:19,488 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #154
+2020-05-06 14:22:26,173 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [94916 29940 80680 67197 48672 67834 82339  8351 42342 17240 29152 93298
+ 79258 22542 37532  3605 26502  2741 92378 56525]
+2020-05-06 14:22:32,985 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #154 for 13.497264862060547 sec
+2020-05-06 14:22:32,986 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5217365710080942
+2020-05-06 14:22:32,986 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #155
+2020-05-06 14:22:42,255 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [66330  7281 15475 79950 56906 95801 30694  7143 57714 14741 17343 67498
+ 17644 18728 62793 56823 20247 77717 47161 44476]
+2020-05-06 14:22:46,642 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #155 for 13.655891180038452 sec
+2020-05-06 14:22:46,643 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.522560706401766
+2020-05-06 14:22:46,643 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #156
+2020-05-06 14:22:52,918 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [77818 35300  5018 84606 53823  2631 52208 67540 73831 80680 83099 46805
+ 35678 65806 56202 73389 38164  5991  3565 15139]
+2020-05-06 14:23:05,202 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #156 for 18.556627988815308 sec
+2020-05-06 14:23:05,204 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5212950699043414
+2020-05-06 14:23:05,205 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #157
+2020-05-06 14:23:25,953 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [55897 47574 57366 60734 31967 39677 42781 31732 44282 34088 40499 31155
+  1532 29257 49392 58404 18548 68389 36306 30632]
+2020-05-06 14:23:37,614 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #157 for 32.40918517112732 sec
+2020-05-06 14:23:37,615 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5210007358351729
+2020-05-06 14:23:37,615 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #158
+2020-05-06 14:23:57,151 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [33006 75967 17759 73100 18063  5681 54796  2378 66976 67629 37485 88621
+ 95264 93607 22389 11095 65935 29693 84608 23688]
+2020-05-06 14:24:11,607 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #158 for 33.990662813186646 sec
+2020-05-06 14:24:11,609 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5200294334069169
+2020-05-06 14:24:11,611 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #159
+2020-05-06 14:24:26,319 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [76273 93442 36861 11447 84933 31285 85846  8561 43347 51281  3383 33032
+  7425 29928  2562 26049  5109 48860 60681 47391]
+2020-05-06 14:24:34,037 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #159 for 22.425883293151855 sec
+2020-05-06 14:24:34,037 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.518822663723326
+2020-05-06 14:24:34,038 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #160
+2020-05-06 14:24:41,168 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [89079 80287 40929 93993 33249 30714 27597 87373 62700 81777 85839 26171
+ 79556  3640 40390 91325 22645  6435 39372 20999]
+2020-05-06 14:24:51,293 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #160 for 17.255001068115234 sec
+2020-05-06 14:24:51,295 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5195584988962473
+2020-05-06 14:24:51,317 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 160 saved
+2020-05-06 14:24:51,318 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #161
+2020-05-06 14:25:05,043 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [29661 78171 70358 93666 82302 39381 12039 55726 68468 35288 19752 26228
+ 84977 19156 20442 36836  3561 27310 47494 71267]
+2020-05-06 14:25:13,288 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #161 for 21.969815015792847 sec
+2020-05-06 14:25:13,288 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5197056659308315
+2020-05-06 14:25:13,288 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #162
+2020-05-06 14:25:20,617 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [50212 24080  3232 62581 63587 41127 28763 46972 21043  9343 55065 57841
+ 18691 19476 68510 82918 71799 38116 63531 59009]
+2020-05-06 14:25:26,631 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #162 for 13.34226107597351 sec
+2020-05-06 14:25:26,632 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5221486387049301
+2020-05-06 14:25:26,632 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #163
+2020-05-06 14:25:38,236 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [39189 26470 42623 83745 64917 92863 30117  1267 49548 52024 77002 44837
+ 52467 68209 54591 17124 76927 83150 88085 44504]
+2020-05-06 14:25:48,504 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #163 for 21.871669054031372 sec
+2020-05-06 14:25:48,505 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5231788079470199
+2020-05-06 14:25:48,505 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #164
+2020-05-06 14:26:02,683 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [65755 30540 85074 73212 81188  1391  8610 24248  5508 80072 41056 54065
+ 22446 68473 20777 74612 51745 41877 95842  8349]
+2020-05-06 14:26:10,609 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #164 for 22.103380918502808 sec
+2020-05-06 14:26:10,609 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5247682119205298
+2020-05-06 14:26:10,609 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #165
+2020-05-06 14:26:22,359 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [31728 54745 76868 80270 93281 26619 37067 56927 40433 33192 35693 81111
+ 24692 51123 62922  5999 63580 46478  4517  5578]
+2020-05-06 14:26:29,547 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #165 for 18.93795609474182 sec
+2020-05-06 14:26:29,548 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5227961736571008
+2020-05-06 14:26:29,548 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #166
+2020-05-06 14:26:38,013 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [13717 66296 75514  2235 17868  1541 52626 61159   344 55413 63590 87723
+ 92129 32606 89241 25915 92883 35143 70206 70855]
+2020-05-06 14:26:45,676 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #166 for 16.1275851726532 sec
+2020-05-06 14:26:45,676 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5220897718910964
+2020-05-06 14:26:45,676 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #167
+2020-05-06 14:26:53,918 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 8437 60904 68778 48113 71153 62552  7628 70451 67122 16949 49337 35806
+ 90472  3655 34533 53206 83854 15122 22511 93225]
+2020-05-06 14:27:02,111 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #167 for 16.433818817138672 sec
+2020-05-06 14:27:02,111 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5249742457689478
+2020-05-06 14:27:02,112 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #168
+2020-05-06 14:27:21,222 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 8577 53325  8545  3145 76266 15291 56832 74597  3378 92749 73646 93708
+ 63785 58905 68661 46636  2999 82377 35388  5559]
+2020-05-06 14:27:36,566 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #168 for 34.44941020011902 sec
+2020-05-06 14:27:36,576 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5246504782928624
+2020-05-06 14:27:36,578 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #169
+2020-05-06 14:27:54,718 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 2618 54480 22663 17904 70159 21245 42748 67929 41048 24334 88221 56825
+ 80036 65435  5339 63601 71844 49363  8700  7976]
+2020-05-06 14:28:07,397 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #169 for 30.818537950515747 sec
+2020-05-06 14:28:07,399 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5248859455481972
+2020-05-06 14:28:07,399 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #170
+2020-05-06 14:28:24,274 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [80340 21638 72551 51142 54186 46882 66896 74338 79431 25733 36774 81391
+ 91339  7230 27629 20932 10817 17887 72119 95534]
+2020-05-06 14:28:39,324 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #170 for 31.916802167892456 sec
+2020-05-06 14:28:39,333 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5209124356144224
+2020-05-06 14:28:39,346 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 170 saved
+2020-05-06 14:28:39,348 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #171
+2020-05-06 14:28:54,817 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [92534 46201 78115 12304 90754 15623 51144 50712 25229 31731 88868 86114
+  9323 23037 44894 89123 30888 62911 82970  1484]
+2020-05-06 14:29:05,740 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #171 for 26.391822814941406 sec
+2020-05-06 14:29:05,740 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5254157468727005
+2020-05-06 14:29:05,741 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #172
+2020-05-06 14:29:23,253 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [25836 36541 58768 46415 47066 77509 11048 10398 17037  6096  2172 40855
+ 20494 53568 68350 52175 35851 13429 85328 69722]
+2020-05-06 14:29:32,844 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #172 for 27.103375911712646 sec
+2020-05-06 14:29:32,845 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5303311258278146
+2020-05-06 14:29:32,845 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #173
+2020-05-06 14:29:45,354 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [18861 95591 92979 83857  5682 68510 94022 13273  1213 90136 70806 92684
+ 27419 67519  3314 93065 78590 67215 85938 90234]
+2020-05-06 14:29:59,584 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #173 for 26.73700523376465 sec
+2020-05-06 14:29:59,590 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5264459161147903
+2020-05-06 14:29:59,591 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #174
+2020-05-06 14:30:14,686 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [29323 59022 38837 66715 26079 35044 77798 92428 81259 15167 55423  4638
+ 91661 46889  7253 18095 77194 79416 48432 32859]
+2020-05-06 14:30:23,199 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #174 for 23.607707738876343 sec
+2020-05-06 14:30:23,199 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5277998528329654
+2020-05-06 14:30:23,199 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #175
+2020-05-06 14:30:33,272 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 3119 28352 52425 46666 83018 29800 13984 90351 79790 27818 75448 29378
+ 20817 66921 92923 64350 59891 29591 85037 17407]
+2020-05-06 14:30:41,209 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #175 for 18.010125875473022 sec
+2020-05-06 14:30:41,212 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5265342163355409
+2020-05-06 14:30:41,212 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #176
+2020-05-06 14:30:57,620 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [67187 94336 14026 66257 24483  3232 18735 54864  3360 47225 56218 57499
+ 76820 24031 19550 66753 76216 59867 41965 19462]
+2020-05-06 14:31:05,461 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #176 for 24.248950004577637 sec
+2020-05-06 14:31:05,462 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5241206769683591
+2020-05-06 14:31:05,462 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #177
+2020-05-06 14:31:22,309 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 9544 53571 39849  4877 20122  7010 60877 19463 13367 25715 34080 34346
+ 10133 21189 54215 66051 39058  2210 90296 40133]
+2020-05-06 14:31:36,121 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #177 for 30.65351700782776 sec
+2020-05-06 14:31:36,124 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5279175864606328
+2020-05-06 14:31:36,125 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #178
+2020-05-06 14:31:51,932 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [54794 30005 64637 35961  7823 90386 68629 58667 91314 21240 50312 22448
+ 93273 47684 23010 80076 65070 54542 13760 31005]
+2020-05-06 14:32:02,479 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #178 for 26.35171675682068 sec
+2020-05-06 14:32:02,482 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5267696835908756
+2020-05-06 14:32:02,484 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #179
+2020-05-06 14:32:12,061 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [76389 30114  5568 22386 81076 29569 37625  3744 73747 33408 54073 56351
+ 13605 90579 58634 42611 90310 42407 12378  6333]
+2020-05-06 14:32:20,890 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #179 for 18.40578603744507 sec
+2020-05-06 14:32:20,890 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5290066225165563
+2020-05-06 14:32:20,890 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #180
+2020-05-06 14:32:30,532 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [75151 55283 44705 17347 84997 25200 48328 92767 96240  2524 20373 43797
+  5461 83883 12301  5938 12443 30207 74617 86397]
+2020-05-06 14:32:36,240 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #180 for 15.349923133850098 sec
+2020-05-06 14:32:36,240 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5275938189845475
+2020-05-06 14:32:36,247 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 180 saved
+2020-05-06 14:32:36,247 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #181
+2020-05-06 14:32:43,206 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [85876 21688 51902 11882 56159 44422 51005 44016 66395 65194  2664 59078
+ 47306 10999 55763 31578 51861 20050 84717 37709]
+2020-05-06 14:32:50,261 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #181 for 14.013020992279053 sec
+2020-05-06 14:32:50,261 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.526681383370125
+2020-05-06 14:32:50,261 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #182
+2020-05-06 14:33:10,743 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [86308 13221 84091 12710  2990 93288 67378  8072 22521 82085 51670 76793
+  7103 65610 25147  7611  1241 56200 23373 89028]
+2020-05-06 14:33:23,897 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #182 for 33.63453197479248 sec
+2020-05-06 14:33:23,900 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5293303899926417
+2020-05-06 14:33:23,900 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #183
+2020-05-06 14:33:42,385 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [55947 65770  2657 87841 66476 58274 18184 63293 87207 45369 31867 90569
+ 77661  6043 59074 34743 52504 48884 37882 74405]
+2020-05-06 14:33:56,458 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #183 for 32.550678968429565 sec
+2020-05-06 14:33:56,465 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5280941869021339
+2020-05-06 14:33:56,466 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #184
+2020-05-06 14:34:13,464 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [63242 64419 48639 13873 64907  7209 57204 85943 81087 16365 54498 50197
+  8384 18981  5623 14291 25363 65231 37983 66799]
+2020-05-06 14:34:29,048 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #184 for 32.58191800117493 sec
+2020-05-06 14:34:29,049 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5273583517292126
+2020-05-06 14:34:29,050 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #185
+2020-05-06 14:34:40,590 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [54582  1412  3349 41641 89725 63959  4489 25820 48862 84349 53886  8556
+  8569 37149 38609 47325 56243  9095 31954 53387]
+2020-05-06 14:34:49,290 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #185 for 20.24009132385254 sec
+2020-05-06 14:34:49,290 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5266225165562914
+2020-05-06 14:34:49,290 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #186
+2020-05-06 14:35:03,668 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [94229 55998 44027 84637 40126 91347 58115 67887 13011 55211 65236  1834
+ 41236 62661 39519 70666  4795 87383 77069  6972]
+2020-05-06 14:35:10,973 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #186 for 21.682453155517578 sec
+2020-05-06 14:35:10,973 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.527093451066961
+2020-05-06 14:35:10,973 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #187
+2020-05-06 14:35:26,275 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [ 5082 47514 73349 73827 84500 17196 12997  5719 25725 57266  3104 31233
+ 88665 39298  7703 76494 61132 78320 65334 15751]
+2020-05-06 14:35:37,009 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #187 for 26.036240339279175 sec
+2020-05-06 14:35:37,010 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5273583517292126
+2020-05-06 14:35:37,010 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #188
+2020-05-06 14:35:47,933 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [91202 54843 25181 90204 28836  2453 45190 34644  4088 83853 21960 81599
+ 27289 61978 59472 89894 64837 75344  6627 92906]
+2020-05-06 14:35:58,935 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #188 for 21.918934106826782 sec
+2020-05-06 14:35:58,942 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5277704194260485
+2020-05-06 14:35:58,944 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #189
+2020-05-06 14:36:13,052 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [48400 50494  8616 46925 36001 76052   312  2345 47725 91764 31564 19189
+ 40424  9332 62076 23168 15123 83615 60020 87703]
+2020-05-06 14:36:24,436 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #189 for 25.4910089969635 sec
+2020-05-06 14:36:24,437 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.526887417218543
+2020-05-06 14:36:24,437 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #190
+2020-05-06 14:36:38,610 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [25368 63420 83823 53629  3013  3246 57505 61127 29323 26121 36722 28773
+ 85517  9338 73626 66233 51280 55868 70326 52052]
+2020-05-06 14:36:56,207 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #190 for 31.75640082359314 sec
+2020-05-06 14:36:56,231 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5280058866813834
+2020-05-06 14:36:56,265 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - state on step 190 saved
+2020-05-06 14:36:56,270 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #191
+2020-05-06 14:37:09,746 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - query idx: [55671 11329 72064 53572 63893 28216 42304 50863  9095 11127 89079  5963
+ 76854 77732  2606 66976 31741 68119 75961 57745]
+2020-05-06 14:37:19,483 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - finish step #191 for 23.213003158569336 sec
+2020-05-06 14:37:19,483 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - current val_accuracy: 0.5291243561442237
+2020-05-06 14:37:19,483 - exp_torch_topics_ll2.1_margin_n_hidden2_i2000_b20_q200_2 - INFO - start step #192

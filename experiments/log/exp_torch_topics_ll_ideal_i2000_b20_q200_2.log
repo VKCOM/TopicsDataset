@@ -1,0 +1,1239 @@
+2020-05-06 21:14:15,256 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start experiment process
+2020-05-06 21:14:20,553 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - initial val_accuracy: 0.015717439293598236
+2020-05-06 21:14:20,555 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #0
+2020-05-06 21:14:44,523 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [42677  8231 98953 32399 33278 43833 11364   338 33096  5385 64676 67934
+ 16501 65679 83453 65478 44154  1375 98685  3791]
+2020-05-06 21:14:44,562 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25 25]
+2020-05-06 21:15:22,938 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #0 for 62.38021898269653 sec
+2020-05-06 21:15:22,973 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.040676968359087566
+2020-05-06 21:15:23,204 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 0 saved
+2020-05-06 21:15:23,242 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #1
+2020-05-06 21:16:27,576 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [57628 54635 76817  6607 25711 87955 87313 49698 22665 65946 67392  8017
+  7270 17117 49129 39884 16475 22262 43018 71464]
+2020-05-06 21:16:27,613 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [24 25 24 24 24 24 24 24 24 24 24 24 24 25 25 24 25 24 25 25]
+2020-05-06 21:16:56,361 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #1 for 93.1153028011322 sec
+2020-05-06 21:16:56,366 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.06999264164827079
+2020-05-06 21:16:56,372 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish experiment process for 161.10892915725708 sec
+2020-05-06 21:31:08,211 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start experiment process
+2020-05-06 21:31:15,581 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - initial val_accuracy: 0.4830316409124356
+2020-05-06 21:31:15,583 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #0
+2020-05-06 21:31:36,165 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [21999 37694 56698 57760 22999 84224 16608 20313 87124 38479 42456 99384
+ 10142 97897 28070 23190 56943 86264 37196 72438]
+2020-05-06 21:31:36,190 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 24  5 28  1  8 44 14 28 16 28  1  3 46 33 28 10 48 16 16]
+2020-05-06 21:31:49,145 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #0 for 33.55808687210083 sec
+2020-05-06 21:31:49,146 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4823841059602649
+2020-05-06 21:31:49,316 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 0 saved
+2020-05-06 21:31:49,318 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #1
+2020-05-06 21:32:04,622 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [22104 78887 75986 92196 36880 47913 29605 89108 86401 29655 75793 24179
+ 80284 52692  7886 39953 56600 33233 96760 93709]
+2020-05-06 21:32:04,639 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 28 28 12 16 28 15 49  0 16 48 46 16 32 16 28 24  5 34 24]
+2020-05-06 21:32:10,837 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #1 for 21.51858901977539 sec
+2020-05-06 21:32:10,837 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.48038263428991906
+2020-05-06 21:32:10,837 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #2
+2020-05-06 21:32:19,626 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [53821 39850 85545 36246 88357 69487 28846 53398 38946 95587 91864 76145
+ 60611 91253 64496 63056 97014 34714 87103 99641]
+2020-05-06 21:32:19,643 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 12 12 28 12 24  8 28 28 12 31 23 24 47 21 40 48 45 28 32]
+2020-05-06 21:32:24,866 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #2 for 14.028700828552246 sec
+2020-05-06 21:32:24,867 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.47823399558498897
+2020-05-06 21:32:24,867 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #3
+2020-05-06 21:32:33,035 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [91452 70526 30538 31227 88707 62686  3453  2569 97186 65613 59201  2532
+ 27501 43474 41143 15318 54567 32300 45127 77941]
+2020-05-06 21:32:33,053 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 2 16 13 32 16 49 33 28 32 49 49 27 49  8 32 32 21 31 28 12]
+2020-05-06 21:32:41,513 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #3 for 16.642822265625 sec
+2020-05-06 21:32:41,518 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4779102281089036
+2020-05-06 21:32:41,519 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #4
+2020-05-06 21:32:56,448 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [48859 65295 15521 57439 84073 72053 60767 49477 92554 40276  6631 22723
+ 80146 16372 72115 29411 41332 18104 26248 50492]
+2020-05-06 21:32:56,465 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 11 32 32 32 26  5 32 14 27 39 11  4 18 32 18 43 49 22 22]
+2020-05-06 21:32:59,848 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #4 for 18.329013109207153 sec
+2020-05-06 21:32:59,848 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.47240618101545256
+2020-05-06 21:32:59,848 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #5
+2020-05-06 21:33:07,974 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [82747 54879 10724 61975 66753 49096 37817 72010 27146 72465 51041 54789
+ 29319 36269 36307 96292 76656 10026 37854 76613]
+2020-05-06 21:33:07,991 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [46  1 28 17 43 25 16 24 16 24 26 27 28 18 48  0  1 41 40 16]
+2020-05-06 21:33:15,747 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #5 for 15.898718118667603 sec
+2020-05-06 21:33:15,747 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4737601177336277
+2020-05-06 21:33:15,748 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #6
+2020-05-06 21:33:26,990 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [  723 32429 51007 38014 46288 75962 42989 20669 92845 55263  8036 11468
+ 16470 89028 40599  1331 30799 40905  6604 70553]
+2020-05-06 21:33:27,007 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [23 18 13 24 12 14 21 27 31 16 24 14 25 24 15 12 26 24 33 16]
+2020-05-06 21:33:32,233 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #6 for 16.48518705368042 sec
+2020-05-06 21:33:32,234 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4679617365710081
+2020-05-06 21:33:32,234 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #7
+2020-05-06 21:33:43,093 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [12159 24938 70735  5701 92721  2070 21476 15169  6839 48328 72087 22462
+ 32244 70016 79753 84771 37675 91898 22989 74372]
+2020-05-06 21:33:43,111 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 0  0 32  0 48  6 12 28 33 12 49 16 14  0 28 12 16 16 39 28]
+2020-05-06 21:33:48,016 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #7 for 15.781562805175781 sec
+2020-05-06 21:33:48,016 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4614569536423841
+2020-05-06 21:33:48,016 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #8
+2020-05-06 21:33:56,116 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [95326   331 99627 44544 55896 11030 76387 81571 54601 32454  3295 10032
+ 12670 40570 47527 99294 98933 63308 24883 97675]
+2020-05-06 21:33:56,134 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [40 28 49 27  6 28 31 13 14 34 16  0  6 10 27 31  5 43 10 16]
+2020-05-06 21:34:00,674 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #8 for 12.65763807296753 sec
+2020-05-06 21:34:00,675 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.46042678440029433
+2020-05-06 21:34:00,675 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #9
+2020-05-06 21:34:07,846 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [73733 47818  5284 85973 44853 61184 18673 78135 32376 64808 83663 31514
+ 12906 97930 44533 70238 95494 90446 97749 71292]
+2020-05-06 21:34:07,864 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 9  6 28  4 21 49 32 28  5 16  8 49 49  6 20 23  0  0 24  2]
+2020-05-06 21:34:14,928 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #9 for 14.252059936523438 sec
+2020-05-06 21:34:14,928 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4611331861662987
+2020-05-06 21:34:14,928 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #10
+2020-05-06 21:34:33,512 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [36926 15555 71572 33539 84751 30400 25236 70589 74967 66235 88831 56057
+ 83136 48154  5380 71564 26707 20132 70758 36153]
+2020-05-06 21:34:33,537 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44 32 28 22 23 49 41 28 25  4 28 28 14 24 27 34  5 43 33 49]
+2020-05-06 21:34:44,570 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #10 for 29.641885995864868 sec
+2020-05-06 21:34:44,570 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4626048565121413
+2020-05-06 21:34:44,576 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 10 saved
+2020-05-06 21:34:44,576 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #11
+2020-05-06 21:34:53,315 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [45377   983  9416 51482 12198 70684 52591 30839  7787 58380 44935 64824
+ 40802 10023  4401 13627 15779 34138 16505 85050]
+2020-05-06 21:34:53,331 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48  1 28 49  2 21 40 18 16 16 28  8 17 40 41 23  5 13  5 28]
+2020-05-06 21:35:01,897 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #11 for 17.31791114807129 sec
+2020-05-06 21:35:01,957 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4601324503311258
+2020-05-06 21:35:01,963 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #12
+2020-05-06 21:35:13,532 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [68705 96493 34865 37115 83238 62075 29253 56604 17828 94817 63738 51832
+ 73700 28188 39019 11732 76841 31886 26136 42046]
+2020-05-06 21:35:13,548 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 12 28 28 21  0 21 14 19 34 47 33 48  5 49 12 46 28 12 47]
+2020-05-06 21:35:26,158 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #12 for 24.19515323638916 sec
+2020-05-06 21:35:27,601 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.45786607799852835
+2020-05-06 21:35:27,625 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #13
+2020-05-06 21:35:45,125 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [29739 86594 64900 22382 54129 95119 80371 54675 11263 56466 74899 70244
+ 15426 98093 80839 14972 25658  9861 75324 75030]
+2020-05-06 21:35:45,147 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [26 33 19 45 24 12 13 28 12 18 44 16 18 24 48  1 24 49 49 14]
+2020-05-06 21:35:57,268 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #13 for 29.63916015625 sec
+2020-05-06 21:35:57,272 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4543046357615894
+2020-05-06 21:35:57,274 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #14
+2020-05-06 21:36:11,585 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [16860 48236  1800 22725 52995 28402 64072 84213 90800 27407 72638 13141
+ 66242 12028 30169 78733 21807 95916 72075 63972]
+2020-05-06 21:36:11,601 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 26 14 12 19 19 17 29 28  8 16 28 28 44 28  5 49 25 19 16]
+2020-05-06 21:36:17,689 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #14 for 20.41429877281189 sec
+2020-05-06 21:36:17,690 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4526563649742458
+2020-05-06 21:36:17,691 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #15
+2020-05-06 21:36:25,543 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [31224 16069 12021  1615 30552 17711 25862 65859 24351 74233  6471 10462
+  5393 45772 57352 61124 48165 56997 70681 22150]
+2020-05-06 21:36:25,561 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 40 23 12 13 30 32  0 28 47 28 33 34 41 10 32 43 28 49 44]
+2020-05-06 21:36:30,123 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #15 for 12.4323890209198 sec
+2020-05-06 21:36:30,123 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.45498160412067695
+2020-05-06 21:36:30,124 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #16
+2020-05-06 21:36:37,083 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [25620 44522 66932 43982 13792 61348  4225 32371 56863 53919 58481 64631
+ 32320 83811 51579 83855 56689 40092 99620 28685]
+2020-05-06 21:36:37,099 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 24 28 49 34 41 49 28 12 27 23 39 17 23 34  5 49 28 28 41]
+2020-05-06 21:36:43,344 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #16 for 13.220299005508423 sec
+2020-05-06 21:36:43,345 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4537159676232524
+2020-05-06 21:36:43,345 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #17
+2020-05-06 21:36:50,379 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [51651  4594 65296 60604 10810 37236 59212 14585  8530 39380 33861 76866
+ 57536 81088 11372 56300  9605 25706 45557 25923]
+2020-05-06 21:36:50,395 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 1 28 30 32 22 31 44 16 18 18 24  9 44 34 26 32 27 12 26 40]
+2020-05-06 21:36:57,652 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #17 for 14.307044744491577 sec
+2020-05-06 21:36:57,745 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.45356880058866816
+2020-05-06 21:36:57,749 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #18
+2020-05-06 21:37:15,198 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [94115 47755 85811 57233 27762  3315 41911 92742 23757 67103  7552 21853
+ 58769 94643 14651 90076 92613 88411 69354  2677]
+2020-05-06 21:37:15,215 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [46 49  5 24 46 46 32 27 33  5 45 12  0  0 49 32 34 33 42  0]
+2020-05-06 21:37:24,491 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #18 for 26.74191904067993 sec
+2020-05-06 21:37:24,492 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.44862398822663724
+2020-05-06 21:37:24,492 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #19
+2020-05-06 21:37:36,679 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [70995 36070 47166 78847 88018 90769 44505 93381 55921 12658 34337 54805
+  3375 45439 47860 57321 74428 88054 79152 51896]
+2020-05-06 21:37:36,696 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [20 39 11 12 12 49 27 33 41 41 39  1 28 32 16 17 49 25 43 24]
+2020-05-06 21:37:41,620 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #19 for 17.12775683403015 sec
+2020-05-06 21:37:41,620 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4462693156732892
+2020-05-06 21:37:41,620 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #20
+2020-05-06 21:37:54,965 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [67773  1241 97980 55177 56645 15140 76321 68524 47082 88186  5378 74261
+ 70852 32392 74328 48499  8887 36458 58914 24818]
+2020-05-06 21:37:55,007 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [24 26 30 14 12 20 12 49 39 45 32 32 47 30 28 39 47 41 24  5]
+2020-05-06 21:38:01,521 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #20 for 19.90084671974182 sec
+2020-05-06 21:38:01,521 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4446504782928624
+2020-05-06 21:38:01,525 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 20 saved
+2020-05-06 21:38:01,525 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #21
+2020-05-06 21:38:09,766 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [53373 44704 64132 56617 41447 65680 73279 28853 75707 45696 30756 50801
+ 14424 49915 32538 55437 11425 79386 85081 99217]
+2020-05-06 21:38:09,783 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12  9 49 12 42 24 16 14 17 49 24  1 12 23 14 48 36 33 35 23]
+2020-05-06 21:38:15,817 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #21 for 14.288994073867798 sec
+2020-05-06 21:38:15,818 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4398528329654158
+2020-05-06 21:38:15,821 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #22
+2020-05-06 21:38:26,089 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [86577  9274 67916 44773 78548 92888 95857  7025 24618  7422  5700 50145
+ 29775 82481 99161 45309 13769  2645 75490 78909]
+2020-05-06 21:38:26,106 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 1 42 28 18 16 33 21 42 28 16  9 43  9 16  9 33 19 49 10 37]
+2020-05-06 21:38:30,697 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #22 for 14.876193046569824 sec
+2020-05-06 21:38:30,697 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4416777041942605
+2020-05-06 21:38:30,697 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #23
+2020-05-06 21:38:38,825 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [52671 68433 18274 53850 81775  4577 83707 53269 60402 34491  6698 91444
+ 10109 84784 25711 23775 63295 42585 22250 66422]
+2020-05-06 21:38:38,841 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 27  9 23  5 24 12 49 28 29 28 11 49 32 17 26 46  9 11 49]
+2020-05-06 21:38:43,620 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #23 for 12.922664880752563 sec
+2020-05-06 21:38:43,620 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4413245033112583
+2020-05-06 21:38:43,621 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #24
+2020-05-06 21:38:54,696 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [83901 73933 87231  5182 83066 51733 16255 40131 89696 40248 66943 18150
+ 39248 92432 97971 16765  4226 76380 70594 10093]
+2020-05-06 21:38:54,712 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [45 49 49 16 14 25 19  9 28 49 16 27 32 45 24  5 22 36  5  5]
+2020-05-06 21:38:59,166 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #24 for 15.54547905921936 sec
+2020-05-06 21:38:59,166 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4392347314201619
+2020-05-06 21:38:59,166 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #25
+2020-05-06 21:39:05,648 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [90824 68843 75283 16328  8708 89245 93295 33633 40027 22100 22105 35183
+ 58602 48637 75538 34688 79528 36494 33067  7962]
+2020-05-06 21:39:05,665 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [19 19 48 13 32  5  9 32 32 28 28  7 48 10 32 14 11 28 19 19]
+2020-05-06 21:39:10,819 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #25 for 11.652197122573853 sec
+2020-05-06 21:39:10,819 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4389109639440765
+2020-05-06 21:39:10,819 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #26
+2020-05-06 21:39:17,925 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [14016 66478 78554 74685 42808 57937 54237 95590  3207 13863 54638 10435
+  2800 88326  1211 20489 73360 10549 75245 89702]
+2020-05-06 21:39:17,942 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 7 32 32 27  6 16 19 41 43 12 27 32 32 45 11 38 12 33  0 48]
+2020-05-06 21:39:23,533 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #26 for 12.71361517906189 sec
+2020-05-06 21:39:23,533 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.43896983075791024
+2020-05-06 21:39:23,533 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #27
+2020-05-06 21:39:31,633 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [70698 18749 83727 13358 96977 18284 27587 58834 39002 73227 12365 65750
+ 73912  5873 12004 24708 33593 24130 56010 42461]
+2020-05-06 21:39:31,650 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [22 22 22 47 16 49 32 31 32 32 41 17 48 20 18 22 31 35  9  1]
+2020-05-06 21:39:38,096 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #27 for 14.562660932540894 sec
+2020-05-06 21:39:38,096 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4343193524650478
+2020-05-06 21:39:38,096 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #28
+2020-05-06 21:39:49,651 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [59981 84275 24045 63661 43023 12477 69448 76076 64828 42811 60855 79980
+ 56785 60037  6784 94029  8253 36310 69888 51312]
+2020-05-06 21:39:49,667 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 28 20 26  0 28 22  4 28  3 11 48 46 27 39 20 17 20  0  6]
+2020-05-06 21:39:53,630 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #28 for 15.533933877944946 sec
+2020-05-06 21:39:53,630 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4263428991905813
+2020-05-06 21:39:53,631 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #29
+2020-05-06 21:40:01,061 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [45150 18021 27153 56326 35017 12958  3741 84498 52514 78236 95736 97287
+ 23406 65414 36274 92274  3079 19947  3740 71809]
+2020-05-06 21:40:01,078 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [31 28 32 46 35 12  9 32 41  9 32  9 32 32 29 28 32 10 26 45]
+2020-05-06 21:40:10,541 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #29 for 16.910566091537476 sec
+2020-05-06 21:40:10,543 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42787343635025754
+2020-05-06 21:40:10,544 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #30
+2020-05-06 21:40:21,913 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [13970 65243 47219 57119  3439 68999 23172 37406 70188 44550 96579 37373
+ 99127 92957 70013 60920 23555 61640 86448 30709]
+2020-05-06 21:40:21,930 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [10 27 28  9 26  1 23 13 45 10 46 16 19 11 48 17 46 32 14 23]
+2020-05-06 21:40:26,468 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #30 for 15.92393684387207 sec
+2020-05-06 21:40:26,468 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4290507726269316
+2020-05-06 21:40:26,469 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 30 saved
+2020-05-06 21:40:26,469 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #31
+2020-05-06 21:40:33,274 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [34545 48378 43119 30049 96229 10539 94482 91751 91406 42128 82217 44112
+ 37664 46531 32471 60153  9087 74610 80797 49022]
+2020-05-06 21:40:33,291 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [45 36 34 33 35 45 23 19 47 27 16  6 20 16 12 42 39 19 43 46]
+2020-05-06 21:40:40,501 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #31 for 14.03201413154602 sec
+2020-05-06 21:40:40,502 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42649006622516555
+2020-05-06 21:40:40,502 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #32
+2020-05-06 21:40:55,167 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [14934 54627 71891 24974 27509 17729 95915 61289 13774 60568 57782 90061
+ 59330 90945 32780 35428 85508  9691 15451 10790]
+2020-05-06 21:40:55,184 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32  5  5  5 34 41 49  5 32  5 12 15 28 28 44 12 18 19 49 32]
+2020-05-06 21:41:02,585 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #32 for 22.082390785217285 sec
+2020-05-06 21:41:02,585 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42472406181015454
+2020-05-06 21:41:02,585 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #33
+2020-05-06 21:41:12,733 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [83984 91525 59261 67646 66150 94778 16481 66203 21623 25410 51112 86434
+ 51071  5107 75725 23848 90181 20591 73957 61367]
+2020-05-06 21:41:12,751 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [14 19 16 45 22 48 14 49 43 39  5 32 19  0 23 32 47 48 24 39]
+2020-05-06 21:41:22,880 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #33 for 20.29505705833435 sec
+2020-05-06 21:41:22,882 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42219278881530536
+2020-05-06 21:41:22,882 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #34
+2020-05-06 21:41:33,084 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [   65 86809 59826 13494 42898 41008 66635 62945 31409 95609 28498 89551
+ 74787 52385  9462  2430 40518 37908 35556 74880]
+2020-05-06 21:41:33,099 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [23 41  1 13 42 11  9 16 48 16 48 35 48 14 14 41  1 41 28 43]
+2020-05-06 21:41:37,173 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #34 for 14.290247917175293 sec
+2020-05-06 21:41:37,174 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42251655629139073
+2020-05-06 21:41:37,174 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #35
+2020-05-06 21:41:44,055 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [78903 40803 14837  5591 62809 71402 60824 72768 48430 32347 64936 97228
+ 71884  9313 60332  9292 15881 90071 99170 21829]
+2020-05-06 21:41:44,071 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [42 32  5 11 32 12 23 13 24 14 23 22  1 11 28 44 28 24 49 32]
+2020-05-06 21:41:51,729 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #35 for 14.553778171539307 sec
+2020-05-06 21:41:51,730 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4294334069168506
+2020-05-06 21:41:51,730 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #36
+2020-05-06 21:42:03,419 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [72947 55228 19476 16212 27181 89928 46970 29583 93947 87889 82628 82845
+ 74023 32377 24264 93777 35139 59387 85302 13289]
+2020-05-06 21:42:03,435 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 8  1 32 49 35 21 13 27  2 47 28  4 27  1 12 28 19 16 48 45]
+2020-05-06 21:42:10,082 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #36 for 18.35171890258789 sec
+2020-05-06 21:42:10,082 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4325533480500368
+2020-05-06 21:42:10,083 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #37
+2020-05-06 21:42:18,304 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [63195 11722 58202 66865 88607 15410  8097   628 34051   199 39897 16138
+ 59957 93279 76732 83157 30350 33567 80505 55351]
+2020-05-06 21:42:18,324 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 9 28  3  9 14 48 28 28 24 16 24 16  7 15 28 18  3 19 24 27]
+2020-05-06 21:42:22,609 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #37 for 12.5261390209198 sec
+2020-05-06 21:42:22,610 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42625459896983076
+2020-05-06 21:42:22,611 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #38
+2020-05-06 21:42:33,809 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 2721 60224 41686  9028 25980 86886 73801  4348 31666 83569 24131 82899
+ 62144  2620 70893  2447 49270 86153 26500 98074]
+2020-05-06 21:42:33,825 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 0 28 23 23 33 21 22 26 27 30 18 14 36 17  0 45  3 41 32 41]
+2020-05-06 21:42:37,256 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #38 for 14.643517017364502 sec
+2020-05-06 21:42:37,257 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4279617365710081
+2020-05-06 21:42:37,257 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #39
+2020-05-06 21:42:44,954 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [40082 33503 27328 38977 97949 21082 16163  3417 85343 94113 79044 28950
+ 14352   772 75493 90933 71601 87757 40025 40284]
+2020-05-06 21:42:44,969 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [46 13 47 38 46 40  3 42  4 28 28 28 13 39  4 26 49 31 40 27]
+2020-05-06 21:42:53,997 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #39 for 16.739278078079224 sec
+2020-05-06 21:42:53,998 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4280500367917586
+2020-05-06 21:42:53,999 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #40
+2020-05-06 21:43:07,697 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [81022 94630 79254 54297 29389 41785 25418 10416 93027 53147 56567 48917
+  8033 55645 79284 28914 86038 73220  7793 76948]
+2020-05-06 21:43:07,724 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [19  4  0 28 20 31  1 23 29 23 18 19  6 37 18 24 45 17 44 32]
+2020-05-06 21:43:13,489 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #40 for 19.490027904510498 sec
+2020-05-06 21:43:13,489 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4273730684326711
+2020-05-06 21:43:13,492 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 40 saved
+2020-05-06 21:43:13,492 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #41
+2020-05-06 21:43:20,183 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [30640   641 17283 49586 60286 79849 47285 72607  8063 10429  4905 28999
+ 87093 62590 60554 65872 20046 96579  6343 35083]
+2020-05-06 21:43:20,199 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 33 10 16 16 49 41  5 26 30  1  3  7 36 16 45 23 24  1  0]
+2020-05-06 21:43:26,100 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #41 for 12.607306003570557 sec
+2020-05-06 21:43:26,100 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4208682855040471
+2020-05-06 21:43:26,100 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #42
+2020-05-06 21:43:33,693 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [51566 11127 33031 79147 77466 73200  9085 79659 92139 38543 24797 43758
+ 16294 63713 59303 49849 63698 97063 26607 54227]
+2020-05-06 21:43:33,710 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 4 43 12 14 26 26 19 44 45 49 22  5 41 10 27 13 15 27 27 49]
+2020-05-06 21:43:43,095 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #42 for 16.994382858276367 sec
+2020-05-06 21:43:43,095 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42387049300956586
+2020-05-06 21:43:43,183 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #43
+2020-05-06 21:43:59,519 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [85676  1237 76707 58862   665 35143 17155 29887 67620 79435  6658 28962
+  3503 51128 91158 45357 61861 71950 77989 88704]
+2020-05-06 21:43:59,536 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44 13 28 49  0  1 49 32 13 12 17 23 28 46 27 12  3 32 21 28]
+2020-05-06 21:44:06,249 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #43 for 23.059046268463135 sec
+2020-05-06 21:44:06,250 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42495952906548934
+2020-05-06 21:44:06,250 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #44
+2020-05-06 21:44:17,743 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 3210 71863 78996  5413 63147 64828 79602 36501 47432 85957 63649 79708
+ 76889 31440 85300 46784 57556 72508 19822 83370]
+2020-05-06 21:44:17,760 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48 41 41  6  0 28 46 48  8  8 40 20 12 41  5  0 47 20 26 49]
+2020-05-06 21:44:21,184 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #44 for 14.934149026870728 sec
+2020-05-06 21:44:21,184 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42339955849889627
+2020-05-06 21:44:21,184 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #45
+2020-05-06 21:44:27,990 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [51491 11134 66045 82543 71872 16703 48230 85964 12531 33272 74862 65827
+ 74900 83427 69832 65998 13116 56450 87850 39772]
+2020-05-06 21:44:28,007 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 0 19  0 46 19 24  3 15 16  0 45 39 16 31 14 49 21 28  0  1]
+2020-05-06 21:44:32,815 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #45 for 11.630795955657959 sec
+2020-05-06 21:44:32,816 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42027961736571007
+2020-05-06 21:44:32,816 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #46
+2020-05-06 21:44:43,347 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 2384  4292 30157 63055 39207 55429 39384 54052 88881 67080 63692 26282
+  6252 36102  3664 28486  7644 38361 67193 13762]
+2020-05-06 21:44:43,362 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [20 28 28 12 28 13 14 13 45 17  7 43 49 34  0 46  7 32 22 44]
+2020-05-06 21:44:48,350 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #46 for 15.533632040023804 sec
+2020-05-06 21:44:48,350 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4168064753495217
+2020-05-06 21:44:48,351 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #47
+2020-05-06 21:44:55,436 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [56784 58221 25571 13387 66939 93690 96981 30533 87274 10533 33603 59463
+ 46460 90124 21903 80255  5118 63062 16700 91742]
+2020-05-06 21:44:55,453 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [36 41 28  9 23 43 21 10 21 15 25  3 16 46 28 44 48 15 26 49]
+2020-05-06 21:45:03,013 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #47 for 14.661978006362915 sec
+2020-05-06 21:45:03,018 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4166298749080206
+2020-05-06 21:45:03,019 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #48
+2020-05-06 21:45:15,003 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [20398 14307  4370 58187  6481 91520 68779  5707 84915 22004 86168 68820
+ 82121 61181 86117 28661 54751 12273 80991 49086]
+2020-05-06 21:45:15,021 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [46 46 13 21 45 41  6 41  5 14 44 46  2 42 49 18 20  3 15 48]
+2020-05-06 21:45:19,459 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #48 for 16.440562963485718 sec
+2020-05-06 21:45:19,460 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4150404709345107
+2020-05-06 21:45:19,460 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #49
+2020-05-06 21:45:26,429 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [60521 90666 82721 94793 49653 59833 74865  9790  2036 19463 12640 32874
+ 27787 80598 16517 65891 26409  5154 12010 55009]
+2020-05-06 21:45:26,446 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [47 19 46  7  0 28 26 16 28 30 30 28 16 19 23 33 41 43 44 21]
+2020-05-06 21:45:35,100 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #49 for 15.639953136444092 sec
+2020-05-06 21:45:35,100 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4164238410596027
+2020-05-06 21:45:35,100 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #50
+2020-05-06 21:45:49,386 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [74891 45492 75953 21658 80008 62649 75629 41280 17918 10163 65603 50090
+ 18509  7525 94198  7329 33537 26860  3407 72645]
+2020-05-06 21:45:49,404 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 45 49 13 16 11 28 41  5 26 30 27 28 21 14 19  4 14  1 48]
+2020-05-06 21:45:55,852 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #50 for 20.751515865325928 sec
+2020-05-06 21:45:55,852 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4183958793230316
+2020-05-06 21:45:55,854 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 50 saved
+2020-05-06 21:45:55,855 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #51
+2020-05-06 21:46:04,067 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [77654 31284 13016 81701  5034 53207 83605 70735 61197 37116 15139 45721
+ 30690 69206 12529 12286 32459 30643 46612 48737]
+2020-05-06 21:46:04,083 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 3 29 27 44 32 21  9  1 39 28 14 26 45 44 31 16  0 17 28 26]
+2020-05-06 21:46:10,661 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #51 for 14.805881977081299 sec
+2020-05-06 21:46:10,662 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.42186902133922
+2020-05-06 21:46:10,662 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #52
+2020-05-06 21:46:24,059 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [55116 32819 77857 83977 86023 88777 89218 41110 20640 14950  7105 59867
+   793 56127 64533 70891 38878 32310 29480 88828]
+2020-05-06 21:46:24,074 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12 40 10 33 14  1 26  9 13 28 12 43 12 13 14 34 31 28 21 30]
+2020-05-06 21:46:29,405 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #52 for 18.74245023727417 sec
+2020-05-06 21:46:29,405 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4178660779985283
+2020-05-06 21:46:29,405 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #53
+2020-05-06 21:46:37,262 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [33138 17880 31299 57188 76613  6842 89467 60331 51613  5172 95577 94626
+ 59936 88993 72655 28266 76773 23018 93787  1048]
+2020-05-06 21:46:37,279 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [23 21  1 16 39  1 32 49 26 12 10 44  3 14 44 33 27  0 47 34]
+2020-05-06 21:46:42,518 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #53 for 13.112774133682251 sec
+2020-05-06 21:46:42,518 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.41142016188373803
+2020-05-06 21:46:42,518 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #54
+2020-05-06 21:46:49,047 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [70906 39394 26758 53480 53417 12428 39155 93004 98025 45409 42433 25528
+ 31340 28777 72689 44081  4424 88171 42500 25515]
+2020-05-06 21:46:49,063 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [14 31 13 19 32 48 12  1 49 17 24 45 33 16 45 12 16 11 28  0]
+2020-05-06 21:46:54,067 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #54 for 11.54800796508789 sec
+2020-05-06 21:46:54,067 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.41018395879323033
+2020-05-06 21:46:54,067 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #55
+2020-05-06 21:47:02,350 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [37450 15434 39886 40042 51221 73677 75679 18413 38764 28851 26244 45795
+ 66129  5238 64045 52223  4309 34920  5531 75568]
+2020-05-06 21:47:02,366 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [29 23 30 49 32 41 35 26 32  5 34 45 20  1 48 48 19 31 32  4]
+2020-05-06 21:47:12,351 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #55 for 18.284412145614624 sec
+2020-05-06 21:47:12,352 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.41353936718175127
+2020-05-06 21:47:12,352 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #56
+2020-05-06 21:47:25,595 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [36723 81152 98677 85485 13615 24429 33874 80667 90346 64574  9435 75893
+ 45796  9299  6045   305 12882 18159 55477  9894]
+2020-05-06 21:47:25,613 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 43 14 12 22 47 12 28 27 19 14 21  0  9 27 47 16 30 31 37]
+2020-05-06 21:47:31,650 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #56 for 19.297773122787476 sec
+2020-05-06 21:47:31,651 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.41536423841059605
+2020-05-06 21:47:31,651 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #57
+2020-05-06 21:47:41,969 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [70905 50795 64787 12207 24982 28296 58187 59501 66329 93620 36301 12102
+ 37437  7509 20750 92002 78688  6278 90270 32424]
+2020-05-06 21:47:41,986 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48 16 12 33  3  7  4 43 26 30 12 10 39  3  9 14 46 45 48 23]
+2020-05-06 21:47:48,173 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #57 for 16.522006034851074 sec
+2020-05-06 21:47:48,174 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4144812362030905
+2020-05-06 21:47:48,174 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #58
+2020-05-06 21:47:55,052 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [79319 42960 19406 25066  5540  1426 35783 16879 12664 31107  5342 20126
+ 52911  8613 72153 26096  1202 20197 72542  7470]
+2020-05-06 21:47:55,070 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 4 35 39 39 47 11 49 33 12 39 11 26 14 34 29 11 29 17 32 29]
+2020-05-06 21:48:02,139 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #58 for 13.964839935302734 sec
+2020-05-06 21:48:02,140 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4184841795437822
+2020-05-06 21:48:02,140 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #59
+2020-05-06 21:48:14,983 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [73289 37729 38193 92133 62328 87560 86303 72540 24097 20266 24751 79757
+ 80948 45837 31664 62611 49035  2215 32348 75119]
+2020-05-06 21:48:15,099 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 0  7 28 33 37 41  3 27  1 17 18  4  4 14 28 19 28  0 32 32]
+2020-05-06 21:48:18,393 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #59 for 16.2529079914093 sec
+2020-05-06 21:48:18,393 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.41153789551140546
+2020-05-06 21:48:18,393 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #60
+2020-05-06 21:48:24,807 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 3989 50316 24422 42949 19879 96384 61560 15378 91590 72377 44690 16271
+ 37766 14827  1192 54304 54973 55640 60698 29580]
+2020-05-06 21:48:24,824 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 12 28 17 11 16 40  3 28 28 35 21 35 19 12 18 36 17 47  0]
+2020-05-06 21:48:31,550 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #60 for 13.155579090118408 sec
+2020-05-06 21:48:31,552 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40635761589403974
+2020-05-06 21:48:31,569 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 60 saved
+2020-05-06 21:48:31,570 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #61
+2020-05-06 21:48:43,034 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [84646 84611 42681 65553 11243 50367 63698 39157 53977 48369 62433 14966
+ 37033  1248  5715  7300 55915 89861 81104  8261]
+2020-05-06 21:48:43,049 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 0 46 14 14 13  5 26 24 42 48 38 11 45 48  7 25 33 43 46 27]
+2020-05-06 21:48:46,538 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #61 for 14.967964887619019 sec
+2020-05-06 21:48:46,539 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40671081677704196
+2020-05-06 21:48:46,539 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #62
+2020-05-06 21:48:54,745 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [89742 64641 95578 24898 34744 10814 73119 46313 91728 77044 35644 97715
+ 50803 56355 78865 49237  2136 56618 60846  4568]
+2020-05-06 21:48:54,764 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [11 45 34  2 28 38 18  5 43 26 46 25 32 11 10 49 11 41 33 32]
+2020-05-06 21:49:05,884 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #62 for 19.344587802886963 sec
+2020-05-06 21:49:05,885 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40918322295805737
+2020-05-06 21:49:05,885 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #63
+2020-05-06 21:49:18,377 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [17933 44222  9975 29346 22976 40978 71920 89628 57813 45659 37897 88109
+ 51137 58759 23754 33850 71376 56153 62131 69002]
+2020-05-06 21:49:18,408 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [43  8  5 41 16 32 28  1 33 49 26 31 28 19 32 20 32 41 33 36]
+2020-05-06 21:49:24,371 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #63 for 18.48573899269104 sec
+2020-05-06 21:49:24,371 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40841795437821926
+2020-05-06 21:49:24,371 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #64
+2020-05-06 21:49:31,921 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 5231 17756 77563 24413 20435 53259  6054 12204  8378 11835 11424 23425
+  7926 68119 23332 86250 22764 54596 19334 52876]
+2020-05-06 21:49:31,937 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [24 12  9 17 35 26 23 18 41 46  8 36 16 27 40 16 27 49 17  3]
+2020-05-06 21:49:37,366 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #64 for 12.994769096374512 sec
+2020-05-06 21:49:37,366 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40865342163355406
+2020-05-06 21:49:37,367 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #65
+2020-05-06 21:49:47,516 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 6591 31582 23922 32565 35374 78029 48770 71033  2857 86106 42349 61130
+ 79512 11659 47266 44267  9940 75544 98007 44703]
+2020-05-06 21:49:47,534 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [20 24  0 32 14  2 15 31 19 15 26 45  1 12 10  5 25 23 42 16]
+2020-05-06 21:49:52,734 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #65 for 15.366875171661377 sec
+2020-05-06 21:49:52,734 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4137159676232524
+2020-05-06 21:49:52,734 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #66
+2020-05-06 21:49:59,045 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [18163 58262 43688 39890 94478 75627 22182 22191 54228 61284 48299 10284
+  8932 81615 12389 42610 47731 13692 28715 83195]
+2020-05-06 21:49:59,061 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 5  5 21 15 43  3 28  0 48 19 49 34 46 16  4 26 48 28  0 25]
+2020-05-06 21:50:06,020 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #66 for 13.286437034606934 sec
+2020-05-06 21:50:06,021 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.41147902869757175
+2020-05-06 21:50:06,021 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #67
+2020-05-06 21:50:19,674 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [45428 12396 71744 88150 18691 86444  1180 42117 13652 28388 63074 68419
+ 72339 53674 66212 90155 40735 35444 34064 47514]
+2020-05-06 21:50:19,690 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33 27 31 19 25 33  0 18 33 34  1 23  0 33 28 33 13 11 43 27]
+2020-05-06 21:50:24,998 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #67 for 18.977277755737305 sec
+2020-05-06 21:50:24,998 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4077704194260486
+2020-05-06 21:50:24,999 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #68
+2020-05-06 21:50:31,815 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [34159 28244 15889 41984 58704 89641 31858 25796 91283 32459 41659 81609
+ 87187 18777 18483 84550 43662 40691 25043 54641]
+2020-05-06 21:50:31,831 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 7 28 13 18 21  0 48 21 25  4 20 43 28 23 41 14 48 48 42 33]
+2020-05-06 21:50:40,303 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #68 for 15.304603099822998 sec
+2020-05-06 21:50:40,303 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40367917586460633
+2020-05-06 21:50:40,304 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #69
+2020-05-06 21:50:56,491 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [66665 83163 18089 21730 91697 65338 35013 30364 28396 76591 23316 33556
+ 81207 55551 73625 48940  4261  5059 10807 94153]
+2020-05-06 21:50:56,510 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 46 32 20 28 48 28 12 13 27 42  1 28 49 28 19 32 44 31 32]
+2020-05-06 21:51:04,030 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #69 for 23.725389003753662 sec
+2020-05-06 21:51:04,032 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40688741721854305
+2020-05-06 21:51:04,032 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #70
+2020-05-06 21:51:11,984 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [98159 88889 63272 37807 42776 24694 64695 48148 44646 45781 94620 70866
+ 13190 97423 44581 57789 62782 67507 30069 95951]
+2020-05-06 21:51:11,999 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44 15 25 18  0 28 41 24  1 44 26 44 28  0 41 23 31 16 41 18]
+2020-05-06 21:51:20,157 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #70 for 16.12436318397522 sec
+2020-05-06 21:51:20,157 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4068579838116262
+2020-05-06 21:51:20,176 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 70 saved
+2020-05-06 21:51:20,177 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #71
+2020-05-06 21:51:30,920 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [39261 81879 19537 84005 27144 82333  3314 47520 38544 42198 52118 94674
+ 26759 61480 95301 51139 58560 29695 23624  9532]
+2020-05-06 21:51:30,937 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [43 26 16 49 23 48  0 25 43 44 26 47 28 16  6 17 28  5 44 37]
+2020-05-06 21:51:37,148 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #71 for 16.971209049224854 sec
+2020-05-06 21:51:37,148 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39891096394407655
+2020-05-06 21:51:37,148 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #72
+2020-05-06 21:51:47,714 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [82389 50338 61641 87552 12875 66371 66323 48377 86681 30897 82211   683
+ 85945 53509 87711 82785 76873 65402 74107 29877]
+2020-05-06 21:51:47,731 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [38 47  5 19 13 12 16 13 19 25 38  5 48 25 28  4 11  0 13 33]
+2020-05-06 21:51:51,712 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #72 for 14.56322193145752 sec
+2020-05-06 21:51:51,712 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39920529801324506
+2020-05-06 21:51:51,712 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #73
+2020-05-06 21:51:58,381 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [33916 38734 55240  6531 35290 39653 19840 54159 96118 68170 37131 41339
+ 21452 82656 12942 90432 35148 52780 47755 47159]
+2020-05-06 21:51:58,398 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [27 12 12 48 23 16 19 11 19  0 16 49  5 14 49 35 46 23  9  7]
+2020-05-06 21:52:05,464 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #73 for 13.751237869262695 sec
+2020-05-06 21:52:05,466 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4055334805003679
+2020-05-06 21:52:05,466 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #74
+2020-05-06 21:52:19,353 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [16692 76407 24804 55171 19423 71911 32446 20650 66266 75066 30293  8335
+ 12337 32171 91172 34868 93758  5717 52750 97679]
+2020-05-06 21:52:19,375 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 1 21 48 19 11 26 12 29 32 32 32 13 20 12 34 16 30  8  0 31]
+2020-05-06 21:52:25,678 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #74 for 20.211972951889038 sec
+2020-05-06 21:52:25,678 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40306107431935245
+2020-05-06 21:52:25,679 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #75
+2020-05-06 21:52:32,873 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [63952 92004 32733 22857 12004 58331 69579 52907 35742 97841  9160 88709
+ 50207 57559 22070 29024 15071 14438 55677 50039]
+2020-05-06 21:52:32,893 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 48 32 32 45 13 32 12 41 16 48 11 18 28 14 12 31 32 32 20]
+2020-05-06 21:52:41,524 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #75 for 15.842360019683838 sec
+2020-05-06 21:52:41,525 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3976747608535688
+2020-05-06 21:52:41,526 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #76
+2020-05-06 21:52:52,315 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [90374 83414 24231 62562 17339 16940 29274 21246  3330 13388 12620 72538
+  7003 40176 37232 27803 91490 36197 54820  4536]
+2020-05-06 21:52:52,332 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12 16 27 46 32 12 19 28 43  3  9 27 45 14  0  8 33  8 37 13]
+2020-05-06 21:53:00,146 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #76 for 18.61937689781189 sec
+2020-05-06 21:53:00,146 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40061810154525385
+2020-05-06 21:53:00,147 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #77
+2020-05-06 21:53:11,426 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [47277 56743 67948 33594 31590 17611 90906 25520 35275 87162 58982 29238
+ 10081 96648 44834 36456  1501 95046 60993 75037]
+2020-05-06 21:53:11,441 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 4 25  9 28 33 24 45 12 15 32 11 16 49 14 44  3 31 43 31 20]
+2020-05-06 21:53:17,036 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #77 for 16.889629125595093 sec
+2020-05-06 21:53:17,037 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4048270787343635
+2020-05-06 21:53:17,037 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #78
+2020-05-06 21:53:24,587 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [55153 89070  6972 34781 92892  7808 64747  6886 73504  5600 37119 19350
+ 56749 42832 23822 11736 76421 27747 79558 87667]
+2020-05-06 21:53:24,603 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 2 46 16 10 39 33  0  0 43 24 28  2  0 25  7 10 22 31 48 27]
+2020-05-06 21:53:31,343 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #78 for 14.306180000305176 sec
+2020-05-06 21:53:31,343 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4105960264900662
+2020-05-06 21:53:31,343 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #79
+2020-05-06 21:53:40,492 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [90249 86206 89606 81970 33426 90000  9494 91319 11192 31238 43625 62436
+ 34376 41079 19506 79748 17308 85794 58984 43463]
+2020-05-06 21:53:40,634 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [25 18 41 13 16 19 32 26 23 23  9  9 29 26 18 31 11 49 48 45]
+2020-05-06 21:53:46,788 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #79 for 15.444556951522827 sec
+2020-05-06 21:53:46,788 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40741721854304636
+2020-05-06 21:53:46,788 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #80
+2020-05-06 21:53:59,698 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [70404 45197 67442 70563 48826 86157 28822 48079  1090 96123 96883 56874
+  7777 25848 75849 79141 92516 80071 27294 16352]
+2020-05-06 21:53:59,717 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [39 49 38  5  3 38 28 32 30  5 24 31 23 21 25 43 27 31 19 21]
+2020-05-06 21:54:09,862 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #80 for 23.07407307624817 sec
+2020-05-06 21:54:09,863 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4052391464311994
+2020-05-06 21:54:09,865 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 80 saved
+2020-05-06 21:54:09,865 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #81
+2020-05-06 21:54:18,303 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [16405 84016 88803 77924 12216 54111 85681 39150 60737 57383 89149  6651
+ 26680 86768 31650 40654 82591  4292 87255 90287]
+2020-05-06 21:54:18,320 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [15 24 16 23  9 24 12 38 24 21 48 28 32 33  9 20  5 13 11 27]
+2020-05-06 21:54:25,754 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #81 for 15.888439655303955 sec
+2020-05-06 21:54:25,754 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40350257542310525
+2020-05-06 21:54:25,757 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #82
+2020-05-06 21:54:35,831 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [95577 58108  4224 67205  8628 28847 79325 78960 57897 14158  8712 72318
+ 24107 46827 37781 13526 67269 77044 35967 73400]
+2020-05-06 21:54:35,847 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [18 23 21 42 21 32 34 48 33 24 25 33 32 43 32 43 46 31 45 30]
+2020-05-06 21:54:42,299 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #82 for 16.541343927383423 sec
+2020-05-06 21:54:42,299 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3987343635025754
+2020-05-06 21:54:42,299 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #83
+2020-05-06 21:54:55,143 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [44361 56631 28748 18316 12734 25536 66870 38674 39422 57337 63133 89026
+ 67855 83835 63877 37906  8188 48209 90685 15543]
+2020-05-06 21:54:55,158 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 46 39 14 16 34 39 34 11  1 16 24 11  9 46 46 28 30  3  1]
+2020-05-06 21:54:58,856 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #83 for 16.556757926940918 sec
+2020-05-06 21:54:58,857 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3959676232523915
+2020-05-06 21:54:58,858 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #84
+2020-05-06 21:55:05,370 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [37354 68350 14196 38242  7345 58543 77522 78232 70213 29174 33793 96992
+ 17515 14068 29295 67866 18563 51595 68827 86544]
+2020-05-06 21:55:05,386 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 48 28  1 32 48 23 29 20 34 29 25  1  3  1  9  1  1  3 28]
+2020-05-06 21:55:12,572 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #84 for 13.714699029922485 sec
+2020-05-06 21:55:12,573 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3906990434142752
+2020-05-06 21:55:12,573 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #85
+2020-05-06 21:55:20,027 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [98069 65399  7502 60987 73273 34149 43429  8872  8643 67151   748 30999
+ 60196 80101 38451 33095 92241 70329 38062 74878]
+2020-05-06 21:55:20,045 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 4 31 16  9  5  3 31 34 32 28 19 11 26 45 49 21 32  9 10 16]
+2020-05-06 21:55:25,806 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #85 for 13.23330307006836 sec
+2020-05-06 21:55:25,807 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3927593818984548
+2020-05-06 21:55:25,807 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #86
+2020-05-06 21:55:32,730 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [58276 35465 10487 54067 29959 26804 16807 39527 82169 83082 18676 27756
+ 91637 61035  1663 60019 93600 39710 75902 41756]
+2020-05-06 21:55:32,749 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 10 14 19 49 29 26 32 39 21 43 49 32 33 20  1 30 11 10 25]
+2020-05-06 21:55:38,383 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #86 for 12.575571060180664 sec
+2020-05-06 21:55:38,384 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38943340691685063
+2020-05-06 21:55:38,384 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #87
+2020-05-06 21:55:46,531 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [91647 15279 36969 87734 21613 94590 60549  7491 29090  8457  6096 27679
+ 70722 27183 79376 31571 33462 55945 40976 60774]
+2020-05-06 21:55:46,547 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 9 34 24 43 44 23 32 48  2 26 36 44 23 26 45  7 16 13 14 31]
+2020-05-06 21:55:56,805 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #87 for 18.42036199569702 sec
+2020-05-06 21:55:56,808 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3964385577630611
+2020-05-06 21:55:56,814 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #88
+2020-05-06 21:56:08,883 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [21321 62483 31086 91077 48018 85762 73196  4387 97277 18311 64359 35164
+ 60960 32131 73298 89590 37869 25022 24706 71456]
+2020-05-06 21:56:09,020 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 28 44 43 12 28 18 34 14 16 29 22 12 46 19 27 46  5 24  5]
+2020-05-06 21:56:13,319 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #88 for 16.502077102661133 sec
+2020-05-06 21:56:13,319 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39196467991169975
+2020-05-06 21:56:13,319 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #89
+2020-05-06 21:56:20,412 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [48919 24732 77897 17320 56157  9093 63549  5940 57267 59892 89517 55529
+ 10833 29934   826 56551 46861 34019 98108 15266]
+2020-05-06 21:56:20,430 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44  1 22 26  2 28 15 40  5 30 11 36 14 41 26 49 49 28 49 49]
+2020-05-06 21:56:27,948 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #89 for 14.629289150238037 sec
+2020-05-06 21:56:27,952 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39417218543046356
+2020-05-06 21:56:27,953 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #90
+2020-05-06 21:56:40,532 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [41448 16400 17784  4234 53435 23439 84744 61014 77013 83769 37345  6827
+ 81821 20368 68297 51314 54542 94797 62152 61720]
+2020-05-06 21:56:40,548 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 43 41 46 16 47 20 33 14 26 31 28 17 19 36 41 24 27 10 14]
+2020-05-06 21:56:45,015 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #90 for 17.062395334243774 sec
+2020-05-06 21:56:45,016 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39646799116997794
+2020-05-06 21:56:45,020 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 90 saved
+2020-05-06 21:56:45,020 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #91
+2020-05-06 21:56:52,390 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [85522 67157   527 56007 30889 86152 56060 28401 69510 66454    55 72073
+ 85601   853 37369 82938 94809 69098 40344 41166]
+2020-05-06 21:56:52,406 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 3 32 28  5 28 49 30 43 28 28  1  1 28 16 16 16 48  3  5 13]
+2020-05-06 21:57:00,261 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #91 for 15.240906000137329 sec
+2020-05-06 21:57:00,261 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38981604120676966
+2020-05-06 21:57:00,261 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #92
+2020-05-06 21:57:09,526 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [  574 65638 65616 52417 45372 38542 50173 34836 24352 76368 63669 78492
+ 31839 88762 96499 79359 63259 93975 43762  3110]
+2020-05-06 21:57:09,541 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 10  8  1  0 34 22 11  4 49  6 19  0 19 11 12 19 37 41 39]
+2020-05-06 21:57:14,327 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #92 for 14.065613985061646 sec
+2020-05-06 21:57:14,327 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38875643855776304
+2020-05-06 21:57:14,327 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #93
+2020-05-06 21:57:22,001 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [91148 61166 20625 88010 52441 47308 87263 36336 78023 79710 87460 56150
+ 36145 50301 14671 17461 83093 45508 76229 13838]
+2020-05-06 21:57:22,018 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 1 34  6  5 32 22 27  9 19 45 10  0  2  2 20 40 48 28 49 22]
+2020-05-06 21:57:31,440 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #93 for 17.11225914955139 sec
+2020-05-06 21:57:31,440 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38905077262693155
+2020-05-06 21:57:31,442 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #94
+2020-05-06 21:57:42,790 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [56407  9869 23305 52517 25990 80043 16868 10225  9590 33312 25548 60248
+ 70704 28360 31629 27775 23513  6790 47240 44552]
+2020-05-06 21:57:42,805 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 9 21 28 28 49 28 32 28 19 25 49 19  0  5 41  0 16 30 22 40]
+2020-05-06 21:57:46,227 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #94 for 14.78466010093689 sec
+2020-05-06 21:57:46,228 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39561442236938926
+2020-05-06 21:57:46,228 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #95
+2020-05-06 21:57:53,140 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [62935 32861 38713 79318 62573 19426 84113 95233 68207 45836 95291 83169
+ 19494 56469  7911 46960 44554 31724 32600  1220]
+2020-05-06 21:57:53,157 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 17 11 31 28 27 40  8 11 26 44 28 11 26 20 40 14 47 41  9]
+2020-05-06 21:58:00,746 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #95 for 14.51810908317566 sec
+2020-05-06 21:58:00,749 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3981456953642384
+2020-05-06 21:58:00,749 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #96
+2020-05-06 21:58:11,978 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [43910 94563 35488 12834 90674 78555 54690 21969 42375  9383 67313 40673
+ 20877 95897 20195 51715 52634 31876 41249   902]
+2020-05-06 21:58:11,993 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 40 46  7 20 18 38 21 28 19 45 32 13 14 32 32 38 28 24 12]
+2020-05-06 21:58:15,966 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #96 for 15.217283725738525 sec
+2020-05-06 21:58:15,967 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38710816777041945
+2020-05-06 21:58:15,967 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #97
+2020-05-06 21:58:24,264 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [83617 17932 78858 41437 29245 26296 26693 30093 90256 67722 73573 66467
+ 22367 18987 87170 66796 66259 83099 53710 95119]
+2020-05-06 21:58:24,281 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [19  0 40 48  3  3 28  0 43 39 20  4 33 32 20  4  0 26 22  4]
+2020-05-06 21:58:34,454 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #97 for 18.48630714416504 sec
+2020-05-06 21:58:34,456 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39096394407652685
+2020-05-06 21:58:34,456 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #98
+2020-05-06 21:58:47,390 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [97393 38809 35770 36591 75006 34789 45061  3525  6152 32228  5531 98036
+ 30405 56502 47109   608 59517 72037 23719 20445]
+2020-05-06 21:58:47,406 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 28 10 28 49 29 17  0  5 18 11 41 33  3 20  3  0 29 33 19]
+2020-05-06 21:58:51,252 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #98 for 16.79631781578064 sec
+2020-05-06 21:58:51,253 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39952906548933037
+2020-05-06 21:58:51,253 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #99
+2020-05-06 21:58:59,162 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [35832 15433 74621 79683 66579 17670  5023 21016 26296 20442 28473 63481
+ 50949 55368 73818 19987 36913  6678 22261 84253]
+2020-05-06 21:58:59,179 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [24 18  5  0 33 35 30 10 10 10 26 19  8 30 16 43 25 40 48 46]
+2020-05-06 21:59:07,678 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #99 for 16.425567865371704 sec
+2020-05-06 21:59:07,679 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3965857247976453
+2020-05-06 21:59:07,679 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #100
+2020-05-06 21:59:14,894 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [91177 12314 97493 51834 11973  9105 92289   337 49025 54110 84573 50311
+ 10442 52503 71203 63438 33441 67932 78202 94591]
+2020-05-06 21:59:14,910 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 44 47 47 49 48 26 28 23 12 19 16 17  8 49  1  8  5  1 32]
+2020-05-06 21:59:19,919 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #100 for 12.2398681640625 sec
+2020-05-06 21:59:19,920 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39178807947019867
+2020-05-06 21:59:19,923 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 100 saved
+2020-05-06 21:59:19,923 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #101
+2020-05-06 21:59:26,880 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [34487 84474  8757 19734 82951 94740 34429 48999 55308 55090 67576 78182
+ 57771 62550  1471  3118  5768 97311 47952 84883]
+2020-05-06 21:59:26,897 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [39 17 26 21 23  0 47 26 43 43 32 14 32 20 49  0 27 39 17 10]
+2020-05-06 21:59:34,267 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #101 for 14.343694925308228 sec
+2020-05-06 21:59:34,267 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39140544518027964
+2020-05-06 21:59:34,268 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #102
+2020-05-06 21:59:43,866 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [60936 89242 10745 51678 78900 41091 55201 85846 20949 64739 45539 24023
+ 55071 67604 26853 97905 64060 34304 48198 32095]
+2020-05-06 21:59:43,883 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 45 28 18 33 19 27 19 31 16  1 14 17  0 10 25 35  3  0  1]
+2020-05-06 21:59:48,040 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #102 for 13.77224612236023 sec
+2020-05-06 21:59:48,041 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40044150110375276
+2020-05-06 21:59:48,042 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #103
+2020-05-06 21:59:55,284 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 4026  5451  7617 40371 12081  5326 75027  6731 23284 24077  1137 14215
+ 68618 35185 32072 87631 44644 85686 35221 33396]
+2020-05-06 21:59:55,302 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [17 37 45 27 24  0 26 17 13 15 25 46 19 28  1 16 49 35  6 27]
+2020-05-06 22:00:03,892 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #103 for 15.850428819656372 sec
+2020-05-06 22:00:03,893 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.393495217071376
+2020-05-06 22:00:03,893 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #104
+2020-05-06 22:00:15,130 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [21866 36660 81713  7507  8725 55546 78129 59169 25695 22645 64034 29197
+ 18025 51033 84484 81745   182 24053 84777 77360]
+2020-05-06 22:00:15,149 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [10 11 17 11 48  6 31 35 46 13 48 29 12 16  6  9 16  6 17 23]
+2020-05-06 22:00:20,932 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #104 for 17.038018941879272 sec
+2020-05-06 22:00:20,932 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39470198675496687
+2020-05-06 22:00:20,933 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #105
+2020-05-06 22:00:28,145 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [66503 12743 15548 89263 21999 44647 66819 16430 82618 52866 26928 42532
+ 39180 11096 62831 37235 35922 45698 52947 63356]
+2020-05-06 22:00:28,164 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [20 48 42 47 44 36 33 28  0 14 47 33 49 17 25 29 26 47 37 34]
+2020-05-06 22:00:34,724 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #105 for 13.790174007415771 sec
+2020-05-06 22:00:34,724 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39593818984547463
+2020-05-06 22:00:34,724 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #106
+2020-05-06 22:00:48,992 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [73679 40654   701 30421 17633 93723 73108 10049 63726 20801 18626 45053
+ 91663 26628 97384 60812 17957 42924 86982  4548]
+2020-05-06 22:00:49,008 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [30 28 21 20 13 13 18  0 14 47 22 36 36 16 47 12 13 26 48 33]
+2020-05-06 22:00:57,119 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #106 for 22.39543890953064 sec
+2020-05-06 22:00:57,120 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38934510669610006
+2020-05-06 22:00:57,120 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #107
+2020-05-06 22:01:11,895 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 4063 68228 15442 40860  9176 66349 75934 19962 45628 60291 90038 79451
+ 19129 66190 47997 56832 52454  2860 69005 39068]
+2020-05-06 22:01:11,913 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [13 33 48 13 26 48  5  8 42 33 48 34 28 41 43 41  4 26 12  5]
+2020-05-06 22:01:17,896 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #107 for 20.77658987045288 sec
+2020-05-06 22:01:17,898 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39249448123620306
+2020-05-06 22:01:17,898 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #108
+2020-05-06 22:01:25,120 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [83691 67304 59348 44705 91207 68520 27113 70018 22388 21602 40094 74448
+ 61989 49175 97791 26186 51455 10908 83016 15767]
+2020-05-06 22:01:25,137 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 5 48 16 26  5 14 16 13  6 48 17 21 28 49 13 27 48 17 26 14]
+2020-05-06 22:01:31,919 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #108 for 14.016135931015015 sec
+2020-05-06 22:01:31,925 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.397439293598234
+2020-05-06 22:01:31,926 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #109
+2020-05-06 22:01:42,666 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [79243 96738  9680 60540 50417 35580 35936 83776 15897 38820 92440  8862
+ 22451 91662  3163 32792 35301 45056 48897 73951]
+2020-05-06 22:01:42,682 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12  5 20 33  8 46  1  5 32 41 17 48 28 14 10 12 16 28 38 44]
+2020-05-06 22:01:46,612 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #109 for 14.6857430934906 sec
+2020-05-06 22:01:46,612 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39593818984547463
+2020-05-06 22:01:46,612 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #110
+2020-05-06 22:01:53,491 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [59676  7510 18687 87095 61143 95078 39891  3618 91238 63658 84370 30494
+ 83054 84578 34266 13576 79523 54308 14841 77815]
+2020-05-06 22:01:53,509 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28  0 28 38 18 21  9  0 13 24 34 43 28 49 43 19 16 25  6 35]
+2020-05-06 22:02:02,630 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #110 for 16.017475843429565 sec
+2020-05-06 22:02:02,631 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39240618101545255
+2020-05-06 22:02:02,638 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 110 saved
+2020-05-06 22:02:02,639 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #111
+2020-05-06 22:02:14,164 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [10973 79559 52500 71328 36179 79908 96388 56902 79569 69599 31716 12676
+ 95573  5436 22427 22495 81154 83793 51164 53358]
+2020-05-06 22:02:14,183 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [22 46  0 31 28 21 22 28 49 39  4 17 28 18 25 21 49 22  7 48]
+2020-05-06 22:02:18,474 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #111 for 15.835311651229858 sec
+2020-05-06 22:02:18,475 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3922001471670346
+2020-05-06 22:02:18,475 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #112
+2020-05-06 22:02:24,396 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [10515 83410 45366 13133  9086  9486  7606 88495 24759 31819 52813  5037
+ 62494 25835 41657 29993 71955 10120 91100 93467]
+2020-05-06 22:02:24,413 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33 44 10 48 29 46 12 13 34 41 10 15 16 20 48 27 47 45 42 18]
+2020-05-06 22:02:29,203 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #112 for 10.727369785308838 sec
+2020-05-06 22:02:29,203 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40167770419426047
+2020-05-06 22:02:29,204 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #113
+2020-05-06 22:02:38,738 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [93475  5036 15556    23 50779 58116 72807 71501 58237 51169 43084 86192
+ 40968  2202 80393 71218 13642 48361 39311 25741]
+2020-05-06 22:02:38,754 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 49 30 25 49 48 19 12 22 14 33 25 22 32 32 12  0 32 14 26]
+2020-05-06 22:02:48,893 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #113 for 19.688826322555542 sec
+2020-05-06 22:02:48,895 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39923473142016186
+2020-05-06 22:02:48,895 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #114
+2020-05-06 22:03:02,659 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [76954  1801 52074 23153  4036 13810 35724 72052 11057 34697 52203 95939
+ 73830 57138 93729 75250 34482 51895 50717  5859]
+2020-05-06 22:03:02,678 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 19 32 19 20 32  0 45  9 16 15 18  3 12 41 28  3 11 48 31]
+2020-05-06 22:03:11,485 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #114 for 22.589761972427368 sec
+2020-05-06 22:03:11,485 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39479028697571744
+2020-05-06 22:03:11,486 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #115
+2020-05-06 22:03:18,944 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [52668 71992 30125  9000 23999 39992  3769 35853   723 92348 51123  2364
+ 81718 91772  7131 68479 87386 12914 13072 36382]
+2020-05-06 22:03:18,960 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12 13  1 26 14 24 26  8 11 28 28 19 20 48 21 26 32 33  5  4]
+2020-05-06 22:03:25,197 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #115 for 13.711689949035645 sec
+2020-05-06 22:03:25,198 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3965857247976453
+2020-05-06 22:03:25,198 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #116
+2020-05-06 22:03:39,029 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [97195 12689 58028 64438 52761 16218 82532 63441 46121 63910 28935 26515
+ 26472 54363 96812 34196 59028 15002 80518 91147]
+2020-05-06 22:03:39,046 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33 27 18 28 34 12 41 45  1 44 28 19 39 43 44  1  5  3  1  0]
+2020-05-06 22:03:44,662 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #116 for 19.463733196258545 sec
+2020-05-06 22:03:44,662 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3931420161883738
+2020-05-06 22:03:44,662 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #117
+2020-05-06 22:03:51,464 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [46508  5060  1624 20434 33908 77638 28119 73820 95823 44834 71525 71732
+ 95957 35441 66914 56545 75479  1622 88319 72005]
+2020-05-06 22:03:51,480 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [14 45 33 32  3 23  3 29 32 24 28  5 32 28  3 32 45 35 32 32]
+2020-05-06 22:03:58,985 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #117 for 14.322731018066406 sec
+2020-05-06 22:03:59,078 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38828550404709344
+2020-05-06 22:03:59,079 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #118
+2020-05-06 22:04:09,328 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [74259 47326 64092  1716 95661  4959 92368 71412 95806  2010 28101 51589
+ 93650 83035 80276 12416 95170 92412 11647 61095]
+2020-05-06 22:04:09,343 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [25 19 25  3 32 28 18 27 28 44 16 25 27 32 37 47 37 33  4 32]
+2020-05-06 22:04:14,250 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #118 for 15.171560764312744 sec
+2020-05-06 22:04:14,251 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39093451066961
+2020-05-06 22:04:14,251 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #119
+2020-05-06 22:04:20,527 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [15957 72762 73805 61291 76148  1558 35991  8746 14493 54538 13255 59757
+ 12123  5963 64586 92502 81133 23497 20323 24156]
+2020-05-06 22:04:20,543 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [15 29 22 37 24  1 23 32 32  4 23 21 25 20 23 24 41  0 28  1]
+2020-05-06 22:04:28,046 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #119 for 13.794909954071045 sec
+2020-05-06 22:04:28,046 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39111111111111113
+2020-05-06 22:04:28,046 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #120
+2020-05-06 22:04:37,243 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [61153 16227 25303 15961  8830 40069 67698 39326 75486 32387 10922 50130
+ 56090  8353 28294 17635 51826  5142 64387 50753]
+2020-05-06 22:04:37,260 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48  1 43 24 35 21 15 15 47 48  1  6 32 26 19 23 34 17 13 39]
+2020-05-06 22:04:44,413 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #120 for 16.366667985916138 sec
+2020-05-06 22:04:44,413 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38972774098601914
+2020-05-06 22:04:44,415 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 120 saved
+2020-05-06 22:04:44,415 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #121
+2020-05-06 22:04:56,405 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 1379 90869 87301 62279  4156 28821 49125 68438 96187 27873 40071 61597
+ 24989 48054 48064 27811 56517 41335  2495 70734]
+2020-05-06 22:04:56,422 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [43 30 44 44 36 18 19 28 36 19 48 16 25 47 16 27 19 24 16  7]
+2020-05-06 22:05:01,798 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #121 for 17.382894039154053 sec
+2020-05-06 22:05:01,799 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3961147902869757
+2020-05-06 22:05:01,799 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #122
+2020-05-06 22:05:08,990 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [79459 26946 94033 34243 20973 96921 22154 49866  8251 49932 43855 70888
+ 18455 76069 68081 56362 35424 62244 21073 66394]
+2020-05-06 22:05:09,008 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12 26 31 31 16 17 15 14 19 45  8 16 24  3  5  0  0 30 35  5]
+2020-05-06 22:05:16,072 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #122 for 14.273008346557617 sec
+2020-05-06 22:05:16,072 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39793966151582044
+2020-05-06 22:05:16,074 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #123
+2020-05-06 22:05:27,460 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [85099  1303 39003 68683 66208 80909  4927 64000 90592 48170 59666 36517
+ 31514 46069 96545 58345 96549 35411 63698  3800]
+2020-05-06 22:05:27,475 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33 45 14 34 49  1  6 49 13 44 23  3 39 19 31 35  7  1 23  8]
+2020-05-06 22:05:31,436 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #123 for 15.361377954483032 sec
+2020-05-06 22:05:31,436 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3984988962472406
+2020-05-06 22:05:31,436 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #124
+2020-05-06 22:05:38,297 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 9167 70537 96765 87711 78987 49198   278  7814  2491 70521 35352 19496
+ 10252 66869 69596 72557  8451 90910 81798 67082]
+2020-05-06 22:05:38,314 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [43 27 41  1 24 14 19 24 28 14 16 32 21  1 33 45 12 44 28 45]
+2020-05-06 22:05:43,228 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #124 for 11.79200792312622 sec
+2020-05-06 22:05:43,229 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39490802060338487
+2020-05-06 22:05:43,229 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #125
+2020-05-06 22:05:53,350 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [54738 50959  5755 92425 87410 97131 69978 21830 13063 56742 75059 58495
+ 17106 13219 67569 58255 88859 51983 74922 27692]
+2020-05-06 22:05:53,366 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48 27 14 29 26  0 17 26 28 10 35 16 14 24 45  0 20  9 47 32]
+2020-05-06 22:05:58,149 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #125 for 14.919566869735718 sec
+2020-05-06 22:05:58,150 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39417218543046356
+2020-05-06 22:05:58,150 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #126
+2020-05-06 22:06:04,627 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [42226 78438 72935 23870 41863 56050 70306 34219 30740 65083 84133 77428
+ 54626 57493 34378 96370 47951 79811 57641 86712]
+2020-05-06 22:06:04,647 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [34 26 26 16 44 25 28 32 11 31 16 25 12 49  5 26 33 33 49 28]
+2020-05-06 22:06:10,781 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #126 for 12.631104946136475 sec
+2020-05-06 22:06:10,782 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3919941133186166
+2020-05-06 22:06:10,783 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #127
+2020-05-06 22:06:21,412 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [37946  6523 87216 42890  9180 43032 31409 42794 78379 81781 69390 19727
+ 33422 68786 52835 26209 37157 11046 92587 62951]
+2020-05-06 22:06:21,428 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [22 20 49 10 28 37 42  1 28 19 35 11 18 11 18 28 11  1 49 10]
+2020-05-06 22:06:25,253 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #127 for 14.469669818878174 sec
+2020-05-06 22:06:25,254 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.38996320824135394
+2020-05-06 22:06:25,254 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #128
+2020-05-06 22:06:31,682 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 3574 33246 24985 39637  7954 56096 80578 97324  9526  1497 46503 25364
+ 61239  7750 74775 26495 26735 16872 41838 51892]
+2020-05-06 22:06:31,698 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12  6 13 31 18 15 18  5 14 36 30 43 20 13 28 41 47 38 48 14]
+2020-05-06 22:06:38,901 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #128 for 13.646673917770386 sec
+2020-05-06 22:06:38,902 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.394289919058131
+2020-05-06 22:06:38,902 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #129
+2020-05-06 22:06:50,914 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 3504 36210 53111 20715  2366  1621 91744 69391 69535 92013 55528 55752
+ 59297  8540 64738 65138 70301 33624 97188 81189]
+2020-05-06 22:06:50,931 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 4 23 38  0 29 33 28 49  1 11 44 10 23 45 48  6  0 17 22  8]
+2020-05-06 22:06:55,250 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #129 for 16.347220182418823 sec
+2020-05-06 22:06:55,250 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3902281089036056
+2020-05-06 22:06:55,251 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #130
+2020-05-06 22:07:02,083 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [52752 71189 94649  7246 38540 96595 85308 95914 62175 45709 82283 42423
+ 85800 27222 64560  7298 12363 76787 19599  9206]
+2020-05-06 22:07:02,101 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [22 19 17 24 41 30 41 26 16 44  4 33 46  1 28 19 16 38 20 46]
+2020-05-06 22:07:10,210 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #130 for 14.95888090133667 sec
+2020-05-06 22:07:10,210 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3959676232523915
+2020-05-06 22:07:10,214 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 130 saved
+2020-05-06 22:07:10,214 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #131
+2020-05-06 22:07:21,633 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 2391 75546  8178 19130 53108 95301 21371 49337 91298 29445 83256 13544
+ 13185 71471 87056 59184 29810 20412 15840 17341]
+2020-05-06 22:07:21,649 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 44 30  5 13 14 40 19 34 41 19 15 35 30 37 41 23 26 25 45]
+2020-05-06 22:07:28,752 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #131 for 18.537551164627075 sec
+2020-05-06 22:07:28,755 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3988815305371597
+2020-05-06 22:07:28,755 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #132
+2020-05-06 22:07:35,922 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [18201  1347 44483 96892 47357 14833 89971 85904  6589 11462  9739 36256
+ 72645 11455 78821 55067 11380 38543 10783 45969]
+2020-05-06 22:07:35,939 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [41 13 38 48 41 48 48  0 18 45 35 33 48 12 19 39 25 32 27 49]
+2020-05-06 22:07:42,918 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #132 for 14.162845134735107 sec
+2020-05-06 22:07:42,919 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.394878587196468
+2020-05-06 22:07:42,919 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #133
+2020-05-06 22:07:53,826 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [74752 55354 54985  5863  5264 29701  3142 51979 46850 27671 28694 39425
+ 83224 42353 78657 17417   585  5936 80851  4207]
+2020-05-06 22:07:53,840 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48 48 25 28 32 35 26 28 48 37 10 28  8 30 12 16 32 44 12 20]
+2020-05-06 22:07:58,511 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #133 for 15.591646909713745 sec
+2020-05-06 22:07:58,512 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3874025018395879
+2020-05-06 22:07:58,513 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #134
+2020-05-06 22:08:04,981 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [53015 40885  9621 72340  5856 54503 37958 30748 61953 92764 67097 86718
+  2937 78707 47711 63683 91621  6352 63473 23945]
+2020-05-06 22:08:04,997 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48  0 49 19  0 11 27  2  5  2 30 16 35 39 12 10  7 11 31 27]
+2020-05-06 22:08:12,406 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #134 for 13.892805337905884 sec
+2020-05-06 22:08:12,407 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3997056659308315
+2020-05-06 22:08:12,407 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #135
+2020-05-06 22:08:19,183 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [81003 84092 87744 15518 18011 71308 20034 78504 11690 11558 59197 24755
+ 50211 96490  9384  6774 41593 63296 26148  9931]
+2020-05-06 22:08:19,198 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48 45  3 48 48 40 26 27 26 28  3 49 17 19 18 27 24 48 32 17]
+2020-05-06 22:08:27,755 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #135 for 15.34748101234436 sec
+2020-05-06 22:08:27,864 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39417218543046356
+2020-05-06 22:08:27,864 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #136
+2020-05-06 22:08:39,489 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [41802 20620 30371 69020 10473 10756 50923  6229 29875 33376 34800 78819
+ 35514 63402 75501 38628  3860 76563 82002 17646]
+2020-05-06 22:08:39,505 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [16 48 27 30  1 16 16 32 13 13  0 12  6 28  8 41 13 42 27 10]
+2020-05-06 22:08:45,329 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #136 for 17.465009927749634 sec
+2020-05-06 22:08:45,330 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3907579102281089
+2020-05-06 22:08:45,330 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #137
+2020-05-06 22:08:55,125 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 8593 12795 18963 67404 67792 47083 49131 75020 33095 41688 27679 56376
+  1599 32421 67911 25870  4842 80482 33681  1769]
+2020-05-06 22:08:55,140 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 5 13 32  9 34 27 12 43 14 14 15 18  9 28 13 46 20 10 49 16]
+2020-05-06 22:08:59,460 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #137 for 14.13018012046814 sec
+2020-05-06 22:08:59,460 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3924356144223694
+2020-05-06 22:08:59,460 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #138
+2020-05-06 22:09:07,598 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [77128 79581 19175 19058 86582 22633  4724 63499 44303 85179  6035 65909
+ 40192 59265 46586 50526 80201 10190 36152 11034]
+2020-05-06 22:09:07,615 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 18 46  4 32 29 18 28 32  4  3 41 26  1 41 12  9 27 11  6]
+2020-05-06 22:09:14,764 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #138 for 15.303886651992798 sec
+2020-05-06 22:09:14,765 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3925533480500368
+2020-05-06 22:09:14,765 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #139
+2020-05-06 22:09:22,713 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [87233 56142 22996 73968 12259 13013 26898 83306 77602 42256 28350 49358
+ 97186  3408 23612 85603 53008 21497 92588 45892]
+2020-05-06 22:09:22,730 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 1 39  9 48 20 26 32 29 23 12 47 25 21 17  1 11 27 17 48 13]
+2020-05-06 22:09:27,715 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #139 for 12.950007915496826 sec
+2020-05-06 22:09:27,718 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39829286239882267
+2020-05-06 22:09:27,719 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #140
+2020-05-06 22:09:34,821 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [85172 77911 61191 89301 76649 62155 95658 15602 53095 94561 73872 14674
+ 97144 32795 60198  3193 49367  2142 33038 83791]
+2020-05-06 22:09:34,838 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [49 16 28 16  7 16 32 24 48 36 32 12 20 14 36 24 21 23 13 14]
+2020-05-06 22:09:43,418 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #140 for 15.699172735214233 sec
+2020-05-06 22:09:43,420 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3950551876379691
+2020-05-06 22:09:43,425 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 140 saved
+2020-05-06 22:09:43,425 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #141
+2020-05-06 22:09:51,982 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [70322  3988 60867 31098 24210 96835 79499 54444 79747 91587 45274 96427
+ 84736 94876 75856 86339 74808 24411 53920 76515]
+2020-05-06 22:09:51,998 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [38 26 17 13 45 32 43  3  9 33 38 30 41 35  0 11 12 17 32 49]
+2020-05-06 22:09:56,426 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #141 for 13.001023054122925 sec
+2020-05-06 22:09:56,427 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.396055923473142
+2020-05-06 22:09:56,428 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #142
+2020-05-06 22:10:03,271 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [17533 67363 45328 18508 53156 84959 82388 47258 55891 26768 94480 26206
+ 25730 93226 31877 76898 70198 85284 28105 93110]
+2020-05-06 22:10:03,287 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 3 28 34 46 27 41 27 34 14 21 38 11 20 34 27 38 33 17 46 46]
+2020-05-06 22:10:10,490 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #142 for 14.062695980072021 sec
+2020-05-06 22:10:10,491 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40120676968359087
+2020-05-06 22:10:10,491 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #143
+2020-05-06 22:10:17,127 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [68259 72505 28755  7569 57904 29101 33202 19062 16550 72372  7657 56125
+ 78323 34670 10294 42307  2500 94268 60436 96962]
+2020-05-06 22:10:17,142 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [25 30 16 17 19 15 20 34 25 12 21 28 48 48 16  0 35 20 29 48]
+2020-05-06 22:10:23,231 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #143 for 12.739603042602539 sec
+2020-05-06 22:10:23,231 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40020603384841796
+2020-05-06 22:10:23,232 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #144
+2020-05-06 22:10:32,345 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [91720 86795 70416 22699 49979 17739 88462 16592 85769 88241 19667 42992
+  9321 12934 65105  6396 28509 34099 91729 30051]
+2020-05-06 22:10:32,360 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [20 31 16 28 13 23 28 28 39 45 46  1  8  0 28  9  0  0 38 35]
+2020-05-06 22:10:37,038 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #144 for 13.806303024291992 sec
+2020-05-06 22:10:37,039 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40038263428991905
+2020-05-06 22:10:37,039 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #145
+2020-05-06 22:10:44,567 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [  411 63034 18877 66327 84396 12470 77772 47287 83404 48629 54136 69308
+  2001 87163 82124 31474 56286  9658 43084 76076]
+2020-05-06 22:10:44,604 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [21  4 21 28  0 20 18 19 26 35  8 21 32 26 16  4 21 19 34 39]
+2020-05-06 22:10:53,262 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #145 for 16.222735166549683 sec
+2020-05-06 22:10:53,262 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.398027961736571
+2020-05-06 22:10:53,263 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #146
+2020-05-06 22:11:03,667 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [21811 24307 80864 46354 75245 17240 27192 29806 75378 56447 46903 13898
+ 89157  6674 10706 56374 20133 77521 72453 86641]
+2020-05-06 22:11:03,685 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [18 28 21 33 48 36  4  5 28 11 32 33 17  9  5 28  3 28 28 23]
+2020-05-06 22:11:10,001 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #146 for 16.737786054611206 sec
+2020-05-06 22:11:10,001 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39579102281089035
+2020-05-06 22:11:10,001 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #147
+2020-05-06 22:11:17,924 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [88890  9511 56413 35206 50235 24828  8103 12655 28641 16841 26727 11956
+ 86122 10565 32948 81948 68773 80676 24325 69323]
+2020-05-06 22:11:17,940 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28 14 47  5 49 48 12 36 44 35 49 14  5 15 32  1  5  6 22 19]
+2020-05-06 22:11:25,653 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #147 for 15.651991844177246 sec
+2020-05-06 22:11:25,653 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3932597498160412
+2020-05-06 22:11:25,653 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #148
+2020-05-06 22:11:34,951 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [36711 36154  7908  1698 73559 50935  7501 41031  4715 78792 65119 43417
+ 76116 88447  1305 39875 13342 73431 19219 50403]
+2020-05-06 22:11:34,967 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [45 33 19 48  8  0 32 23 12 18  5 33 33 39 10 49  5 32 26 32]
+2020-05-06 22:11:39,285 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #148 for 13.632013082504272 sec
+2020-05-06 22:11:39,286 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39573215599705663
+2020-05-06 22:11:39,286 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #149
+2020-05-06 22:11:49,170 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [78691 23390  9098 43143 69138 16127 65334 55651 13468 14885 37935 76037
+  2708 82762 68085 82197  5870 75312  8727 77908]
+2020-05-06 22:11:49,186 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33 49 29 35 18 28 20 26 26 48  3  5 45  7 28 26  4 28 14  9]
+2020-05-06 22:11:55,262 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #149 for 15.975744009017944 sec
+2020-05-06 22:11:55,262 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3932891832229581
+2020-05-06 22:11:55,262 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #150
+2020-05-06 22:12:05,703 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [14684 47604 27378 70367 57422 84653 30844 69220 60990 37945 28278 43077
+ 57968 77965 58491 70723 17415  1522 65075 34026]
+2020-05-06 22:12:05,723 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [41 23 14 46 43 35 36 23  9 43 29 12 32 14  3 40 17 27 13 44]
+2020-05-06 22:12:16,646 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #150 for 21.38318681716919 sec
+2020-05-06 22:12:16,649 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4006475349521707
+2020-05-06 22:12:16,660 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 150 saved
+2020-05-06 22:12:16,660 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #151
+2020-05-06 22:12:31,180 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [82503 94057 19100 46226 88472  6027 70259 90160 43939  5646 88012 51521
+ 34084 43107 58895  8048 16163 91552 87637 69947]
+2020-05-06 22:12:31,197 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [38 32 32 28 32 15  3 14 36 31  5 24 41  3 39 17 28 26 27 32]
+2020-05-06 22:12:37,461 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #151 for 20.800364017486572 sec
+2020-05-06 22:12:37,572 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3979102281089036
+2020-05-06 22:12:37,572 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #152
+2020-05-06 22:12:45,047 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [11381 54491 28746 23567 43649  3206 62802 63619 28919 91923 49067 31660
+ 19844 48166 93509 83985 22746 21683 55260 17864]
+2020-05-06 22:12:45,064 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [31 23 31 10  0 39 23 48 32 45 32 36 32 24 12 11 17 35 20 30]
+2020-05-06 22:12:51,175 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #152 for 13.60350513458252 sec
+2020-05-06 22:12:51,176 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3986460632818249
+2020-05-06 22:12:51,176 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #153
+2020-05-06 22:13:00,608 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [64159 71112 91664 74582 18704 92764 76446 69856 85480 26814 69609 89148
+ 74278 38461 79430 17533 59585 25963 17536 19249]
+2020-05-06 22:13:00,624 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [45 48 39  1 20 10 16 49 35 28 45 49  4 33  0 46  6 12 24 47]
+2020-05-06 22:13:05,324 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #153 for 14.14776873588562 sec
+2020-05-06 22:13:05,324 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39914643119941134
+2020-05-06 22:13:05,324 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #154
+2020-05-06 22:13:11,728 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [66017 43196 71907 23133 62481 38508 64058 61733 26368 13483 25248 44124
+ 39045  1196 25402 84605 30424 81565 49276 30223]
+2020-05-06 22:13:11,744 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [47 28 37  4 19 49 11 49 34 12 49 32 13 49 31 49 11 17 28 28]
+2020-05-06 22:13:17,220 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #154 for 11.89560604095459 sec
+2020-05-06 22:13:17,220 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40264900662251657
+2020-05-06 22:13:17,220 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #155
+2020-05-06 22:13:23,741 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [74118 31174 19518 44144  9666 13110 63113 96380 42306  6496 74319 85496
+ 89793 92435 31111 62598 24632 69783  6110 15699]
+2020-05-06 22:13:23,758 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 3 47 11 10 16 45 23 14 28 45 44  1 17 37 33 39 21 45 11 32]
+2020-05-06 22:13:29,820 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #155 for 12.600064992904663 sec
+2020-05-06 22:13:29,820 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3950551876379691
+2020-05-06 22:13:29,821 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #156
+2020-05-06 22:13:39,668 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [61862 39783 71614 15823 75297 56321 64354 15085 40780 74145 39455 57188
+ 57460 31788  1997 87880 74792 67659 14884 78121]
+2020-05-06 22:13:39,686 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [22 10 13 33 20 23 21  6  0 27 41 32 19 36 26 27 14 28 17 25]
+2020-05-06 22:13:45,274 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #156 for 15.453455209732056 sec
+2020-05-06 22:13:45,274 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3971155261221486
+2020-05-06 22:13:45,274 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #157
+2020-05-06 22:13:56,642 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [21180 63052 59483 84714 78235 37223 90930 57441 31068  4124  6247 86891
+ 74283 74340 81985 93507  9000  5508 16488 26654]
+2020-05-06 22:13:56,657 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [19 48 30 13 15 28 10 20 42 26  5 27 10 15 48 41 29  1 43 42]
+2020-05-06 22:14:01,064 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #157 for 15.789212942123413 sec
+2020-05-06 22:14:01,064 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39676232523914645
+2020-05-06 22:14:01,064 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #158
+2020-05-06 22:14:07,546 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [21409 14278 66607 63069 71816 49617 19886  7706  7694 12642 14811 45500
+ 67126 84032 49661 61554 42608 25718 51791 12066]
+2020-05-06 22:14:07,563 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [23 26  2 13 22 12 47 48 48 11 21  5 32 19 28 14 24  2 20 32]
+2020-05-06 22:14:15,061 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #158 for 13.996827840805054 sec
+2020-05-06 22:14:15,061 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3798086828550405
+2020-05-06 22:14:15,061 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #159
+2020-05-06 22:14:24,902 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [61594 10575 55843 93907 26104 52426 43047 64160 62297 66375 78873 93051
+ 94813 80384 90661 80123 12955 37673 11659 28961]
+2020-05-06 22:14:24,919 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 24 34  1 17 46 13  5 18 17 27 41 21 16 24  1 15 17 40 31]
+2020-05-06 22:14:29,960 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #159 for 14.898363828659058 sec
+2020-05-06 22:14:29,960 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4026195732155997
+2020-05-06 22:14:29,960 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #160
+2020-05-06 22:14:37,588 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [54200 32687  1061 21325 29795 96786 81536 47538 39121 82420 10719 53880
+ 70444 93056  4082 86180 72172 49122 72948 13029]
+2020-05-06 22:14:37,603 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44 17 19  0 30 34  1 13 29 39 42 35 10 39  9 35  7 14 42 30]
+2020-05-06 22:14:44,102 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #160 for 14.141964197158813 sec
+2020-05-06 22:14:44,199 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40520971302428255
+2020-05-06 22:14:44,203 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 160 saved
+2020-05-06 22:14:44,203 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #161
+2020-05-06 22:14:50,251 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [92137 92183 24653 58790 88738 80172 65714 17158 49902  5052 21789 78337
+ 41322 88903 69648 18893 26062 85667 63463 19058]
+2020-05-06 22:14:50,267 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 21 34 32 44  9 32 43 37  5 19 27 26  6 26 26 34  1  2 27]
+2020-05-06 22:14:56,501 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #161 for 12.29770803451538 sec
+2020-05-06 22:14:56,501 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3974981604120677
+2020-05-06 22:14:56,507 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #162
+2020-05-06 22:15:08,242 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [24625 76002 68348 28763 51215  7906 21738 17818 80860 81546 88776 11101
+ 88247 51522  5416 39777 40750 92486 71441 34238]
+2020-05-06 22:15:08,258 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [42 26 39  1 47 48 34 34  6 20 13 28 14 23 39 17 32 25 28 26]
+2020-05-06 22:15:12,733 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #162 for 16.225987195968628 sec
+2020-05-06 22:15:12,733 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40288447387785137
+2020-05-06 22:15:12,733 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #163
+2020-05-06 22:15:18,878 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [25501 70631   355 45440 45006 70263 92253 35911   410 82097 28922 90368
+ 55289 17971 67315 30870 86220 47468 90311 70165]
+2020-05-06 22:15:18,894 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48 19 47  6 16 13  0 34  5 26 19  0 27  4 28 28 33 31 37 25]
+2020-05-06 22:15:27,131 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #163 for 14.396099090576172 sec
+2020-05-06 22:15:27,136 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3984400294334069
+2020-05-06 22:15:27,136 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #164
+2020-05-06 22:15:52,716 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [44963 62518 95957 69674 36139  7819 14606 45067 11712 87169 62443 16370
+ 84884 53871 55182 55541 39471 66207 83296 60661]
+2020-05-06 22:15:52,736 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44 43 18 49 20 26 28  3 16  5 28 26 24 24 24 47 49 18  1  1]
+2020-05-06 22:16:08,688 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #164 for 41.547616720199585 sec
+2020-05-06 22:16:08,699 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3954083885209713
+2020-05-06 22:16:08,701 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #165
+2020-05-06 22:16:33,058 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [89243 56760 62911 91648 50380 10054  8641  7532 54517 55262 44883 41700
+  5563 77212 44540 71286 13316 94047 39606 22278]
+2020-05-06 22:16:33,078 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [20 24 28 36 39 11  9 49 28 19 23  6 43 11  0 12 21 12 24 35]
+2020-05-06 22:16:46,564 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #165 for 37.86250185966492 sec
+2020-05-06 22:16:46,639 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3987343635025754
+2020-05-06 22:16:46,639 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #166
+2020-05-06 22:17:03,021 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [11658 76105  5800 87822 77186 39794  2874 79581 76881  8963 58576  6143
+ 80908 35856 73393 86746 25948 94913 25856 92430]
+2020-05-06 22:17:03,044 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [39 49 25 11 45 28 41 16 48 20 12 15  1  5 15 11 45 45  6  3]
+2020-05-06 22:17:14,640 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #166 for 27.999961853027344 sec
+2020-05-06 22:17:14,641 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39019867549668874
+2020-05-06 22:17:14,641 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #167
+2020-05-06 22:17:32,493 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [12237  2574 61134 71620  8888 22301 14008  1053 77274 94915 61185 52360
+ 27823 41556 53095 64664 81706 13242 59986 51033]
+2020-05-06 22:17:32,518 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44 19 43  9  9 28 23 19 16 32 33 28 18 11 41 12 49 14  9 19]
+2020-05-06 22:17:41,959 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #167 for 27.317688941955566 sec
+2020-05-06 22:17:41,960 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3913760117733628
+2020-05-06 22:17:41,960 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #168
+2020-05-06 22:17:56,168 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [82392 45084 18526  2216 58496 10104 17088 42355 10663 20069 15548  1272
+ 18868 78466 91724  2070 61925 95791  9099  5694]
+2020-05-06 22:17:56,187 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 5 28 19 25 41 19  4 33 24 28 12 26 46 32 12  9 14 27  0  8]
+2020-05-06 22:18:04,181 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #168 for 22.220585823059082 sec
+2020-05-06 22:18:04,181 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39846946284032375
+2020-05-06 22:18:04,181 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #169
+2020-05-06 22:18:21,888 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [15755 67104 86189 43487 79711   856 31564  7307 27521 19931 38329 39479
+ 43624 74556 18207  6287 39322 57180 86385 95994]
+2020-05-06 22:18:21,907 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [14 47  0 25 49 37 35 31  5 45 28 32 48 29 14 20  5 28  1 41]
+2020-05-06 22:18:33,021 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #169 for 28.839317798614502 sec
+2020-05-06 22:18:33,022 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3959970566593083
+2020-05-06 22:18:33,022 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #170
+2020-05-06 22:18:47,785 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [66150 58003 81696  9253  5748 92460 47612 67266 91663 80926 53871 94442
+ 83131 14739 35862 15399  3978 50884 59749 54013]
+2020-05-06 22:18:47,803 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 10 16 16 47 16 23  7  5  5 26  4 20 27 16  9  9 32  9 29]
+2020-05-06 22:18:54,659 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #170 for 21.636588096618652 sec
+2020-05-06 22:18:54,661 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39111111111111113
+2020-05-06 22:18:54,666 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 170 saved
+2020-05-06 22:18:54,666 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #171
+2020-05-06 22:19:05,721 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 1656 65989 40050 80894  9147 11298 63076 43732 58033 40217 50825 49179
+ 11740 22980 13674 84844 28433 11194 12694 65493]
+2020-05-06 22:19:05,739 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [20  2 43 21  5 22 20 38 28 20 18 29 36 33 32 42 47 17 28 48]
+2020-05-06 22:19:12,901 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #171 for 18.23462414741516 sec
+2020-05-06 22:19:12,902 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39426048565121413
+2020-05-06 22:19:12,903 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #172
+2020-05-06 22:19:26,196 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [72299 75165 16316 37494  8941 85882 88718 78788 13411 80979 24208 14704
+ 68986 83669 10561 30979 80675 48793 17141 70338]
+2020-05-06 22:19:26,213 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [47 35 17 49 29 14 32 32 31 43 24  2 26 16  0 43 21  0 40 49]
+2020-05-06 22:19:33,184 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #172 for 20.28133487701416 sec
+2020-05-06 22:19:33,185 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39693892568064754
+2020-05-06 22:19:33,185 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #173
+2020-05-06 22:19:40,938 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [84819 88361 53750 68337 46581 24636 23432 87006 51428 49351 29169 46484
+ 13454 93123 77252  8507 21094 57724 63513 88591]
+2020-05-06 22:19:40,955 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [19 10  3 47 22 13 27 27 16 31 10 20 25 32 45 32 32 47 28 32]
+2020-05-06 22:19:48,412 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #173 for 15.226272821426392 sec
+2020-05-06 22:19:48,412 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3954378219278882
+2020-05-06 22:19:48,412 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #174
+2020-05-06 22:19:58,375 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [57227 69947 67967 65709 64913 11563 27742 80808 44127 49529 34093  9855
+  8060 68979 27082 61859 78617 83733 79981 68571]
+2020-05-06 22:19:58,393 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [27 30 21 16 13 25 19 10 21 40 48  1  6  9 17 12 19 12  5 45]
+2020-05-06 22:20:04,370 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #174 for 15.958155870437622 sec
+2020-05-06 22:20:04,417 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39246504782928626
+2020-05-06 22:20:04,417 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #175
+2020-05-06 22:20:16,943 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [74855 91677  1063  1920 92166  5784 83450 27599  6729 79670  3699 13892
+ 49368 27146 32112  2299 69247 38192 65830 50855]
+2020-05-06 22:20:16,959 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [13  4 45 28 39 32 18 44 19 26  3 37 20 27  3 27  1 31 24 44]
+2020-05-06 22:20:22,221 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #175 for 17.803564071655273 sec
+2020-05-06 22:20:22,221 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3985577630610743
+2020-05-06 22:20:22,221 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #176
+2020-05-06 22:20:28,764 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [48216 67005 95329 74166 47750 31075 22760 63592 29244 84521 27116 11622
+ 81832 40500 57813 43802 54924 28733  6820 84435]
+2020-05-06 22:20:28,781 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [21 18 41 41 46 38 16 15 24 46 14 11 28  9  4 36 36 48 44 48]
+2020-05-06 22:20:36,104 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #176 for 13.87959885597229 sec
+2020-05-06 22:20:36,111 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39287711552612214
+2020-05-06 22:20:36,112 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #177
+2020-05-06 22:20:49,829 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [76355 60238  5944 93766 88544 80366 12974  1211 75602 53302 26016 49902
+ 25760 34736  8351 35488  5668 30270 42411 91162]
+2020-05-06 22:20:49,859 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [17 21 47 30 13 13 44 28 16 10 45  1 27 48  0 23 33 37 10 49]
+2020-05-06 22:20:55,598 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #177 for 19.486063957214355 sec
+2020-05-06 22:20:55,598 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39532008830022075
+2020-05-06 22:20:55,598 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #178
+2020-05-06 22:21:02,251 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [68526 53196 49679 66226 75305 63485 45831 18786 58042 83138  7912 39594
+ 92953 62031 16233 15084 16408 13427   958 95899]
+2020-05-06 22:21:02,268 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 4 30  7 26 26 24 28 48 41 23  3 15 32 18 44 36 36 16  5 16]
+2020-05-06 22:21:10,747 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #178 for 15.148277044296265 sec
+2020-05-06 22:21:10,747 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3939955849889625
+2020-05-06 22:21:10,749 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #179
+2020-05-06 22:21:21,891 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [82517 67210 17641 78680 61422 13380 77407 57639 10043 74938 88762 21504
+ 25317 17540 33396 49037 39647 14014 50789 14824]
+2020-05-06 22:21:21,908 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12 44 48 30 48  4 25 42 26 46 25 49 14 34 24 19  0 46  0  8]
+2020-05-06 22:21:28,544 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #179 for 17.795345067977905 sec
+2020-05-06 22:21:28,545 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3970272259013981
+2020-05-06 22:21:28,545 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #180
+2020-05-06 22:21:35,848 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [66109 10447 36193 66420 52944 65647  7641 82176 47888  5022 10965 65211
+ 45542 52053 31685  1441 42699 65623  1651  7312]
+2020-05-06 22:21:35,864 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [19 25 39  9 32  6 32 15 28 19 33 44 23 25 28 28 12 18 29  0]
+2020-05-06 22:21:42,936 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #180 for 14.391116857528687 sec
+2020-05-06 22:21:42,937 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4002649006622517
+2020-05-06 22:21:42,941 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 180 saved
+2020-05-06 22:21:42,942 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #181
+2020-05-06 22:21:53,678 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [63662 36108 74546 65901 65538 50560 36422 90653 90238 24571 85592 64212
+ 22585 43008 93288 74474 73669 74510 72526 23907]
+2020-05-06 22:21:53,695 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [12 22 21 31 22 18 15 41 15 10 15 24  7  9 16 13 29 11 41 16]
+2020-05-06 22:21:58,455 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #181 for 15.513144969940186 sec
+2020-05-06 22:21:58,456 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3971155261221486
+2020-05-06 22:21:58,457 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #182
+2020-05-06 22:22:04,807 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [51186 30789 67224 22662 57414 71030 37622 44035  7294  4970 54512 43797
+ 72020  1446 74962 66746 40272 73537 73183 24149]
+2020-05-06 22:22:04,823 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [14 38 48 14 12 27 11 49 30 35  1 49 19 45 14 16 28 41 46  5]
+2020-05-06 22:22:12,132 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #182 for 13.675365924835205 sec
+2020-05-06 22:22:12,134 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40167770419426047
+2020-05-06 22:22:12,136 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #183
+2020-05-06 22:22:22,759 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [72947 24646 37421 74656 60180 13724 10163 89014 16553 78520 74638 18411
+ 90959 90514 46767 80645 36923 85231 83939 80998]
+2020-05-06 22:22:22,773 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [19 43  9 41  6 21  6 33 42 11 11 46 44  3 19 49 35 21  4 28]
+2020-05-06 22:22:27,708 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #183 for 15.572632074356079 sec
+2020-05-06 22:22:27,710 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39608535688005886
+2020-05-06 22:22:27,710 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #184
+2020-05-06 22:22:34,442 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [76054 17681 29539 68376 87732 72217 39803 11591 78176 39544 10359 34451
+ 93468 41942 74768 38905   715 91948 50281 32015]
+2020-05-06 22:22:34,457 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33 26 26 10 21 47 27 43 42 29 30 11 16 12 48 17 17 24 13 27]
+2020-05-06 22:22:39,781 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #184 for 12.07051706314087 sec
+2020-05-06 22:22:39,783 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39637969094922737
+2020-05-06 22:22:39,783 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #185
+2020-05-06 22:22:46,794 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [43411 88981 32455 24752 24638 23874 23652 29701 85416 44991 66499 62419
+ 63648 29001 19144  1815 80682 81953 29141 30431]
+2020-05-06 22:22:46,811 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [39 16  4 10 49 27 10  5  9 46 17 12 48  3 38 28  0 26 36 19]
+2020-05-06 22:22:53,941 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #185 for 14.158499956130981 sec
+2020-05-06 22:22:53,942 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3901692420897719
+2020-05-06 22:22:53,943 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #186
+2020-05-06 22:23:01,317 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [93493 43223  1038 17944 35456 78513 47304 68894 86401 59606 60786 17116
+ 72349 13304 88988 60679 37095 24928 55872 83749]
+2020-05-06 22:23:01,336 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [44 27 33 31 16 23  1 21 40 20 34 32  6 19 28 20  0 21 33 32]
+2020-05-06 22:23:06,744 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #186 for 12.800886869430542 sec
+2020-05-06 22:23:06,745 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39258278145695363
+2020-05-06 22:23:06,745 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #187
+2020-05-06 22:23:13,939 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [76676 47283  6049 27025 76895 31130 47775 25859 16519 48435 71483 66547
+ 86451 51852 10645 94264 57172 84414 49750 78975]
+2020-05-06 22:23:13,955 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [32 24 11  5 25 23 28 43 16  0 18 38 32 33 49 16 18 32 26 24]
+2020-05-06 22:23:22,764 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #187 for 16.019084930419922 sec
+2020-05-06 22:23:22,767 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39838116261957324
+2020-05-06 22:23:22,767 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #188
+2020-05-06 22:23:32,396 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 2167 57832 24649 69465  7537 69071 60702 82831 56699 53013 70381 10524
+ 74614 50380 82773 27319 72056 39613 34254 96087]
+2020-05-06 22:23:32,413 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33 40 32 45  0 16 21 21 31 23 14 18 14  5 43 19  3 19 48 28]
+2020-05-06 22:23:37,495 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #188 for 14.727985858917236 sec
+2020-05-06 22:23:37,495 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.394878587196468
+2020-05-06 22:23:37,495 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #189
+2020-05-06 22:23:45,484 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [84119  2544 78290 69937 57605 87701 37191 70901 22921 30655 84385 30884
+ 83656 51172  9095 88215 36289 27007   623  3062]
+2020-05-06 22:23:45,501 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 4  0 16 34  1 32 24 23 14 46  4 47 40 24  1 41  2 47 26 17]
+2020-05-06 22:23:55,142 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #189 for 17.64667797088623 sec
+2020-05-06 22:23:55,144 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40565121412803534
+2020-05-06 22:23:55,145 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #190
+2020-05-06 22:24:06,714 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [95668  4933 48035 55632 89725  8364 88344 15402 58894 73580 85094 91477
+  4010 93401 40026 46692  5458 12507 10264 81640]
+2020-05-06 22:24:06,730 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [26 27 49 48 46 28 16 19  3 49 38 27 26 44 39 49 28 48 20 13]
+2020-05-06 22:24:11,523 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #190 for 16.37876319885254 sec
+2020-05-06 22:24:11,524 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3916703458425313
+2020-05-06 22:24:11,529 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - state on step 190 saved
+2020-05-06 22:24:11,529 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #191
+2020-05-06 22:24:18,060 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [60247 80293   432 20639 35644 27872 22454 22750 27577 38406 74755 11261
+ 53317  7511 85602 53127 67400 15431 80840 34457]
+2020-05-06 22:24:18,077 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 0 28 37 12  3  7 43 28  7 41 26 33  3 31 28  0  3 16  9 27]
+2020-05-06 22:24:27,306 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #191 for 15.775994062423706 sec
+2020-05-06 22:24:27,439 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.39470198675496687
+2020-05-06 22:24:27,441 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #192
+2020-05-06 22:24:40,229 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [71540 53956 67423 63989 46809  4674 19460  7709 76777 24314 57819 18169
+ 90950 14931 94973 57301 35585  2099 68180 14905]
+2020-05-06 22:24:40,245 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [17 40 23 12 49 48 47 28 43 27  5 48 21 48 20 14 25 16 35 11]
+2020-05-06 22:24:46,952 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #192 for 19.51060390472412 sec
+2020-05-06 22:24:46,952 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4040912435614422
+2020-05-06 22:24:46,952 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #193
+2020-05-06 22:24:54,677 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [43716 52655 93975 43348 42780 81382 30114 34454 50014 91021 80821 64792
+ 16918  1400 13974  5285  5867 47145 63848 49291]
+2020-05-06 22:24:54,693 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [38 23 42 27 26 12 32 21 12  4 44 46 41 26 47 40  9 26 40 26]
+2020-05-06 22:25:00,011 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #193 for 13.058325052261353 sec
+2020-05-06 22:25:00,011 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.4022663723325975
+2020-05-06 22:25:00,011 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #194
+2020-05-06 22:25:05,898 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [94967 24961 26136 19148 79741 27658 95958 13917 21200  1545 39863 60732
+ 76814 54164 45722   355 55169 80060 24807 61218]
+2020-05-06 22:25:05,915 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [28  8  0 31 26 49 22 26  8 20 30 15 32 38 19 44 19 45 43 25]
+2020-05-06 22:25:13,076 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #194 for 13.06490182876587 sec
+2020-05-06 22:25:13,076 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40085356880058864
+2020-05-06 22:25:13,076 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #195
+2020-05-06 22:25:20,404 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 8775  1084 42724 89232 83675 34184 31727 83472 51393 89251 65512 64245
+ 72860 94356 55490 63298  6435 24567 77276 57959]
+2020-05-06 22:25:20,423 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [30 33 31 12 33 12  3  1 38 32 15  5 23 47 48 26 33 23 18 41]
+2020-05-06 22:25:29,830 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #195 for 16.752975940704346 sec
+2020-05-06 22:25:29,832 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3927888153053716
+2020-05-06 22:25:29,833 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #196
+2020-05-06 22:25:40,140 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [ 5873  9518 84088  1789 62976 44220 95827 52705 20351    60 41192 80324
+ 20137 19984 24024 55817 56654 73918 74601 25831]
+2020-05-06 22:25:40,155 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [ 1 13 27  3 39 11 17 28 18 49 14 43 45 49 39 25 28 14 10 28]
+2020-05-06 22:25:48,860 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #196 for 19.025518894195557 sec
+2020-05-06 22:25:48,861 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40020603384841796
+2020-05-06 22:25:48,861 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #197
+2020-05-06 22:25:59,289 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [66209 31493 74630 39815 67709 39468 38642  7164 80970 59600 68156 23264
+ 22167 75205 52457 67267 25223 87663 79542 25485]
+2020-05-06 22:25:59,307 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [21 35 15 41 31 28 19  9 19 46 49 28 15  9 44  1 44 47 12 18]
+2020-05-06 22:26:06,498 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #197 for 17.63695526123047 sec
+2020-05-06 22:26:06,499 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.401177336276674
+2020-05-06 22:26:06,499 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #198
+2020-05-06 22:26:19,844 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [83369 94750 37401 60503 31691 71126 75635  2265 72386 34582  5662 45455
+ 69078 86632 56532 82668    22 84543 59888 92231]
+2020-05-06 22:26:19,861 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [33  0 17 19 33 39 26 12 48 49 23 19 48 13 13 34 12 32 18 35]
+2020-05-06 22:26:28,419 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #198 for 21.91723895072937 sec
+2020-05-06 22:26:28,419 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.40382634289919056
+2020-05-06 22:26:28,427 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - start step #199
+2020-05-06 22:26:43,110 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - query idx: [16584 25629 80111 51549 69627 73331  2353 39704 85001 24471 19755 30834
+ 49270 61296 64546   125 13262 65359 18894 41039]
+2020-05-06 22:26:43,126 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - classes of query: [48 35 29 15  0  8  1 36 17  6 28  3 18  0 21 23 14  6  2 32]
+2020-05-06 22:26:51,913 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish step #199 for 23.486058950424194 sec
+2020-05-06 22:26:51,913 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - current val_accuracy: 0.3922295805739514
+2020-05-06 22:26:51,913 - exp_torch_topics_ll_ideal_i2000_b20_q200_2 - INFO - finish experiment process for 3343.681928873062 sec

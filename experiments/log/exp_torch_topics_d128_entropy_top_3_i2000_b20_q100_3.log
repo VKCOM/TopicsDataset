@@ -1,0 +1,503 @@
+2020-03-21 13:12:41,549 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start experiment process
+2020-03-21 13:12:49,637 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - initial val_accuracy: 0.44288447387785135
+2020-03-21 13:12:49,639 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #0
+2020-03-21 13:13:02,771 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [23203 34159 70350 69188 84629 92844 72237 93591 14000 15763 18787 83933
+ 82375 29932 99091 42285 34373 58518 74232 69924]
+2020-03-21 13:13:10,135 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #0 for 20.495662927627563 sec
+2020-03-21 13:13:10,135 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4445916114790287
+2020-03-21 13:13:10,135 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #1
+2020-03-21 13:13:16,589 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [ 3038 36264  1848 53992 45344 50221 60568 59289 27991 24551 15044 75235
+ 73102 30142  7700  8506 60937 39601 60315 13018]
+2020-03-21 13:13:19,308 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #1 for 9.172482013702393 sec
+2020-03-21 13:13:19,308 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4500367917586461
+2020-03-21 13:13:19,308 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #2
+2020-03-21 13:13:25,175 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [99686 88496 16694 79781 42614 27186  4229 11338 20492 86926 85069 78889
+ 41725 26102 66829 43779 72054 49562 99292  7753]
+2020-03-21 13:13:27,724 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #2 for 8.415891885757446 sec
+2020-03-21 13:13:27,724 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.43729212656364974
+2020-03-21 13:13:27,724 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #3
+2020-03-21 13:13:33,971 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [41559 59376 84908 41702 89177   702 14989 29248  8738  3502  5511 91659
+ 55652 49621 53440  8104 64654  9600 80910 37168]
+2020-03-21 13:13:36,559 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #3 for 8.83401083946228 sec
+2020-03-21 13:13:36,560 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4350257542310522
+2020-03-21 13:13:36,560 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #4
+2020-03-21 13:13:42,381 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [83278  6944 19328 24925 75362 99614 67039 62439 52765 42417 59274 88651
+  1077  8404 52943 17901 91854 84870 38551 98321]
+2020-03-21 13:13:44,958 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #4 for 8.398009061813354 sec
+2020-03-21 13:13:44,959 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.44288447387785135
+2020-03-21 13:13:44,959 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #5
+2020-03-21 13:13:50,723 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [37295 93966 76719 46598 34839  7303  1067 52369 49235 64241 14318 62468
+ 33128 16302 35470 24811 57061  6346 14313 76710]
+2020-03-21 13:13:53,634 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #5 for 8.674960136413574 sec
+2020-03-21 13:13:53,634 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4398233995584989
+2020-03-21 13:13:53,634 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #6
+2020-03-21 13:13:59,798 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [49442 90877 68350 88558  2339 86764 99327 29044 14963 90494 33351 56983
+ 70952 27977 40783 69031  7748 46963 35102 30212]
+2020-03-21 13:14:02,404 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #6 for 8.769445896148682 sec
+2020-03-21 13:14:02,404 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4469757174392936
+2020-03-21 13:14:02,404 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #7
+2020-03-21 13:14:12,340 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [97866 57922 97350 15385 52965 95585 20430  9124 16403 16149 27374 18399
+ 93343 58573  5456 97706 39944 59367 50891 16993]
+2020-03-21 13:14:19,753 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #7 for 17.34757399559021 sec
+2020-03-21 13:14:19,753 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.45842531272994846
+2020-03-21 13:14:19,753 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #8
+2020-03-21 13:14:25,301 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [13710 71705 40550 87897 24956 73740 61526 59469 22791 70824 42861 39932
+ 21875 98992 78828 98195 44153  2880 88506 47925]
+2020-03-21 13:14:27,831 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #8 for 8.077527046203613 sec
+2020-03-21 13:14:27,831 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4671081677704194
+2020-03-21 13:14:27,831 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #9
+2020-03-21 13:14:33,610 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [25125 78251 73028 88604 50233 28483 56294 29045  6343 60540 29510 11577
+ 76768 69652 93640 37826 24843  1670 64138 29953]
+2020-03-21 13:14:36,350 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #9 for 8.51848030090332 sec
+2020-03-21 13:14:36,350 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.463252391464312
+2020-03-21 13:14:36,350 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #10
+2020-03-21 13:14:43,933 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [25179 86213 31025 21278 56955 20829 56051 42590  7269 59415 56224 62291
+ 46519  3190 26633 75613 89606 57810 50672 86411]
+2020-03-21 13:14:48,786 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #10 for 12.436076641082764 sec
+2020-03-21 13:14:48,786 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.46416482707873435
+2020-03-21 13:14:48,786 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #11
+2020-03-21 13:14:55,434 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [86116 40054 18170 82576  3583  5282 65813 95268 48190 20859 98368 19328
+ 21874 46924 61478 84504 74604 97473 40204 19046]
+2020-03-21 13:14:58,932 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #11 for 10.145358085632324 sec
+2020-03-21 13:14:58,932 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.46622516556291393
+2020-03-21 13:14:58,932 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #12
+2020-03-21 13:15:04,981 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [53735  7377   318  7557 27858 33585 37365  5745 18136 52131 38060 54205
+ 90896 20062 19799 38908 15922 27986 78218 28177]
+2020-03-21 13:15:07,662 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #12 for 8.729194164276123 sec
+2020-03-21 13:15:07,662 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4712288447387785
+2020-03-21 13:15:07,662 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #13
+2020-03-21 13:15:13,676 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [71437 36252 11912 43615 73043 36993 11449 25921 19944 36838 31821  2814
+ 64355  8322 36519 82235 56270 49327 32703 47989]
+2020-03-21 13:15:16,417 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #13 for 8.755305051803589 sec
+2020-03-21 13:15:16,418 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4714054451802796
+2020-03-21 13:15:16,418 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #14
+2020-03-21 13:15:22,502 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [99574 66972 30611 88988 66084 46161 47274 37443 59460 45327 40259 11144
+ 95231 20919  2980 92185 95690 50123 55659 58259]
+2020-03-21 13:15:25,065 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #14 for 8.646722078323364 sec
+2020-03-21 13:15:25,065 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.46890360559234734
+2020-03-21 13:15:25,065 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #15
+2020-03-21 13:15:31,071 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [48580 25056 88764 57136 87029 13217 35033 18755 75383 66939 88842 52137
+ 57337 69276 22409 43401 51164  7022 13144 14217]
+2020-03-21 13:15:33,561 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #15 for 8.496063947677612 sec
+2020-03-21 13:15:33,561 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4686681383370125
+2020-03-21 13:15:33,561 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #16
+2020-03-21 13:15:39,411 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [47980 97481 66623 84500 25659 65428 64741 20035 69675  9855  6979 12831
+  3707 98636  5297 71203 73891 16060 31882 54706]
+2020-03-21 13:15:42,592 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #16 for 9.030311107635498 sec
+2020-03-21 13:15:42,593 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47211184694628405
+2020-03-21 13:15:42,593 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #17
+2020-03-21 13:15:49,040 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [88469 10199 28661 18075 82858 14470 93232 90941 96190 84341 95069 84510
+ 53818 56973 19520 40534 71737 84294 64669 90657]
+2020-03-21 13:15:51,635 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #17 for 9.041569948196411 sec
+2020-03-21 13:15:51,635 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4736718175128771
+2020-03-21 13:15:51,635 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #18
+2020-03-21 13:15:57,506 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [69324 87154 68935 12364  5975 13922  3189 96353 53130 25576 49561 16747
+    46 83549 24089 17371  9336 49518 97073 58874]
+2020-03-21 13:16:00,118 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #18 for 8.483017206192017 sec
+2020-03-21 13:16:00,118 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47275938189845473
+2020-03-21 13:16:00,119 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #19
+2020-03-21 13:16:06,015 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [81482 40778 59241 76097 49796 49478 30446 42961  9574 24273 49730 40325
+ 82418 41139  3827 11427 43804  8938 87823 99398]
+2020-03-21 13:16:08,543 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #19 for 8.424684047698975 sec
+2020-03-21 13:16:08,544 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47043414275202355
+2020-03-21 13:16:08,544 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #20
+2020-03-21 13:16:14,368 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [ 6685 73505 25660 26730 74870 52495 34423 39013 81379 31198 50664 69855
+ 70571 98432 61104 77421 87740 50763 39090 44707]
+2020-03-21 13:16:16,872 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #20 for 8.328260898590088 sec
+2020-03-21 13:16:16,872 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4766151582045622
+2020-03-21 13:16:16,872 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #21
+2020-03-21 13:16:22,974 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [76044 62993 59176 95139 41591 86474 83022 32040 20433 32767 96690 49027
+ 85054 26054  4847 54770 75601 28328 35855 93684]
+2020-03-21 13:16:25,463 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #21 for 8.590178966522217 sec
+2020-03-21 13:16:25,463 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4758498896247241
+2020-03-21 13:16:25,463 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #22
+2020-03-21 13:16:31,349 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [44690 12337 66593 23213 64243 62431  2097 64282 17627 62289 88867 42047
+  3576 53780 30275 78165 71088 99498 12210 67249]
+2020-03-21 13:16:33,886 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #22 for 8.423182249069214 sec
+2020-03-21 13:16:33,887 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4757615894039735
+2020-03-21 13:16:33,887 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #23
+2020-03-21 13:16:39,638 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [12266 67577 73231 14454 38848 55565 34462 57104 26922 12700  2791 41141
+ 40558 26269 28238 81642 39540 55284 93869 43552]
+2020-03-21 13:16:42,234 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #23 for 8.346698999404907 sec
+2020-03-21 13:16:42,234 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47635025754231053
+2020-03-21 13:16:42,234 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #24
+2020-03-21 13:16:48,001 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [24724 69562 69344 88927 23344 36394 34247 31979 44504 58343 90022 29626
+   414 29589 55319  5528 52695 34523 62055 92505]
+2020-03-21 13:16:50,812 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #24 for 8.577798128128052 sec
+2020-03-21 13:16:50,812 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4771449595290655
+2020-03-21 13:16:50,812 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #25
+2020-03-21 13:16:56,709 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [43943 54472 17497 46295 71624 65514     1 33730 59810 61776 55738 85536
+ 89550 77795 97700  1435 70257 31095 26201 91704]
+2020-03-21 13:16:59,231 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #25 for 8.418626070022583 sec
+2020-03-21 13:16:59,231 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4761442236938926
+2020-03-21 13:16:59,231 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #26
+2020-03-21 13:17:05,075 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [94621 51219 64775 42975 62178  7303  3447 93281 81933 23014 69232 33284
+ 29665  7592 21261 44984 79563 29317 49972 32083]
+2020-03-21 13:17:07,606 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #26 for 8.374565124511719 sec
+2020-03-21 13:17:07,606 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47320088300220753
+2020-03-21 13:17:07,606 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #27
+2020-03-21 13:17:13,526 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [56105 81240 45608   988 99095 41121 62554 17131  5077 18897 57345 97034
+ 98300 78121 90498 92350 66644 25896 37595  3955]
+2020-03-21 13:17:16,059 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #27 for 8.452524185180664 sec
+2020-03-21 13:17:16,059 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47596762325239145
+2020-03-21 13:17:16,059 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #28
+2020-03-21 13:17:22,074 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [53110 34974 96129 96715 39925 98461 58625 61911 79842 60948  5876 71243
+ 86820 62127 54047 69984 49700 12226 23345 54575]
+2020-03-21 13:17:24,615 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #28 for 8.555281162261963 sec
+2020-03-21 13:17:24,615 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4683149374540103
+2020-03-21 13:17:24,615 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #29
+2020-03-21 13:17:30,399 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [22284 30269 36581 58598 59131 23299 74452 22414 81171 30606 35937 83840
+ 51895 72450 68756 41237 38188 17428 56622 66845]
+2020-03-21 13:17:33,100 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #29 for 8.48502802848816 sec
+2020-03-21 13:17:33,101 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.44594554819720383
+2020-03-21 13:17:33,101 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #30
+2020-03-21 13:17:39,104 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [30106  2568 33639 17720 48647 48166 68419 17482 23633  8063 64733 49971
+  8806 12400 51746 57774 60894  4141 52087 58599]
+2020-03-21 13:17:42,238 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #30 for 9.136193037033081 sec
+2020-03-21 13:17:42,238 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4521854304635762
+2020-03-21 13:17:42,238 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #31
+2020-03-21 13:18:13,218 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [78010  6877 90380 92844 25901 83185 49319 86598 76127 75186 83607 85400
+ 24012 38472 10200 57405 19670 19847 56395 60336]
+2020-03-21 13:18:26,715 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #31 for 44.47421622276306 sec
+2020-03-21 13:18:26,720 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.46286975717439294
+2020-03-21 13:18:26,722 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #32
+2020-03-21 13:18:36,217 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [51088  8847 73518 41910 58399 11520 47824  5603 63998 66089 16637 88840
+ 31299 25078 56318 95083 46676 88691 90163 95158]
+2020-03-21 13:18:39,173 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #32 for 12.450648069381714 sec
+2020-03-21 13:18:39,173 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47243561442236937
+2020-03-21 13:18:39,173 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #33
+2020-03-21 13:18:44,933 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [93334 24014  2661  5791 14371  6050 57636 74391   784 27415 68444 54270
+ 89296 55387 12332 47624 74516 33927 95662 74528]
+2020-03-21 13:18:47,531 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #33 for 8.358182191848755 sec
+2020-03-21 13:18:47,532 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4782634289919058
+2020-03-21 13:18:47,532 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #34
+2020-03-21 13:18:53,422 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [74842 65672 57881 83810 38457 19525  5948 14101 48623 82582 14153 97464
+  2397 91634 76383 91768 85886 20314 30194 47263]
+2020-03-21 13:18:56,055 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #34 for 8.52325701713562 sec
+2020-03-21 13:18:56,144 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48329654157468727
+2020-03-21 13:18:56,144 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #35
+2020-03-21 13:19:02,097 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [ 3366 53073 48396 83838   575 84090 37596 33580 25510 87230 53752 90855
+ 24818 64366 90768 32682 39173 84193 76822 16892]
+2020-03-21 13:19:04,705 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #35 for 8.560322999954224 sec
+2020-03-21 13:19:04,705 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4818837380426784
+2020-03-21 13:19:04,705 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #36
+2020-03-21 13:19:11,203 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [36786  1489  1605 49724 30677 19646 59346 13252 52795 58161 77595 39949
+ 59200  1960 92139 92840 66529  1265 41467 94640]
+2020-03-21 13:19:13,839 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #36 for 9.133487939834595 sec
+2020-03-21 13:19:13,839 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48100073583517294
+2020-03-21 13:19:13,839 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #37
+2020-03-21 13:19:20,120 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [29396 56891 19755 26483 40117 50548 74681 30146 75345 60625 31097 52018
+ 38223 90836 32959 92700 33546 54680 99034  3798]
+2020-03-21 13:19:22,763 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #37 for 8.924340009689331 sec
+2020-03-21 13:19:22,764 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48744665194996323
+2020-03-21 13:19:22,764 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #38
+2020-03-21 13:19:28,596 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [77429 32529  9397 73079 26622 62027 61672 82014 60442 61578 53732 80033
+ 67258 86371 35177 70232 31754 82566 13177 57400]
+2020-03-21 13:19:31,287 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #38 for 8.52324891090393 sec
+2020-03-21 13:19:31,287 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4875643855776306
+2020-03-21 13:19:31,288 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #39
+2020-03-21 13:19:39,468 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [30297 68039  6831 13148 41096 91712 31240 75766 88955 90174 85446 42621
+ 65806 77708 12705 12404 66764 61791 88757  5642]
+2020-03-21 13:19:44,770 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #39 for 13.482726097106934 sec
+2020-03-21 13:19:44,771 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48509197939661514
+2020-03-21 13:19:44,771 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #40
+2020-03-21 13:19:51,278 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [ 7654 31501 25697 75822 55820  6268  3047 98052 52991 88762  8722 80950
+ 46911 58772 75755 71374 51991 69431 12059 41992]
+2020-03-21 13:19:53,989 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #40 for 9.218587875366211 sec
+2020-03-21 13:19:53,990 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4873877851361295
+2020-03-21 13:19:53,990 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #41
+2020-03-21 13:20:00,157 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [82246 64881 50346 63723 47242 10324 57860  7873 36857 51351  7903 44865
+ 20741  9300 36920 93962 26963 34398 25354 42414]
+2020-03-21 13:20:02,876 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #41 for 8.886474132537842 sec
+2020-03-21 13:20:02,877 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4880058866813834
+2020-03-21 13:20:02,877 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #42
+2020-03-21 13:20:08,818 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [77935  1411 91476 92688  7025 92646 34701 78476 18562 44830 72505 16922
+ 16710 56933 27705 68904 72168 28141 85244 37995]
+2020-03-21 13:20:11,463 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #42 for 8.585830688476562 sec
+2020-03-21 13:20:11,463 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48903605592347316
+2020-03-21 13:20:11,463 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #43
+2020-03-21 13:20:17,375 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [97619 80588 81407 81468 27808 53180 58657 59480 53751 91018 13808 97651
+ 29338 34097 88097 34184 45167 41151 42635 68945]
+2020-03-21 13:20:20,227 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #43 for 8.763965368270874 sec
+2020-03-21 13:20:20,228 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4906843267108168
+2020-03-21 13:20:20,228 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #44
+2020-03-21 13:20:26,480 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [82555 31798 40947 23007 64539 97350 28154 19212 60673 69880 48934 62378
+ 20231 48294 63243 56825 20572 36384 37436 25981]
+2020-03-21 13:20:29,097 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #44 for 8.869035959243774 sec
+2020-03-21 13:20:29,097 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48880058866813836
+2020-03-21 13:20:29,097 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #45
+2020-03-21 13:20:35,064 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [16501 71733 59926 33920 18213 34581 90437  4650 48952 46668 14091 42162
+ 51217 61975 82369 53325 11087  7516  8344 88105]
+2020-03-21 13:20:37,664 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #45 for 8.566468238830566 sec
+2020-03-21 13:20:37,671 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49074319352465046
+2020-03-21 13:20:37,671 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #46
+2020-03-21 13:20:44,011 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [95585 20612 16993 41723 71228  1800 11053 63208 52101 58532 35534 98045
+ 23590 90237 67396 81207 95952 66492 83935 43728]
+2020-03-21 13:20:46,649 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #46 for 8.977804899215698 sec
+2020-03-21 13:20:46,649 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4877115526122149
+2020-03-21 13:20:46,649 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #47
+2020-03-21 13:20:52,456 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [60010 29385 60970 98534 59481 95618 29318 48418 52617 76441 42204 86008
+ 39663 20916  8197 61565 34869 43985 65001 65544]
+2020-03-21 13:20:55,098 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #47 for 8.448870182037354 sec
+2020-03-21 13:20:55,098 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48921265636497424
+2020-03-21 13:20:55,099 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #48
+2020-03-21 13:21:06,870 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [68075  7822 25084 32032 36083 54901 10128 78000 54292 41148 16246  7538
+ 62114 14048 18546 80818 43502 49732  4472 76817]
+2020-03-21 13:21:17,026 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #48 for 21.92672085762024 sec
+2020-03-21 13:21:17,026 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49124356144223696
+2020-03-21 13:21:17,027 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #49
+2020-03-21 13:21:25,818 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [14708 26873 26650 54828 75414 16137 49269 76689 32233 88697  4384 36288
+   762 85068 57594 54151 41135 22658 77666 38726]
+2020-03-21 13:21:28,751 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #49 for 11.72452998161316 sec
+2020-03-21 13:21:28,751 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4903311258278146
+2020-03-21 13:21:28,752 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #50
+2020-03-21 13:21:37,395 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [13305 19801 85660 66140 77816 89076 98075 37823 24014 64902 69586 61549
+ 31557 74402  9204 65727 29493  2760 27300 83761]
+2020-03-21 13:21:40,975 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #50 for 12.223301887512207 sec
+2020-03-21 13:21:40,975 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49003679175864606
+2020-03-21 13:21:40,975 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #51
+2020-03-21 13:21:46,685 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [69764 36194  2438 36164 78278 68698 94307 36136 41133 19101 63721 72949
+ 21245 11641 92043 73371 17799 95734 29433 46766]
+2020-03-21 13:21:49,395 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #51 for 8.419394731521606 sec
+2020-03-21 13:21:49,395 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.489860191317145
+2020-03-21 13:21:49,395 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #52
+2020-03-21 13:21:55,414 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [32285 32964 58448 68211 31681  9723 87961 28936  1752 75061 11714 95620
+ 58598  4194 49533 89492 23411 78974 53783 78545]
+2020-03-21 13:21:58,061 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #52 for 8.665488958358765 sec
+2020-03-21 13:21:58,061 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.48944812362030904
+2020-03-21 13:21:58,061 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #53
+2020-03-21 13:22:03,924 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [14835 45637 98532 26039 52878 53523 92814 90268 81977 32172 17146 94574
+ 37822 84811 26922 75035  3974 93708 23749 39452]
+2020-03-21 13:22:06,704 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #53 for 8.642652034759521 sec
+2020-03-21 13:22:06,705 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49027225901398086
+2020-03-21 13:22:06,705 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #54
+2020-03-21 13:22:12,951 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [44844 49646 73469 41994 17593 59545 55380 77690  1014 89919 72552 97842
+ 95151 46302 26163 48656 27982 48258 46288 45072]
+2020-03-21 13:22:16,591 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #54 for 9.886142015457153 sec
+2020-03-21 13:22:16,592 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4774981604120677
+2020-03-21 13:22:16,592 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #55
+2020-03-21 13:22:22,553 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [  696 32700 17384 16131 32507 44775 91230 75182 80969 84324 79464 34309
+ 96004 22103 35502 28521 31797 11499 57038 90047]
+2020-03-21 13:22:25,273 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #55 for 8.681192874908447 sec
+2020-03-21 13:22:25,273 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4815011037527594
+2020-03-21 13:22:25,274 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #56
+2020-03-21 13:22:30,994 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [22776 16165 31264 73706 38333 86689 31600 21392 62757  5970 15067 98294
+ 80166 92086 22845 39802 29607 70694 47694 63148]
+2020-03-21 13:22:33,683 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #56 for 8.409539937973022 sec
+2020-03-21 13:22:33,683 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.47434878587196466
+2020-03-21 13:22:33,684 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #57
+2020-03-21 13:22:39,406 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [16466 20440 52227 11976 19023 69266 25683 94104 91732 92564  3312 34546
+ 60560  2488 25146 91208 41432  9652 88839 22177]
+2020-03-21 13:22:42,200 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #57 for 8.516531944274902 sec
+2020-03-21 13:22:42,200 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4931567328918322
+2020-03-21 13:22:42,201 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #58
+2020-03-21 13:22:48,325 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [91291 15263 83571 69742 59270  6014 19032 40709 11820 72448 72499  9789
+ 11560   294 74756 51752 69834 38407 72729 43837]
+2020-03-21 13:22:51,316 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #58 for 9.115371942520142 sec
+2020-03-21 13:22:51,316 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4956880058866814
+2020-03-21 13:22:51,316 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #59
+2020-03-21 13:22:58,128 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [85975 22433 55692 15836 58203 47324 74104 18072  7737 24513 36715 73024
+ 49386 16905 58125 94813  8902 62849 45921 44497]
+2020-03-21 13:23:05,711 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #59 for 14.393925189971924 sec
+2020-03-21 13:23:05,711 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4944518027961737
+2020-03-21 13:23:05,711 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #60
+2020-03-21 13:23:14,316 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [13608 91944  7711 36510 41299  1185 38616 66982 26908 88448 69957 25559
+ 21195  5463  6396 83452 13454 49656 39942 15009]
+2020-03-21 13:23:17,065 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #60 for 11.353498935699463 sec
+2020-03-21 13:23:17,065 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5006033848417955
+2020-03-21 13:23:17,065 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #61
+2020-03-21 13:23:22,826 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [65426 92769 57018 37972 10043 26995 74116  9704 12743 30488 52756 67404
+ 37843 83469 36230 79788 27407   492 67008 48344]
+2020-03-21 13:23:25,516 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #61 for 8.450196981430054 sec
+2020-03-21 13:23:25,516 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49916114790286975
+2020-03-21 13:23:25,516 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #62
+2020-03-21 13:23:31,224 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [81358 83355 11668 23391 91148  6914 40095 95927 51449 81252 41440 29215
+ 48148 29976 21171 40811 26096 29598 63853 15145]
+2020-03-21 13:23:33,945 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #62 for 8.428865194320679 sec
+2020-03-21 13:23:33,945 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49898454746136867
+2020-03-21 13:23:33,945 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #63
+2020-03-21 13:23:39,713 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [89733  3673 97722 37570 68011 93982 74443 17562 41394 35405 18688 54459
+ 29839 55668 43584 26643 81732 55834 82521 44432]
+2020-03-21 13:23:42,429 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #63 for 8.483796834945679 sec
+2020-03-21 13:23:42,429 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5010448859455482
+2020-03-21 13:23:42,430 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #64
+2020-03-21 13:23:48,208 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [38453  5955 97661 18474 52137 16798 77738 70917 42325 40846 65897 97046
+ 37891 60455 89250 97839 82858 68873 63633 40929]
+2020-03-21 13:23:51,587 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #64 for 9.15760326385498 sec
+2020-03-21 13:23:51,588 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5010154525386313
+2020-03-21 13:23:51,588 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #65
+2020-03-21 13:23:57,703 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [31352 33284 23109 59926 25071  5417 20806  6777 58760 37336 89157 27236
+ 47063 36581 14384  1123 12374 26022 37049 83839]
+2020-03-21 13:24:02,203 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #65 for 10.615000009536743 sec
+2020-03-21 13:24:02,204 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5023399558498897
+2020-03-21 13:24:02,204 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #66
+2020-03-21 13:24:07,731 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [15569   968 84983 47808   214 51890 79908 22236 88599 60347 75116 98296
+ 60729 86950 68326 73681 53761 47356 52981 61001]
+2020-03-21 13:24:10,396 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #66 for 8.191643953323364 sec
+2020-03-21 13:24:10,396 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5019867549668874
+2020-03-21 13:24:10,396 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #67
+2020-03-21 13:24:16,094 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [ 6144 37924 44366 82600 60399 32927 16388 15196  5954 80746 37121 33937
+ 10938 80601 91173 81080 15563   616 24131 74779]
+2020-03-21 13:24:18,829 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #67 for 8.432554006576538 sec
+2020-03-21 13:24:18,829 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5040470934510669
+2020-03-21 13:24:18,829 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #68
+2020-03-21 13:24:24,710 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [ 4991 12672 88260 80304 10774 33039 84141 76628 84767 69032 11455 95747
+ 12512 72457 76377 11221 46407 76562 22067 93950]
+2020-03-21 13:24:27,466 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #68 for 8.636768817901611 sec
+2020-03-21 13:24:27,466 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5041353936718175
+2020-03-21 13:24:27,467 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #69
+2020-03-21 13:24:33,368 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [47002 72472 33212   456 87852 39487 54190 98152 33784 51927 50977 44419
+ 97610 40588 45349 45709 11180 29896 26088  7421]
+2020-03-21 13:24:36,140 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #69 for 8.673254013061523 sec
+2020-03-21 13:24:36,140 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.502663723325975
+2020-03-21 13:24:36,140 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #70
+2020-03-21 13:24:41,859 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [38383 59719 40015 73859 66851 54512 52485 88041 90109 73819 70062 69248
+ 74621  4101 96899 61658 27289 81824 50042 86744]
+2020-03-21 13:24:44,574 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #70 for 8.434022903442383 sec
+2020-03-21 13:24:44,575 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.503046357615894
+2020-03-21 13:24:44,575 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #71
+2020-03-21 13:24:51,161 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [15617 28572 90828 85149 18198 42515 90619 95938 67037 15453 94514 83289
+ 19114 62179 59398 17746 68141 50704 23949 76122]
+2020-03-21 13:24:54,133 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #71 for 9.557710886001587 sec
+2020-03-21 13:24:54,133 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5014275202354672
+2020-03-21 13:24:54,133 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #72
+2020-03-21 13:24:59,954 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [88285  2104 79579 20452 85788 52290 51308 19774 20183 66380 21598 53107
+ 77405 77594 25332 93873 73914 88985 85761 84224]
+2020-03-21 13:25:02,548 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #72 for 8.41460108757019 sec
+2020-03-21 13:25:02,548 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5038999264164827
+2020-03-21 13:25:02,548 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #73
+2020-03-21 13:25:09,809 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [60094 97908  1677 86942 25680 49686 44310 62604 32384 82954 48485  2097
+ 84707 34751 45694 18852 78195 46511 39522 14022]
+2020-03-21 13:25:12,807 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #73 for 10.258656024932861 sec
+2020-03-21 13:25:12,807 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5048123620309051
+2020-03-21 13:25:12,807 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #74
+2020-03-21 13:25:23,448 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [85163 31899 35745  5713 67613   848  3743 51005 34600 22772 36870 80984
+ 81036 44507 26896 55944 36407  7273 16672 53412]
+2020-03-21 13:25:32,648 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #74 for 19.84018301963806 sec
+2020-03-21 13:25:32,657 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5062840323767476
+2020-03-21 13:25:32,657 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #75
+2020-03-21 13:25:40,164 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [91033  6189 46731 43983   286    56 21342  7819 20440 87815 87884 41647
+ 10013 26160  9404 51342 10183 26267 53827 40023]
+2020-03-21 13:25:44,553 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #75 for 11.896134853363037 sec
+2020-03-21 13:25:44,554 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5059602649006623
+2020-03-21 13:25:44,554 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #76
+2020-03-21 13:25:56,454 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [74511 14821 69822 88592 23444  8025 70983 71193 70586 94372 30880 66240
+ 81575 87999 93451 56007 85864 22162 55637 12240]
+2020-03-21 13:26:00,118 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #76 for 15.564035177230835 sec
+2020-03-21 13:26:00,119 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5071670345842532
+2020-03-21 13:26:00,119 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #77
+2020-03-21 13:26:05,832 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [60642 33230  5880 63179 93046 87194 95838 12921 71225 84854 39490 95631
+ 51849 15202 34092 12823 72818  7866 13878 96443]
+2020-03-21 13:26:08,625 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #77 for 8.50641417503357 sec
+2020-03-21 13:26:08,625 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5051361295069904
+2020-03-21 13:26:08,626 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #78
+2020-03-21 13:26:14,181 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [46475 49319 22185 18731 94860 10695 20380 59973 57212 77246 45208 62263
+ 83127 69655 55473 89715 91523 62857 61032 45218]
+2020-03-21 13:26:16,943 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #78 for 8.317208051681519 sec
+2020-03-21 13:26:16,943 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5108462104488595
+2020-03-21 13:26:16,943 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #79
+2020-03-21 13:26:22,784 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [76753 88942 26113 90250 10939 12579 97771  7551 37708 52838   207 47616
+ 72240 58640 39984 27607 76750 21328 67462 53290]
+2020-03-21 13:26:25,480 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #79 for 8.536516904830933 sec
+2020-03-21 13:26:25,480 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.50878587196468
+2020-03-21 13:26:25,480 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #80
+2020-03-21 13:26:31,514 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [67958 56581 20358 63779 37158 48943 77628 85858 90662 81716 92837 14645
+ 18202 70151 89727 40746 95521  4211 59807 59881]
+2020-03-21 13:26:34,309 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #80 for 8.828782081604004 sec
+2020-03-21 13:26:34,310 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49059602649006623
+2020-03-21 13:26:34,310 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #81
+2020-03-21 13:26:39,988 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [ 3881 11555 47038 18006 69797 95500 89582 98136 76595  4834 44907 76577
+ 56027 56364 26613 68592 11896 68175 79776 27619]
+2020-03-21 13:26:42,801 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #81 for 8.49156403541565 sec
+2020-03-21 13:26:42,802 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.4913907284768212
+2020-03-21 13:26:42,802 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #82
+2020-03-21 13:26:48,491 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [56960 91318 45515 34008 32733 29029 92234  5222 26476 43204 68531 74291
+ 79013 93851 41818  1342 74204 94686 71941 10259]
+2020-03-21 13:26:51,209 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #82 for 8.406600952148438 sec
+2020-03-21 13:26:51,209 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.49986754966887414
+2020-03-21 13:26:51,209 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #83
+2020-03-21 13:26:57,069 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [68431 82968 85969 12818 16008  7528 86869  2429 75338 75335 15863 93430
+ 84261 72252 30097 62157 87923  6556 27750   221]
+2020-03-21 13:26:59,868 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #83 for 8.658720016479492 sec
+2020-03-21 13:26:59,868 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.505636497424577
+2020-03-21 13:26:59,868 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #84
+2020-03-21 13:27:05,752 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [83588 67688 26572 77716 48756 92863 71908 44807  3139 79281 20158 87418
+ 97191 93272 77908 75413 57377 53785 90408 76413]
+2020-03-21 13:27:08,592 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #84 for 8.724024772644043 sec
+2020-03-21 13:27:08,592 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5047534952170714
+2020-03-21 13:27:08,593 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #85
+2020-03-21 13:27:14,554 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [52967 58325 83818 90857 32296 79873 47350 41417 36581 86996  9349 31787
+ 25940 97885 91957 87168  7531 22488 10193 12411]
+2020-03-21 13:27:17,280 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #85 for 8.687119960784912 sec
+2020-03-21 13:27:17,280 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5072259013980869
+2020-03-21 13:27:17,280 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #86
+2020-03-21 13:27:23,083 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [50818 40820 65224 73156 81751 23116 32222 56356 50008 57188 86746 35423
+ 64023 53060 40738 92314 29629 91334 57974 82919]
+2020-03-21 13:27:25,884 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #86 for 8.603769779205322 sec
+2020-03-21 13:27:25,884 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5114937454010302
+2020-03-21 13:27:25,884 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #87
+2020-03-21 13:27:31,608 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [51693 59840 85140 47110 38087  7978 52394 40593 15348 86606 41238 38372
+ 49098 74280 76599 23938 54393 71249 82657 79371]
+2020-03-21 13:27:34,392 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #87 for 8.507399082183838 sec
+2020-03-21 13:27:34,392 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5106107431935246
+2020-03-21 13:27:34,392 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #88
+2020-03-21 13:27:40,344 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [67154 58796 92739 29725 69483 35489 78781 55455 29287  6595 16036 60865
+ 41280  7120 96749 39910    82 84293 93107 10549]
+2020-03-21 13:27:43,108 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #88 for 8.715653657913208 sec
+2020-03-21 13:27:43,108 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5139072847682119
+2020-03-21 13:27:43,109 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #89
+2020-03-21 13:27:48,823 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [18958 18718 27557 84361 81113 68250 45690 42902 85317 76216 12195 91510
+  3041  7242 91311 44091 42373 13122 98167 83445]
+2020-03-21 13:27:51,600 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #89 for 8.491584062576294 sec
+2020-03-21 13:27:51,600 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5104930095658573
+2020-03-21 13:27:51,601 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #90
+2020-03-21 13:27:57,728 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [82780 10778 84559 77843  9334  1164 81402 40112 32886 82698 47573 64366
+ 63168 70976 47060 39131 93809  6657 76387 17533]
+2020-03-21 13:28:00,679 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #90 for 9.078007936477661 sec
+2020-03-21 13:28:00,679 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5136129506990434
+2020-03-21 13:28:00,679 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #91
+2020-03-21 13:28:06,573 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [68009  8261 66831 63327 48005  1750 52742 92451  3582 92447 64108 32636
+ 68317 51028 63683 43448 69751 24705 40997 44506]
+2020-03-21 13:28:09,504 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #91 for 8.825027704238892 sec
+2020-03-21 13:28:09,504 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5127593818984547
+2020-03-21 13:28:09,505 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #92
+2020-03-21 13:28:15,348 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [26668 85835  3935 49057 67602 46491 36773 95475 53278 93649 36199 89854
+ 22475 22446 14912 49695 75145 24979 83273 43356]
+2020-03-21 13:28:18,249 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #92 for 8.744241714477539 sec
+2020-03-21 13:28:18,249 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5132303164091243
+2020-03-21 13:28:18,249 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #93
+2020-03-21 13:28:24,103 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [45624 26013 81672 16978 11865 28160 12643 92943 45312 49164  7342 14150
+ 65467 69411 10096 41523 74884 47663 62415 55590]
+2020-03-21 13:28:26,950 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #93 for 8.700653791427612 sec
+2020-03-21 13:28:26,950 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5141427520235468
+2020-03-21 13:28:26,950 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #94
+2020-03-21 13:28:32,705 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [66674 35325 64175 25729 81865 29954 66375 82474 30001 40357 49037 17454
+ 33409 81171 48243 10142 81330 71147 50915 17137]
+2020-03-21 13:28:35,456 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #94 for 8.505194902420044 sec
+2020-03-21 13:28:35,456 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5147608535688006
+2020-03-21 13:28:35,456 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #95
+2020-03-21 13:28:41,631 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [20117 85659 50589 54977 15269 63133 41767 75768 79566 47327 45517 97465
+ 49651 53572 81182 50643 59528  5239 50779 31201]
+2020-03-21 13:28:44,577 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #95 for 9.120445966720581 sec
+2020-03-21 13:28:44,577 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5144959529065489
+2020-03-21 13:28:44,577 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #96
+2020-03-21 13:28:50,560 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [42570 14490  8929 22441 81733 44007 40229 81102 45721 11316 83929 13033
+   776 26805 96164 86907 24135 57663 36600 38923]
+2020-03-21 13:28:54,071 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #96 for 9.493665933609009 sec
+2020-03-21 13:28:54,071 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5140544518027962
+2020-03-21 13:28:54,072 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #97
+2020-03-21 13:28:59,811 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [86251 39491  8445 93258 86201 39087 96472 79264 82272 87729 41049 65102
+ 40110 62084 31225 80695 33039 44547 93212 94293]
+2020-03-21 13:29:02,545 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #97 for 8.473264217376709 sec
+2020-03-21 13:29:02,545 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5158204562178073
+2020-03-21 13:29:02,545 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #98
+2020-03-21 13:29:08,444 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [  476 18976 33257 82490 50117 64529 70181 85037 93265 91738 18003 15301
+ 24410  4614 26664 56221 30282 10744 14766 59608]
+2020-03-21 13:29:11,367 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #98 for 8.821477890014648 sec
+2020-03-21 13:29:11,367 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5145548197203826
+2020-03-21 13:29:11,367 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - start step #99
+2020-03-21 13:29:17,438 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - query idx: [57405 65610 74666 46534 51421 96787  8450 67440 18542 75764 58414 76568
+ 35625 12079 74509  5557 72951 77511 36074 66371]
+2020-03-21 13:29:20,281 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish step #99 for 8.913506984710693 sec
+2020-03-21 13:29:20,281 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - current val_accuracy: 0.5126416482707874
+2020-03-21 13:29:20,281 - exp_torch_topics_d128_entropy_top_3_i2000_b20_q100_3 - INFO - finish experiment process for 998.5761711597443 sec

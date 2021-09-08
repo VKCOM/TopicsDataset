@@ -1,0 +1,603 @@
+2020-03-23 03:51:33,750 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start experiment process
+2020-03-23 03:51:42,963 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - initial val_accuracy: 0.4531567328918322
+2020-03-23 03:51:42,966 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #0
+2020-03-23 03:52:21,823 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 1359 78375  8173 56404 52573 39968  3637  4589 76384 43289 17703 71705
+ 85816 40224 59242 18835 71528 23552 43354 76607]
+2020-03-23 03:52:27,657 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.4966, grad_fn=<DivBackward0>)
+2020-03-23 03:52:31,370 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #0 for 48.4036979675293 sec
+2020-03-23 03:52:31,370 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45200883002207504
+2020-03-23 03:52:31,370 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #1
+2020-03-23 03:52:49,440 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [13425 35237 92022 13620 13312 90154 15217  2623 96536  4824 11609 23048
+ 43174  6805 84886 79588 71463 87106 12718 63148]
+2020-03-23 03:52:53,602 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.4493, grad_fn=<DivBackward0>)
+2020-03-23 03:52:54,991 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #1 for 23.62121081352234 sec
+2020-03-23 03:52:54,991 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45083149374540105
+2020-03-23 03:52:54,992 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #2
+2020-03-23 03:53:17,255 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 2554 50037 43040 22784 18003  2706 23445 50185  2396 48867 82956 72218
+ 73823 19348 44731   196 47593 39895 95187 39067]
+2020-03-23 03:53:21,573 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.4278, grad_fn=<DivBackward0>)
+2020-03-23 03:53:23,005 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #2 for 28.013054132461548 sec
+2020-03-23 03:53:23,005 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44426784400294334
+2020-03-23 03:53:23,005 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #3
+2020-03-23 03:53:45,735 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [90821 79970 43696  6641 31749 75211 46879 98013 68982 63620 54747 13696
+ 44118 59386 75066 38408 23952 45429 72098 53319]
+2020-03-23 03:53:50,090 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.4143, grad_fn=<DivBackward0>)
+2020-03-23 03:53:51,568 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #3 for 28.5632266998291 sec
+2020-03-23 03:53:51,569 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.43069904341427523
+2020-03-23 03:53:51,569 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #4
+2020-03-23 03:54:16,585 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [53181 86944  1060 94213 98966 84941 17302 96892 67416 63110 29344  5143
+ 69070 92135 15078  1464 64568 68199 85993  1036]
+2020-03-23 03:54:20,790 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.4075, grad_fn=<DivBackward0>)
+2020-03-23 03:54:22,315 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #4 for 30.745742082595825 sec
+2020-03-23 03:54:22,315 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4405298013245033
+2020-03-23 03:54:22,315 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #5
+2020-03-23 03:54:44,283 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 9663 31087 72013  7406 16895 69402 73602 19294 47668 99813 71258 14759
+ 63616 43386 92256 75002 71154 65940 43697 89601]
+2020-03-23 03:54:48,948 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.4034, grad_fn=<DivBackward0>)
+2020-03-23 03:54:50,408 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #5 for 28.092863082885742 sec
+2020-03-23 03:54:50,408 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44676968359087565
+2020-03-23 03:54:50,408 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #6
+2020-03-23 03:55:12,502 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [31596 66745 26783 69548 71908 17170 50673 97513  7301 29745 95114 94243
+ 55158 94677 85324 43988 21040 36439 28790 12823]
+2020-03-23 03:55:16,984 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.4008, grad_fn=<DivBackward0>)
+2020-03-23 03:55:19,448 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #6 for 29.03985095024109 sec
+2020-03-23 03:55:19,448 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4500367917586461
+2020-03-23 03:55:19,448 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #7
+2020-03-23 03:55:39,375 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [26441 65178 51433 21643 84634 91720 65265 68178 53908 39447 60608 58145
+ 28044 61890 68526 17294 55879 87206 96951 47195]
+2020-03-23 03:55:44,538 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3989, grad_fn=<DivBackward0>)
+2020-03-23 03:55:46,187 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #7 for 26.738253116607666 sec
+2020-03-23 03:55:46,187 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4477998528329654
+2020-03-23 03:55:46,187 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #8
+2020-03-23 03:56:11,044 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [98412  5226 87122 25564 70279 20016 29763 29392 62041  2475 61228 82829
+  3933  3250 46102 62753 13723 73030  1110 61859]
+2020-03-23 03:56:15,827 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3972, grad_fn=<DivBackward0>)
+2020-03-23 03:56:17,402 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #8 for 31.214648962020874 sec
+2020-03-23 03:56:17,402 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4537748344370861
+2020-03-23 03:56:17,402 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #9
+2020-03-23 03:56:36,016 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [59951 22697 93783 20189 53100 68525  6633 43224 98729 86199 90685 47514
+ 78397 58073 90356 22346 56887  3500  9661 15237]
+2020-03-23 03:56:40,396 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3960, grad_fn=<DivBackward0>)
+2020-03-23 03:56:41,865 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #9 for 24.462589979171753 sec
+2020-03-23 03:56:41,865 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45189109639440767
+2020-03-23 03:56:41,865 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #10
+2020-03-23 03:57:07,391 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [64841 87060 87550 36812 64167 85375 11602  5809   451 53460 25473 10297
+  8883 94357 85000  6524 25631 53882 54916 73023]
+2020-03-23 03:57:13,150 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3951, grad_fn=<DivBackward0>)
+2020-03-23 03:57:14,774 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #10 for 32.90894794464111 sec
+2020-03-23 03:57:14,774 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45077262693156733
+2020-03-23 03:57:14,774 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #11
+2020-03-23 03:57:36,663 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [56013 42415 19339 76749 88273 68306 19097 30701 64362 95666 65116 20482
+ 19653  2612 14561 48973 69973 87823 50731 43415]
+2020-03-23 03:57:41,078 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3944, grad_fn=<DivBackward0>)
+2020-03-23 03:57:42,551 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #11 for 27.776983976364136 sec
+2020-03-23 03:57:42,552 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4507431935246505
+2020-03-23 03:57:42,552 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #12
+2020-03-23 03:58:01,864 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [94195 81866 93419 66315 42415 94665 33262 83088 82150 17637 86319 59681
+ 61730 51493 49469 63794 73500 34204 84076 12534]
+2020-03-23 03:58:06,307 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3938, grad_fn=<DivBackward0>)
+2020-03-23 03:58:07,833 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #12 for 25.281384229660034 sec
+2020-03-23 03:58:07,833 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45392200147167033
+2020-03-23 03:58:07,833 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #13
+2020-03-23 03:58:28,665 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [12755 58008  4704 72008 20178 72364 38790 72993 41502  1956 61977 70608
+ 15842 21254 77695 31173 12102 10264 97630 48312]
+2020-03-23 03:58:33,373 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3933, grad_fn=<DivBackward0>)
+2020-03-23 03:58:34,924 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #13 for 27.090691089630127 sec
+2020-03-23 03:58:34,926 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4519205298013245
+2020-03-23 03:58:34,927 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #14
+2020-03-23 03:58:55,461 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [33505 92533 99057 57717 94734 62157 34878 18654 34478 79495 38317 79299
+ 52969 94554 83851 83056 33777  9441 35715 92091]
+2020-03-23 03:58:59,800 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3930, grad_fn=<DivBackward0>)
+2020-03-23 03:59:01,321 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #14 for 26.394309997558594 sec
+2020-03-23 03:59:01,321 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44962472406181014
+2020-03-23 03:59:01,322 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #15
+2020-03-23 03:59:22,425 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [27229 85448 87603 19834 74917 96518 91772 68602 53033  1167 90472 26927
+ 45293 39854 89722 45035 72342 23655 60116 65832]
+2020-03-23 03:59:26,873 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3926, grad_fn=<DivBackward0>)
+2020-03-23 03:59:28,402 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #15 for 27.080583095550537 sec
+2020-03-23 03:59:28,402 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44974245768947757
+2020-03-23 03:59:28,402 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #16
+2020-03-23 03:59:49,254 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [86817 62716 49329   728 76448 63594 25965 67862 84868 22624 97405 23686
+ 18559 35296 82001 70080  7385   692  3202 29975]
+2020-03-23 03:59:53,504 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3923, grad_fn=<DivBackward0>)
+2020-03-23 03:59:54,989 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #16 for 26.58628797531128 sec
+2020-03-23 03:59:54,989 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45489330389992644
+2020-03-23 03:59:54,989 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #17
+2020-03-23 04:00:17,467 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [99536 32723 68630 45459 15807 11758  7820  7921 50625  5508  7400 32008
+ 63439 45813 22355 50041 52113 57810  7774  9140]
+2020-03-23 04:00:21,778 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3921, grad_fn=<DivBackward0>)
+2020-03-23 04:00:23,214 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #17 for 28.224387168884277 sec
+2020-03-23 04:00:23,214 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45480500367917587
+2020-03-23 04:00:23,214 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #18
+2020-03-23 04:00:45,157 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [15534 86965 58102 84370 98437 80613 42219 41795 38690 21287 39525 63615
+ 59581 34208 73167 41342 43617 43562 34644 44542]
+2020-03-23 04:00:50,002 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3918, grad_fn=<DivBackward0>)
+2020-03-23 04:00:51,609 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #18 for 28.39465618133545 sec
+2020-03-23 04:00:51,609 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4502722590139809
+2020-03-23 04:00:51,609 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #19
+2020-03-23 04:01:14,292 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [47753 75481 76589 63489 65507 84165 85836 57505 98249 74109 21663 70058
+ 76748 62147 28428 19308 67760 56819 76190 67004]
+2020-03-23 04:01:18,655 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3916, grad_fn=<DivBackward0>)
+2020-03-23 04:01:20,125 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #19 for 28.515779972076416 sec
+2020-03-23 04:01:20,125 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4550699043414275
+2020-03-23 04:01:20,125 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #20
+2020-03-23 04:01:40,912 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [98011 83315 25779 70014 80697 66483 55306 90236 89092 40074 37194 79782
+ 14783  6504 27526 29760 86796 29668 16284 53132]
+2020-03-23 04:01:45,079 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3914, grad_fn=<DivBackward0>)
+2020-03-23 04:01:46,526 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #20 for 26.400774717330933 sec
+2020-03-23 04:01:46,526 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45654157468727
+2020-03-23 04:01:46,526 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #21
+2020-03-23 04:02:08,175 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [22033 76066 58930 98289 66235 44572 94502 26338  4365 58363 69244 52154
+ 23171 81875 91108 45755  1720 81085 13860 95736]
+2020-03-23 04:02:12,377 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3913, grad_fn=<DivBackward0>)
+2020-03-23 04:02:13,898 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #21 for 27.37195897102356 sec
+2020-03-23 04:02:13,899 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4529212656364974
+2020-03-23 04:02:13,899 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #22
+2020-03-23 04:02:32,754 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [98509 97863 37655 63139 47372 91127  8899 26957 10737 65819 65881 67644
+ 87251  4377 94726 14258 21561 22230 16521 10450]
+2020-03-23 04:02:36,916 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3911, grad_fn=<DivBackward0>)
+2020-03-23 04:02:38,449 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #22 for 24.550618171691895 sec
+2020-03-23 04:02:38,450 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4518616629874908
+2020-03-23 04:02:38,450 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #23
+2020-03-23 04:03:03,953 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [20548 42602 79798 97896 25591 32977 70528 40541  6733 99230 18503 71055
+ 21085 40462 59288 91780 32583 59060 82898 19124]
+2020-03-23 04:03:08,186 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3910, grad_fn=<DivBackward0>)
+2020-03-23 04:03:09,817 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #23 for 31.36691379547119 sec
+2020-03-23 04:03:09,817 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4477409860191317
+2020-03-23 04:03:09,817 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #24
+2020-03-23 04:03:30,979 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [58853 86645 60648 94324 38966 40041 22304 81964 47273  7988 14316 76386
+ 86343 28766 64445 77110 63107 48154 72205 49438]
+2020-03-23 04:03:35,471 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3909, grad_fn=<DivBackward0>)
+2020-03-23 04:03:36,965 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #24 for 27.147552728652954 sec
+2020-03-23 04:03:36,965 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45144959529065487
+2020-03-23 04:03:36,965 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #25
+2020-03-23 04:04:00,651 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [80976 83287 64262  4891 33377 30963 82477 33921 69128 63449 88219 68611
+ 86690 90465 57202 62689 26369 94957 75572 80061]
+2020-03-23 04:04:04,970 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3909, grad_fn=<DivBackward0>)
+2020-03-23 04:04:06,547 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #25 for 29.581920862197876 sec
+2020-03-23 04:04:06,550 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4518027961736571
+2020-03-23 04:04:06,550 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #26
+2020-03-23 04:04:27,548 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [69251 17272 18696 53085 75132 29752  3224 50202 80970 60536 63982 82864
+ 31602 55576  4700 55598 81051 42831 27976 66360]
+2020-03-23 04:04:31,815 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3908, grad_fn=<DivBackward0>)
+2020-03-23 04:04:33,477 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #26 for 26.9268217086792 sec
+2020-03-23 04:04:33,477 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4553053715967623
+2020-03-23 04:04:33,477 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #27
+2020-03-23 04:04:56,106 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [86202 39099 57275 75703 89847 68919 95321 14108 77189 90898 69673 25317
+ 52419 93040 23793 98387 92950 38808 72987 61561]
+2020-03-23 04:05:01,538 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3907, grad_fn=<DivBackward0>)
+2020-03-23 04:05:03,098 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #27 for 29.62084412574768 sec
+2020-03-23 04:05:03,098 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45359823399558497
+2020-03-23 04:05:03,098 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #28
+2020-03-23 04:05:24,188 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [39592 67399 11839 60911 73553  5800 10433 57355 88913 86904 32325 53718
+ 24403 17411 16050 19598  9827 81573 63639 27671]
+2020-03-23 04:05:28,561 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3905, grad_fn=<DivBackward0>)
+2020-03-23 04:05:30,084 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #28 for 26.98585271835327 sec
+2020-03-23 04:05:30,084 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45398086828550405
+2020-03-23 04:05:30,085 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #29
+2020-03-23 04:05:52,415 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [29555  4012 93893 76301 92207 15416 65470 44367 50691 34124 17863  2063
+ 73373 12471 27164 64752 83960 99024 44327 81671]
+2020-03-23 04:05:57,176 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3903, grad_fn=<DivBackward0>)
+2020-03-23 04:05:58,770 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #29 for 28.68508291244507 sec
+2020-03-23 04:05:58,770 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45100809418690213
+2020-03-23 04:05:58,770 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #30
+2020-03-23 04:06:20,921 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [46375 15441 63921 46517 29600 33030 39667 81896 63017 61090 94056 22636
+ 65721 37975 95304 15369  1655 72655 62330  2167]
+2020-03-23 04:06:28,287 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3904, grad_fn=<DivBackward0>)
+2020-03-23 04:06:29,708 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #30 for 30.938293933868408 sec
+2020-03-23 04:06:29,709 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4481236203090508
+2020-03-23 04:06:29,709 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #31
+2020-03-23 04:06:53,695 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [36997 23877 29848 28342 39822 83953 57148 30035 10088 76236 16952 18631
+ 34893 77326 80066 90616 30771 76293 41727 22978]
+2020-03-23 04:06:58,170 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3904, grad_fn=<DivBackward0>)
+2020-03-23 04:07:01,620 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #31 for 31.911309957504272 sec
+2020-03-23 04:07:01,620 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4483590875643856
+2020-03-23 04:07:01,620 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #32
+2020-03-23 04:07:24,943 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [87574 58135 53105 60738 48509 15709 92431  1762 23915   481 81716 79776
+ 43863 28896 69963 29337 10808 56455 47533 92435]
+2020-03-23 04:07:34,527 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3906, grad_fn=<DivBackward0>)
+2020-03-23 04:07:38,017 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #32 for 36.39673900604248 sec
+2020-03-23 04:07:38,017 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4467402501839588
+2020-03-23 04:07:38,018 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #33
+2020-03-23 04:08:13,314 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [90991 83808 85687 81296 40633 46605 91518  1334 44900    56 37199 30211
+ 28230 54008 44514 95277 54261 59752 45923 28660]
+2020-03-23 04:08:18,062 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3905, grad_fn=<DivBackward0>)
+2020-03-23 04:08:21,568 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #33 for 43.55060577392578 sec
+2020-03-23 04:08:21,568 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44844738778513615
+2020-03-23 04:08:21,568 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #34
+2020-03-23 04:08:43,197 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [14439 98016 21011 17942 65547 68569 92240 89477 87185 34756 51007 54591
+ 84108 37386 62758 98104 94866 67962 98522 55226]
+2020-03-23 04:08:47,809 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3901, grad_fn=<DivBackward0>)
+2020-03-23 04:08:49,210 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #34 for 27.641105890274048 sec
+2020-03-23 04:08:49,210 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4528623988226637
+2020-03-23 04:08:49,210 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #35
+2020-03-23 04:09:09,716 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [10746 31680 87348 77819 17595 20511 64486 69332 11480  2047 38787 11620
+ 28421 60365  9835 23402 22143 33484 60395 98929]
+2020-03-23 04:09:14,151 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3900, grad_fn=<DivBackward0>)
+2020-03-23 04:09:15,600 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #35 for 26.39022707939148 sec
+2020-03-23 04:09:15,600 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4569830757910228
+2020-03-23 04:09:15,601 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #36
+2020-03-23 04:09:35,855 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [87181 35620 77535  4962 63918 12852 36347 54970 70837  4530  2664 77600
+ 66872 37602 25800 81178 20029 55081 28334 26851]
+2020-03-23 04:09:40,296 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3899, grad_fn=<DivBackward0>)
+2020-03-23 04:09:41,761 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #36 for 26.1600399017334 sec
+2020-03-23 04:09:41,761 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4531861662987491
+2020-03-23 04:09:41,761 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #37
+2020-03-23 04:10:04,885 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [85023 95715 89725 96339 80032  8708 34194 19031 47089 70758 74301 24341
+ 54031 53789 75925 28458 40335 51430 39681 18520]
+2020-03-23 04:10:09,717 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3898, grad_fn=<DivBackward0>)
+2020-03-23 04:10:12,574 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #37 for 30.81300687789917 sec
+2020-03-23 04:10:12,574 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4504194260485651
+2020-03-23 04:10:12,574 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #38
+2020-03-23 04:10:37,912 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [77856 30417 44778 25398 86198 31538 58564 61583 12476 91981 96643 64774
+ 56779 63563 39659 39012 11881 63743 32094 22631]
+2020-03-23 04:10:43,218 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3897, grad_fn=<DivBackward0>)
+2020-03-23 04:10:44,819 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #38 for 32.24490475654602 sec
+2020-03-23 04:10:44,820 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44632818248712286
+2020-03-23 04:10:44,820 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #39
+2020-03-23 04:11:15,460 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [77258 93121 92330 53415 43788 86125 83634 90193  5382 41339 25852 24669
+ 37001 26597  2135 29670  7459 80199 44741 35587]
+2020-03-23 04:11:19,806 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3897, grad_fn=<DivBackward0>)
+2020-03-23 04:11:21,263 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #39 for 36.44335389137268 sec
+2020-03-23 04:11:21,263 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4535393671817513
+2020-03-23 04:11:21,263 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #40
+2020-03-23 04:11:43,531 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [45616 97635 85706 28723  2215 70599 13686 44590   570 59339 49045  3954
+ 97875 14082 51598 98582 61741 44854 80394  5851]
+2020-03-23 04:11:47,607 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3895, grad_fn=<DivBackward0>)
+2020-03-23 04:11:48,968 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #40 for 27.704327821731567 sec
+2020-03-23 04:11:48,968 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4544223693892568
+2020-03-23 04:11:48,968 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #41
+2020-03-23 04:12:10,758 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [40667  5135 68016 48804 32881 18739 27860 75306 26815 39623 41294 45631
+ 91544 80816 81508 29420 28291 12642 50193 67887]
+2020-03-23 04:12:15,014 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3895, grad_fn=<DivBackward0>)
+2020-03-23 04:12:16,456 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #41 for 27.487377166748047 sec
+2020-03-23 04:12:16,456 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4519499632082414
+2020-03-23 04:12:16,456 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #42
+2020-03-23 04:12:37,505 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [68943 16035 55889 76238  3922 71863 76980  2210 83234 83063 58753 37846
+ 26928 54549  5357 50486 71598 57201 97489 80848]
+2020-03-23 04:12:42,352 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3894, grad_fn=<DivBackward0>)
+2020-03-23 04:12:43,770 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #42 for 27.314199924468994 sec
+2020-03-23 04:12:43,770 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44906548933039
+2020-03-23 04:12:43,770 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #43
+2020-03-23 04:13:06,867 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [61319 27404 86412 52033 69764 38580 92387 44229 61891 41929  4584  7048
+ 31218 10138 11577 12014 77761 57534 29342 44371]
+2020-03-23 04:13:11,227 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3894, grad_fn=<DivBackward0>)
+2020-03-23 04:13:12,634 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #43 for 28.863056898117065 sec
+2020-03-23 04:13:12,634 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45474613686534215
+2020-03-23 04:13:12,634 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #44
+2020-03-23 04:13:33,433 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [28734 12729 50041  5152 34403 33893 95138 93399 17424 71212 21052  6793
+ 13854 62471 94623 37667  8488 24527 23930 56371]
+2020-03-23 04:13:37,709 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3892, grad_fn=<DivBackward0>)
+2020-03-23 04:13:39,176 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #44 for 26.541608095169067 sec
+2020-03-23 04:13:39,176 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4555408388520971
+2020-03-23 04:13:39,176 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #45
+2020-03-23 04:13:57,679 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [15247 21272 27994 76605 25549 54778 44510 54163 61457 27936  2588 74887
+ 67026 75606 24346 83385  3140 86507 49377 97530]
+2020-03-23 04:14:02,015 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3892, grad_fn=<DivBackward0>)
+2020-03-23 04:14:03,462 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #45 for 24.286235094070435 sec
+2020-03-23 04:14:03,462 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4525091979396615
+2020-03-23 04:14:03,463 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #46
+2020-03-23 04:14:23,289 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [33998 93577 17935 66633 57315 86504 27836  9171  2235 18496 83093 65846
+ 50490 13907  8032 76331 91588  9321 70668 43822]
+2020-03-23 04:14:27,588 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3891, grad_fn=<DivBackward0>)
+2020-03-23 04:14:29,076 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #46 for 25.613527059555054 sec
+2020-03-23 04:14:29,076 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45427520235467256
+2020-03-23 04:14:29,077 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #47
+2020-03-23 04:14:51,220 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [55642 14619 36743 62438 52417 42321 22191 89433  4196 64395 87132 35933
+  2605 94559 57226 25112 52904 97428 47247 54129]
+2020-03-23 04:14:55,681 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3890, grad_fn=<DivBackward0>)
+2020-03-23 04:14:57,130 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #47 for 28.053327083587646 sec
+2020-03-23 04:14:57,130 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.450242825607064
+2020-03-23 04:14:57,130 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #48
+2020-03-23 04:15:19,428 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [65937 54245 67973 34591   329  5293 56528  5194 71741 22084 11913 37704
+ 61525 54614 58515 42236 89617  1326 49133 82612]
+2020-03-23 04:15:24,233 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3890, grad_fn=<DivBackward0>)
+2020-03-23 04:15:25,697 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #48 for 28.5671489238739 sec
+2020-03-23 04:15:25,698 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4556880058866814
+2020-03-23 04:15:25,698 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #49
+2020-03-23 04:15:49,558 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [51464 41669 64056 42058   531  2744 92716 38063  4151 33082 11012  6083
+ 35956 50177 12487 21094 14068  6258 61230  9071]
+2020-03-23 04:15:54,380 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3889, grad_fn=<DivBackward0>)
+2020-03-23 04:15:55,909 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #49 for 30.21155595779419 sec
+2020-03-23 04:15:55,910 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4564532744665195
+2020-03-23 04:15:55,910 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #50
+2020-03-23 04:16:18,575 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [60696  4765 14448 97374 69804 82801  3752 57261  9898 44932 41310 85475
+ 36069 37190 45707 73008 80254 38306 29682  7458]
+2020-03-23 04:16:23,430 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3889, grad_fn=<DivBackward0>)
+2020-03-23 04:16:24,894 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #50 for 28.984411001205444 sec
+2020-03-23 04:16:24,894 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45200883002207504
+2020-03-23 04:16:24,895 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #51
+2020-03-23 04:16:43,488 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [11274  6976  3539 98184  2726 29837 59613 78309 64544 63211 28359 13697
+ 88335 64837 61982 87029 86567  5101 13926 57363]
+2020-03-23 04:16:48,001 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3889, grad_fn=<DivBackward0>)
+2020-03-23 04:16:49,946 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #51 for 25.05154776573181 sec
+2020-03-23 04:16:49,946 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45124356144223693
+2020-03-23 04:16:49,946 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #52
+2020-03-23 04:17:12,350 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [76095 33085 10082 20282 16057 84038 92892 80050 44174 26199 70381 41007
+ 46110 25664 53794 84705 19990 62827 98726 49420]
+2020-03-23 04:17:16,613 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3889, grad_fn=<DivBackward0>)
+2020-03-23 04:17:18,127 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #52 for 28.180296182632446 sec
+2020-03-23 04:17:18,127 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4501250919793966
+2020-03-23 04:17:18,127 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #53
+2020-03-23 04:17:39,600 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [69849 92611 83039   474 56600 64837 60072  2060 61710  3350 89036 76036
+ 39285  2911 46923 53553  6735 52573 54959 40830]
+2020-03-23 04:17:43,877 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3888, grad_fn=<DivBackward0>)
+2020-03-23 04:17:45,315 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #53 for 27.1872718334198 sec
+2020-03-23 04:17:45,315 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4501250919793966
+2020-03-23 04:17:45,315 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #54
+2020-03-23 04:18:04,291 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [24825  4271 78625 54375 47686 48781 14652 79016 49589 40693    54 34021
+ 29704 15881 58017 87459 68411 19296 10977 37699]
+2020-03-23 04:18:08,514 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3885, grad_fn=<DivBackward0>)
+2020-03-23 04:18:10,038 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #54 for 24.72307300567627 sec
+2020-03-23 04:18:10,038 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4520971302428256
+2020-03-23 04:18:10,038 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #55
+2020-03-23 04:18:31,147 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [75195 88209  8266 10746 43824 51513 48181 62887 57654 95215 96964 23924
+ 22904 28874 40376 35032 83027 17779 80403 57151]
+2020-03-23 04:18:35,532 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3887, grad_fn=<DivBackward0>)
+2020-03-23 04:18:36,994 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #55 for 26.955050945281982 sec
+2020-03-23 04:18:36,996 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4506548933038999
+2020-03-23 04:18:36,996 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #56
+2020-03-23 04:18:58,900 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [60816 60087 21832 30328 18885  5075 74433 77691 27797 67620 92554  2303
+ 70558 11378 49951 62351 89204 74988 97365 11518]
+2020-03-23 04:19:03,148 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3887, grad_fn=<DivBackward0>)
+2020-03-23 04:19:04,637 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #56 for 27.64023780822754 sec
+2020-03-23 04:19:04,637 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4471523178807947
+2020-03-23 04:19:04,637 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #57
+2020-03-23 04:19:26,830 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [37339 77911 68024 33014 21849 19101 33799 62582 98425 24208 14817 66599
+ 58146 16788  7100 71105 85144 41561 11569 30820]
+2020-03-23 04:19:31,425 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3884, grad_fn=<DivBackward0>)
+2020-03-23 04:19:32,858 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #57 for 28.2208309173584 sec
+2020-03-23 04:19:32,858 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45306843267108166
+2020-03-23 04:19:32,858 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #58
+2020-03-23 04:19:52,695 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [27416 47452 30608 42274 63023 45666 45111 30176 22387  6587 78874  6743
+ 66277  3664 92768 78285 29017  1262 69130 90945]
+2020-03-23 04:19:56,979 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3903, grad_fn=<DivBackward0>)
+2020-03-23 04:19:58,441 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #58 for 25.582202196121216 sec
+2020-03-23 04:19:58,441 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45277409860191314
+2020-03-23 04:19:58,441 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #59
+2020-03-23 04:20:19,009 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 9434 58866 29440 58920 36195 20803 71782   291 20267 39083 39536 52809
+ 38037  4797 81835 53337  1765  6104 24993 32081]
+2020-03-23 04:20:23,272 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3897, grad_fn=<DivBackward0>)
+2020-03-23 04:20:24,693 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #59 for 26.25185489654541 sec
+2020-03-23 04:20:24,693 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45451066961000736
+2020-03-23 04:20:24,693 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #60
+2020-03-23 04:20:46,311 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 7188 25928 75554   694 92449 94920 15969 28188 72016 41384 75489 45552
+ 54940 39126 27019 84081 42616 90417 74503 63907]
+2020-03-23 04:20:50,742 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3885, grad_fn=<DivBackward0>)
+2020-03-23 04:20:52,230 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #60 for 27.536408185958862 sec
+2020-03-23 04:20:52,230 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.455570272259014
+2020-03-23 04:20:52,230 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #61
+2020-03-23 04:21:13,116 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [72916 87279 47289 31884 60229 13385 10698 37854 81454 89789 59090 65321
+ 37405 91155 48052  3063 14363 54910  1997 38122]
+2020-03-23 04:21:17,581 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3884, grad_fn=<DivBackward0>)
+2020-03-23 04:21:19,240 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #61 for 27.0097758769989 sec
+2020-03-23 04:21:19,240 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45359823399558497
+2020-03-23 04:21:19,240 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #62
+2020-03-23 04:21:40,944 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [53015 41932 77817 57766 87029 12193 80180  7470 67614  7091 51065 47661
+ 77093 79666 76432 55345 34233  2418 72913 38719]
+2020-03-23 04:21:45,529 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3884, grad_fn=<DivBackward0>)
+2020-03-23 04:21:46,986 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #62 for 27.74569082260132 sec
+2020-03-23 04:21:46,986 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4550993377483444
+2020-03-23 04:21:46,986 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #63
+2020-03-23 04:22:09,316 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [35108 26528 12928 63744  2729 75570 87628 42867 45856  3568 94461 96189
+ 11941 58239  9692 90871 16313 13193 36227 12087]
+2020-03-23 04:22:13,556 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3884, grad_fn=<DivBackward0>)
+2020-03-23 04:22:14,961 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #63 for 27.975116968154907 sec
+2020-03-23 04:22:14,962 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.456747608535688
+2020-03-23 04:22:14,962 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #64
+2020-03-23 04:22:35,794 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [64943 87481 14323 47002 79426 65369 83807 17349 54839 94916 56841 95621
+ 90053 22058 71636 81133 59368 32648 66868 48777]
+2020-03-23 04:22:40,251 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3883, grad_fn=<DivBackward0>)
+2020-03-23 04:22:41,650 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #64 for 26.68820881843567 sec
+2020-03-23 04:22:41,650 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44944812362030906
+2020-03-23 04:22:41,650 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #65
+2020-03-23 04:23:03,123 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [19375 70230 78023 95591 57023 19134 74481 91931 68073 48869 24183 12284
+ 43945 28134 44388 26191 84520 81995 65962 49212]
+2020-03-23 04:23:07,427 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3883, grad_fn=<DivBackward0>)
+2020-03-23 04:23:08,911 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #65 for 27.260704040527344 sec
+2020-03-23 04:23:08,911 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45206769683590875
+2020-03-23 04:23:08,911 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #66
+2020-03-23 04:23:39,588 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [55525 87788 20239 24652 20132 36919 75650 94818 65611 34976 34944 27509
+ 49591 39319 15314 89809 27309 26469 34923  8179]
+2020-03-23 04:23:44,514 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3882, grad_fn=<DivBackward0>)
+2020-03-23 04:23:45,927 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #66 for 37.0151801109314 sec
+2020-03-23 04:23:45,927 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45303899926416485
+2020-03-23 04:23:45,927 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #67
+2020-03-23 04:24:06,206 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [30258 23729 61043 27622 38516 11926 29808 95199 67989 37356 60774 69335
+  4270  3209 64952 62675 60273 51576 18363 91328]
+2020-03-23 04:24:10,500 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3882, grad_fn=<DivBackward0>)
+2020-03-23 04:24:11,914 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #67 for 25.98649287223816 sec
+2020-03-23 04:24:11,914 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4482119205298013
+2020-03-23 04:24:11,914 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #68
+2020-03-23 04:24:31,046 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [61463 68848 10675  2099 10560 56008  7961 10589 84291 97242 51112 88731
+ 13055 19660 18943 27451 75298 60174 51464 13385]
+2020-03-23 04:24:35,344 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3882, grad_fn=<DivBackward0>)
+2020-03-23 04:24:36,850 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #68 for 24.93603014945984 sec
+2020-03-23 04:24:36,851 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45298013245033114
+2020-03-23 04:24:36,852 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #69
+2020-03-23 04:24:57,588 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [16990 15036 13735  5801 43483 87269 78243 67290 73686 75353 36925  7346
+ 97286 35628 20807 78515 31423  9916 15996 98364]
+2020-03-23 04:25:01,982 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3881, grad_fn=<DivBackward0>)
+2020-03-23 04:25:03,422 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #69 for 26.5704607963562 sec
+2020-03-23 04:25:03,423 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45542310522442975
+2020-03-23 04:25:03,423 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #70
+2020-03-23 04:25:26,175 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [33203 50949 54925 92278 72679 57036 52801 57288  7380 34626 46464 81023
+ 62061 43576 50604 23190 15116 81045 39429  7204]
+2020-03-23 04:25:30,543 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3880, grad_fn=<DivBackward0>)
+2020-03-23 04:25:31,988 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #70 for 28.564923763275146 sec
+2020-03-23 04:25:31,988 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45303899926416485
+2020-03-23 04:25:31,988 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #71
+2020-03-23 04:25:51,744 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 9322 80964 89201 48229 60693 63892 32756 50346 53205 13883 23234 84198
+  5514 63141 40580 11100 85569  7115 84552  1218]
+2020-03-23 04:25:56,233 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3881, grad_fn=<DivBackward0>)
+2020-03-23 04:25:57,752 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #71 for 25.763551950454712 sec
+2020-03-23 04:25:57,752 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45224429727740983
+2020-03-23 04:25:57,752 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #72
+2020-03-23 04:26:19,336 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 9841 28927 94874 31828 10571 17327 71626 46295  8161 57519 58984 11828
+  7574 45403 97770 44946 30632 39023 66800 27311]
+2020-03-23 04:26:23,751 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3879, grad_fn=<DivBackward0>)
+2020-03-23 04:26:25,349 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #72 for 27.59695315361023 sec
+2020-03-23 04:26:25,349 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45551140544518026
+2020-03-23 04:26:25,349 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #73
+2020-03-23 04:26:46,435 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [39343 10574 45315 92588 36186 67514 64364 92600 45775 90234 27986 26636
+ 49691 33894 15747 20290 67792  8172 39771 46313]
+2020-03-23 04:26:50,851 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3879, grad_fn=<DivBackward0>)
+2020-03-23 04:26:52,299 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #73 for 26.949541807174683 sec
+2020-03-23 04:26:52,299 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4525091979396615
+2020-03-23 04:26:52,299 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #74
+2020-03-23 04:27:11,722 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [97659 81239 28589 63649 18692  6926 17797 67137 61899 85648 24866 81703
+ 55407 95415 72999  1807 34329 52773 58812 43119]
+2020-03-23 04:27:16,040 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3879, grad_fn=<DivBackward0>)
+2020-03-23 04:27:17,531 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #74 for 25.231507062911987 sec
+2020-03-23 04:27:17,531 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4566298749080206
+2020-03-23 04:27:17,531 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #75
+2020-03-23 04:27:39,475 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [29102 23453 76945 85624 44990 84585 16404 20013 14647 72746 74895 72307
+ 84711 60424 48539 82191 55502 42618 15523 55611]
+2020-03-23 04:27:43,901 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3879, grad_fn=<DivBackward0>)
+2020-03-23 04:27:46,086 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #75 for 28.555240869522095 sec
+2020-03-23 04:27:46,087 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4586607799852833
+2020-03-23 04:27:46,087 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #76
+2020-03-23 04:28:07,382 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [41247 84048 80862  9278 76951 19423 20194  6092  3342    70 30179 84326
+ 43112 28234 11869 59122 57421 17815 47499 90055]
+2020-03-23 04:28:11,744 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3879, grad_fn=<DivBackward0>)
+2020-03-23 04:28:13,256 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #76 for 27.168884992599487 sec
+2020-03-23 04:28:13,256 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4526269315673289
+2020-03-23 04:28:13,256 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #77
+2020-03-23 04:28:36,831 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [85061 32978 15660 18510 36241 53525 49035 42082 12532 22851 78158 87348
+ 20246  3437 71617 78699 46644 36086 42504 56706]
+2020-03-23 04:28:44,703 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3879, grad_fn=<DivBackward0>)
+2020-03-23 04:28:46,215 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #77 for 32.958402156829834 sec
+2020-03-23 04:28:46,220 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44594554819720383
+2020-03-23 04:28:46,220 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #78
+2020-03-23 04:29:06,785 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [91479 81830   428 62726  4239 69260  5820 68292 52645 82115 78615 19421
+  7709 33235 79396 72681 32944 36344 51702 40589]
+2020-03-23 04:29:11,367 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3878, grad_fn=<DivBackward0>)
+2020-03-23 04:29:12,859 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #78 for 26.638180017471313 sec
+2020-03-23 04:29:12,859 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4509492273730684
+2020-03-23 04:29:12,859 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #79
+2020-03-23 04:29:32,019 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [24152 57200 10114 31069 96811  3279   369 83639 80053 69740 20084 31986
+  9846 22046 13511 28089 80458 49402 24992 45027]
+2020-03-23 04:29:36,362 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3877, grad_fn=<DivBackward0>)
+2020-03-23 04:29:37,836 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #79 for 24.9773371219635 sec
+2020-03-23 04:29:37,836 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.44379690949227374
+2020-03-23 04:29:37,837 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #80
+2020-03-23 04:29:59,943 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [14858 71387 66574 15721 23714 89891 52096 77036 27837 73841 53334 82936
+  3919 29516 90423 44606 24537 11412 72275 97822]
+2020-03-23 04:30:04,408 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3874, grad_fn=<DivBackward0>)
+2020-03-23 04:30:05,959 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #80 for 28.12236189842224 sec
+2020-03-23 04:30:05,959 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4344076526857984
+2020-03-23 04:30:05,959 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #81
+2020-03-23 04:30:26,760 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [90104  2895 50221 56035 59382  3349 78278 74624 26570 48361 35081  7129
+ 88013  4399 69334 55366  4988 28833 10996 24184]
+2020-03-23 04:30:31,005 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3876, grad_fn=<DivBackward0>)
+2020-03-23 04:30:32,513 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #81 for 26.553287982940674 sec
+2020-03-23 04:30:32,513 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4503311258278146
+2020-03-23 04:30:32,513 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #82
+2020-03-23 04:30:56,020 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [45550    48  2077 78432 14488 24930 39093 71768 85399 47021 72291 71580
+ 95922 80746 34530 46859 16365 19436 96993 29775]
+2020-03-23 04:31:00,918 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3875, grad_fn=<DivBackward0>)
+2020-03-23 04:31:03,248 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #82 for 30.73472499847412 sec
+2020-03-23 04:31:03,248 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4430905077262693
+2020-03-23 04:31:03,248 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #83
+2020-03-23 04:31:23,842 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [74270 55439 78214 24966 74434 56754 32475 55261 53597 27643  1673 55819
+ 76028 64907 82247 54452 19100 95027 59032  2864]
+2020-03-23 04:31:28,259 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3874, grad_fn=<DivBackward0>)
+2020-03-23 04:31:29,684 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #83 for 26.43609118461609 sec
+2020-03-23 04:31:29,685 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45077262693156733
+2020-03-23 04:31:29,685 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #84
+2020-03-23 04:31:49,477 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [32286 44013 79614 37568 22532 49609 85382 63863 76488 89543 11679 35029
+ 88911 59342 97715 75722 89600 49401 48645 79949]
+2020-03-23 04:32:00,866 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3877, grad_fn=<DivBackward0>)
+2020-03-23 04:32:03,464 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #84 for 33.77894687652588 sec
+2020-03-23 04:32:03,464 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45660044150110374
+2020-03-23 04:32:03,464 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #85
+2020-03-23 04:32:27,135 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 3694 42657 23961 33574 78235 23595 70418  2818 24934 28401 16106 79976
+ 81894 16212 54345 13138 86392 55185 14121 33626]
+2020-03-23 04:32:31,743 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3874, grad_fn=<DivBackward0>)
+2020-03-23 04:32:33,112 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #85 for 29.647719860076904 sec
+2020-03-23 04:32:33,112 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4583664459161148
+2020-03-23 04:32:33,112 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #86
+2020-03-23 04:32:54,625 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [24360  6574 13611 97517 18654 79997 96431 91127 91611 84261 66266  8773
+ 27126 84090 28051 61975 18530 17799 46957 28461]
+2020-03-23 04:32:58,937 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3874, grad_fn=<DivBackward0>)
+2020-03-23 04:33:00,497 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #86 for 27.38473892211914 sec
+2020-03-23 04:33:00,497 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45321559970566594
+2020-03-23 04:33:00,497 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #87
+2020-03-23 04:33:23,543 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 2772 64347 51584 93171 12592 58065 78870 73507 61445 97613 42575 68802
+ 15031 63271 88908 36821 52169 89841 39328 46027]
+2020-03-23 04:33:28,248 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3874, grad_fn=<DivBackward0>)
+2020-03-23 04:33:30,549 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #87 for 30.051584005355835 sec
+2020-03-23 04:33:30,549 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.451626195732156
+2020-03-23 04:33:30,549 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #88
+2020-03-23 04:33:52,985 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [80772 93237 47465 59922 62054  1946 87358  3445 61158 51356 61212 88196
+ 60065 64927 35741 44584  3000 11386 12332 73170]
+2020-03-23 04:33:57,355 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3874, grad_fn=<DivBackward0>)
+2020-03-23 04:33:58,833 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #88 for 28.283563137054443 sec
+2020-03-23 04:33:58,833 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4552465047829286
+2020-03-23 04:33:58,833 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #89
+2020-03-23 04:34:18,416 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [ 6894 69978 86148 16163 21425 63169 31749  8153 47654  2631 84638 76320
+ 22545 63856  5066 44657 67086 38686 56660 13829]
+2020-03-23 04:34:22,773 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3873, grad_fn=<DivBackward0>)
+2020-03-23 04:34:24,226 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #89 for 25.392699718475342 sec
+2020-03-23 04:34:24,226 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4555408388520971
+2020-03-23 04:34:24,226 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #90
+2020-03-23 04:34:45,793 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [30211 43764 93595 62150 11670  9127 49605 49622 35345 63582 67639 88429
+ 73389 46200 90816 80643 14283  3016 13769 82753]
+2020-03-23 04:34:50,178 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3873, grad_fn=<DivBackward0>)
+2020-03-23 04:34:51,592 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #90 for 27.36535620689392 sec
+2020-03-23 04:34:51,592 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4561000735835173
+2020-03-23 04:34:51,592 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #91
+2020-03-23 04:35:12,639 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [84024 26780 88599 97404 15868 48214 84983 93655 89943  6240 31939 21566
+ 87581 77076 48125 72784 64340 23736 90873 89928]
+2020-03-23 04:35:17,069 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3873, grad_fn=<DivBackward0>)
+2020-03-23 04:35:18,501 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #91 for 26.908690214157104 sec
+2020-03-23 04:35:18,501 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.453009565857248
+2020-03-23 04:35:18,501 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #92
+2020-03-23 04:35:40,879 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [54186 37139 16941 14353 84937 62229 49736 51906 37529 82492 58376 63284
+ 68158 79566 55920 90018 33537 38263 62317  9595]
+2020-03-23 04:35:46,088 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3872, grad_fn=<DivBackward0>)
+2020-03-23 04:35:47,613 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #92 for 29.111820220947266 sec
+2020-03-23 04:35:47,613 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45559970566593083
+2020-03-23 04:35:47,613 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #93
+2020-03-23 04:36:09,985 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [52699 27885  1464 47336 47854 82819 96099 22877 96181 29445  5614 24969
+ 86769 44181 39370  9810 37094 60681 50687 16915]
+2020-03-23 04:36:15,532 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3872, grad_fn=<DivBackward0>)
+2020-03-23 04:36:16,960 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #93 for 29.346585988998413 sec
+2020-03-23 04:36:16,960 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45833701250919795
+2020-03-23 04:36:16,960 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #94
+2020-03-23 04:36:40,385 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [92844 84291 45249 71339 21920 27224 97101 71877 22802 57218 13180 64156
+  7702 65823 36494 56156 87940 40456 55723 54420]
+2020-03-23 04:36:45,307 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3872, grad_fn=<DivBackward0>)
+2020-03-23 04:36:46,757 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #94 for 29.79684805870056 sec
+2020-03-23 04:36:46,757 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4525091979396615
+2020-03-23 04:36:46,757 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #95
+2020-03-23 04:37:07,172 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [20264 30123 20098 15375 16619 86567 58291 84611 80570 37807 56507 75370
+ 36832 14142  8009 12335 75803 33513  1339 83985]
+2020-03-23 04:37:11,563 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3871, grad_fn=<DivBackward0>)
+2020-03-23 04:37:13,017 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #95 for 26.25925612449646 sec
+2020-03-23 04:37:13,017 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4582192788815305
+2020-03-23 04:37:13,017 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #96
+2020-03-23 04:37:33,632 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [32151 71037 30504 24606 89231 83761 72049 67448 88852 62656 25224 89314
+ 67276 51313 68177  1408 74248 78269 57271 90228]
+2020-03-23 04:37:38,157 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3871, grad_fn=<DivBackward0>)
+2020-03-23 04:37:39,595 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #96 for 26.577481985092163 sec
+2020-03-23 04:37:39,595 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4563355408388521
+2020-03-23 04:37:39,595 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #97
+2020-03-23 04:37:59,212 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [72775 42390 34036 20764 29705 16040 75459 76569 31802 84505 84916 75273
+ 37401 69906 36722 70570 90203 34910  2416 45548]
+2020-03-23 04:38:03,561 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3870, grad_fn=<DivBackward0>)
+2020-03-23 04:38:05,014 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #97 for 25.418587923049927 sec
+2020-03-23 04:38:05,014 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4526269315673289
+2020-03-23 04:38:05,014 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #98
+2020-03-23 04:38:32,002 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [79790 28721 86339 76567 82045 69442 71284 83377 70715 77176  3591 13946
+ 79564  3719 14157 85171 31531 86098 89690 97988]
+2020-03-23 04:38:37,273 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3870, grad_fn=<DivBackward0>)
+2020-03-23 04:38:40,702 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #98 for 35.68756890296936 sec
+2020-03-23 04:38:40,702 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.45427520235467256
+2020-03-23 04:38:40,702 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - start step #99
+2020-03-23 04:39:01,434 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - query idx: [39728 50074 26626 43700 76680 53950 15078 89159 60475 78687 57432  6689
+ 35450 76898 86859 96930 32882 21292 16970 97775]
+2020-03-23 04:39:05,838 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - autoencoder train loss tensor(1.3870, grad_fn=<DivBackward0>)
+2020-03-23 04:39:07,298 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish step #99 for 26.595844984054565 sec
+2020-03-23 04:39:07,300 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - current val_accuracy: 0.4508903605592347
+2020-03-23 04:39:07,300 - exp_torch_topics_cluster_trivial_encode_margin_i2000_b20_q1003 - INFO - finish experiment process for 2853.544958114624 sec

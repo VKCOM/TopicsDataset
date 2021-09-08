@@ -1,0 +1,503 @@
+2020-03-25 16:25:22,631 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start experiment process
+2020-03-25 16:25:25,303 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - initial val_accuracy: 0.44417954378219277
+2020-03-25 16:25:25,303 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #0
+2020-03-25 16:25:36,670 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [41324 70738 39578 96998 77906 47189 97811 55071 93380 93161 25491 49048
+ 53832 51625 15441 75535 46217 46665  1383 40962]
+2020-03-25 16:25:40,265 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #0 for 14.96116304397583 sec
+2020-03-25 16:25:40,265 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4493009565857248
+2020-03-25 16:25:40,266 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #1
+2020-03-25 16:25:46,878 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [42520 24575 32331 77782 81114 16409 44561 47132 42164 90064 26766 52902
+  5637 99341 72367 58697 22537  1880 27179 94922]
+2020-03-25 16:25:49,502 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #1 for 9.236189842224121 sec
+2020-03-25 16:25:49,503 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.44997792494481237
+2020-03-25 16:25:49,503 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #2
+2020-03-25 16:25:55,566 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 7638 48556 83514 64314 97612 43883 79963 38787 71088 57366 89999 68734
+ 21381 24090 21575 60398 32464  3280 56973 24509]
+2020-03-25 16:25:58,239 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #2 for 8.735855102539062 sec
+2020-03-25 16:25:58,239 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.44847682119205295
+2020-03-25 16:25:58,239 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #3
+2020-03-25 16:26:04,228 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [59579 16517 73631 24443 15959 76318 67093 40240 39504 79504 89565 28575
+ 32684 74929  4616 53683 64481 52495 39638 58287]
+2020-03-25 16:26:06,800 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #3 for 8.560224056243896 sec
+2020-03-25 16:26:06,800 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.44662251655629137
+2020-03-25 16:26:06,800 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #4
+2020-03-25 16:26:13,181 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [72127 49977 36050 80466 19369  7783 65756 32094  7961 87343 88083 38995
+ 14100 66524 34357 82927 78196 73560 56788 16171]
+2020-03-25 16:26:15,824 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #4 for 9.0240159034729 sec
+2020-03-25 16:26:15,824 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4488888888888889
+2020-03-25 16:26:15,825 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #5
+2020-03-25 16:26:24,464 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [10708 23289 55142 97286 86997 43190 52524 49290 35341  5692 99236 16759
+ 57445 33921 37872 83184 29588 16916 71597 33238]
+2020-03-25 16:26:28,402 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #5 for 12.57741093635559 sec
+2020-03-25 16:26:28,402 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4511846946284032
+2020-03-25 16:26:28,402 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #6
+2020-03-25 16:26:36,244 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [58733 43338 66956   781 94052 55567 27712 39876 88653 46383 60075 84489
+ 41035 25092 71215 71337 45231 69770  3228 66787]
+2020-03-25 16:26:40,737 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #6 for 12.334275007247925 sec
+2020-03-25 16:26:40,737 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.449271523178808
+2020-03-25 16:26:40,737 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #7
+2020-03-25 16:26:46,861 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [30004 59085 95940 81191 41947 58810 50072 21529   416  7185 74793 23106
+ 79429 26381 85825  9303 88113 86904 91202 61173]
+2020-03-25 16:26:49,519 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #7 for 8.781108379364014 sec
+2020-03-25 16:26:49,519 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.44662251655629137
+2020-03-25 16:26:49,519 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #8
+2020-03-25 16:26:55,333 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [20061 93912 41174 86396 50874 39844 98224 95819 57962 56026 52899 55102
+ 63866 93027 94766 86220  6141 87195 36635 10059]
+2020-03-25 16:26:58,001 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #8 for 8.48229694366455 sec
+2020-03-25 16:26:58,001 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45144959529065487
+2020-03-25 16:26:58,002 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #9
+2020-03-25 16:27:04,251 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [30168 20041 29638 87732 59836 48801 67846 72538 85506  5104 52580 32891
+ 47654 19246 36610 51772 93052 59732 89382 36308]
+2020-03-25 16:27:06,881 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #9 for 8.879462957382202 sec
+2020-03-25 16:27:06,881 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45283296541574686
+2020-03-25 16:27:06,882 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #10
+2020-03-25 16:27:12,617 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [60847 73669 27314 68984 59161 80215 53511 12624 18320 23676  1405 46422
+ 31804 80894 44839 25732 79159 98634 13505 76660]
+2020-03-25 16:27:15,181 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #10 for 8.299572229385376 sec
+2020-03-25 16:27:15,181 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45665930831493745
+2020-03-25 16:27:15,182 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #11
+2020-03-25 16:27:21,461 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [13808 41083 52430 69784  9823 67100 87188 32448 94657 51571 61822 68345
+ 48134 15314 54369  4255 77191 76891  9582 95065]
+2020-03-25 16:27:23,968 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #11 for 8.786876201629639 sec
+2020-03-25 16:27:23,969 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45683590875643854
+2020-03-25 16:27:23,969 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #12
+2020-03-25 16:27:29,789 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [83970 79862 99601 39742 59234 52430 11110 10811  6880 66583 24874 14772
+ 19625 40232 29518 20703 90225 45512 84516 51540]
+2020-03-25 16:27:32,291 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #12 for 8.322196006774902 sec
+2020-03-25 16:27:32,291 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45206769683590875
+2020-03-25 16:27:32,291 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #13
+2020-03-25 16:27:38,154 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [26666 35449  5436 46082 89243 13193 43165 53108 19649 30913 13070 31402
+ 94602  4539  2483 47756  4350 33923 15515  4787]
+2020-03-25 16:27:40,816 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #13 for 8.524473190307617 sec
+2020-03-25 16:27:40,816 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45727740986019133
+2020-03-25 16:27:40,816 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #14
+2020-03-25 16:27:46,741 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [68796 60246  6282 54064 11741 95053  8187 30954 43513 40928 20692 12184
+ 77931 68809 89904 62405 54787 45354 20215 52163]
+2020-03-25 16:27:49,254 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #14 for 8.437524795532227 sec
+2020-03-25 16:27:49,254 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.456158940397351
+2020-03-25 16:27:49,254 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #15
+2020-03-25 16:27:55,853 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [19717 69212 69513 90926 17261 53207 60659 97362 68076 65119  5934 97455
+ 11446 52301 63437 23995 32677 55485 58086  7672]
+2020-03-25 16:27:58,490 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #15 for 9.235578060150146 sec
+2020-03-25 16:27:58,490 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45345106696100074
+2020-03-25 16:27:58,490 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #16
+2020-03-25 16:28:04,223 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [72415 70942 92004 40565 88619 39017 37056 61740 47085   768 95446   448
+ 35021 47077 13055  4213 84909 32506 77159 56897]
+2020-03-25 16:28:06,771 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #16 for 8.280022144317627 sec
+2020-03-25 16:28:06,771 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4578366445916115
+2020-03-25 16:28:06,771 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #17
+2020-03-25 16:28:12,560 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [70443 97879 36589  8498 95696 40549 40629 56163 98139 96417 22521 49382
+ 95991 74217   554 29388 96219 47899 80335 97932]
+2020-03-25 16:28:15,092 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #17 for 8.321278810501099 sec
+2020-03-25 16:28:15,092 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4611331861662987
+2020-03-25 16:28:15,093 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #18
+2020-03-25 16:28:23,432 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [23874 78101 51671 64584 44119 94640 92279 59721 21129  2724 94480 52212
+ 82241 38877 98862 47186 43950 57332 21100 26465]
+2020-03-25 16:28:26,908 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #18 for 11.814913034439087 sec
+2020-03-25 16:28:26,908 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4611331861662987
+2020-03-25 16:28:26,908 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #19
+2020-03-25 16:28:33,522 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [95213 62151 82330 97499 69864  3940 34396 77199  4255 54450 66748 41040
+ 96246 16496 29169 36723 75171 64655 57597 74832]
+2020-03-25 16:28:36,275 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #19 for 9.367130041122437 sec
+2020-03-25 16:28:36,275 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45727740986019133
+2020-03-25 16:28:36,276 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #20
+2020-03-25 16:28:42,365 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [90980 61650 19151 38334 94489 20809 18724 54069 54032 43520 40533 88358
+ 53893 95271 74312 26888 42523 71131 95170 93403]
+2020-03-25 16:28:44,912 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #20 for 8.63681936264038 sec
+2020-03-25 16:28:44,913 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4598381162619573
+2020-03-25 16:28:44,913 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #21
+2020-03-25 16:28:50,771 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [87489 10567 11158 53835 14171 34655 43752 73386 33754 45771  7851 73304
+   286 57660 91132 86704 77926 77559 49468  4920]
+2020-03-25 16:28:53,370 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #21 for 8.456991910934448 sec
+2020-03-25 16:28:53,370 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4590139808682855
+2020-03-25 16:28:53,370 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #22
+2020-03-25 16:28:59,637 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [21765 61838 97424 60061 79945 11731 94309 52164 85329     0 17156 59549
+ 87463  4749 75038 14065 74422  9217 60018 76882]
+2020-03-25 16:29:02,234 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #22 for 8.863677978515625 sec
+2020-03-25 16:29:02,234 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45713024282560705
+2020-03-25 16:29:02,235 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #23
+2020-03-25 16:29:07,895 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 6127 56264 77515 66497 28764 86490 53960 26559 14760 55150 62609 72902
+ 32128 30154 14963 33407 80122 34176 65665 53964]
+2020-03-25 16:29:10,406 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #23 for 8.171862840652466 sec
+2020-03-25 16:29:10,407 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45589403973509934
+2020-03-25 16:29:10,407 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #24
+2020-03-25 16:29:16,602 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [13151 16571 31095 22169  4697 91649 18068 22775  8053 69073 97480 69126
+ 53984  2350 20802 30620 22589 98456 56496 94274]
+2020-03-25 16:29:19,124 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #24 for 8.717170238494873 sec
+2020-03-25 16:29:19,124 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4570713760117734
+2020-03-25 16:29:19,125 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #25
+2020-03-25 16:29:24,905 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [88949 80951 58977 59805 37115 55793 71471  8457 51078 81355 78808 41619
+ 20401 93287 90521 38241 17269 52471 95112 48881]
+2020-03-25 16:29:27,479 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #25 for 8.354248285293579 sec
+2020-03-25 16:29:27,479 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45874908020603383
+2020-03-25 16:29:27,479 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #26
+2020-03-25 16:29:33,178 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 2039 98489 75460 44451 78534 45948 56694 89508 31336 30924  3049 90983
+  3920 85080  6485 90611 35744 74982 17057 44157]
+2020-03-25 16:29:35,674 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #26 for 8.194971084594727 sec
+2020-03-25 16:29:35,675 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4572479764532745
+2020-03-25 16:29:35,675 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #27
+2020-03-25 16:29:41,418 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [95794 77634 18266 81436 28220 16498 45676 18375 89214 99406 49052 10527
+ 12578 43671 56638 43776 22170 21276 22234 15685]
+2020-03-25 16:29:43,960 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #27 for 8.284786224365234 sec
+2020-03-25 16:29:43,960 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.46066225165562913
+2020-03-25 16:29:43,960 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #28
+2020-03-25 16:29:49,628 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [57625 43960 72495 85600 60692 73519 85609 65345 63938 28230 87411 57649
+ 20587 72116 29892 92236 12585 96955 74298 81031]
+2020-03-25 16:29:52,203 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #28 for 8.243255853652954 sec
+2020-03-25 16:29:52,204 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.46154525386313466
+2020-03-25 16:29:52,204 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #29
+2020-03-25 16:29:58,013 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [24389 68123 42662 78757 22684 18948 27342 83401 63871 54661 49240 13595
+ 18964 28169 86632 66976 57118 31146 39087 35129]
+2020-03-25 16:30:00,564 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #29 for 8.360552787780762 sec
+2020-03-25 16:30:00,565 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4619278881530537
+2020-03-25 16:30:00,565 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #30
+2020-03-25 16:30:06,312 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [37011 10486  2531  8296 12433 33034 62757 67549   894 68809  8195 23099
+ 19420  2922 23686 75438  5447 60980 39237 29667]
+2020-03-25 16:30:08,844 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #30 for 8.279656887054443 sec
+2020-03-25 16:30:08,845 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.46516556291390726
+2020-03-25 16:30:08,845 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #31
+2020-03-25 16:30:14,621 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [52521 98022 47670 10572 56129 39344 78305 28577 58329 54815 50540 47578
+ 36072 81039 25233 38993 57729 59961 40131 42896]
+2020-03-25 16:30:17,127 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #31 for 8.282278060913086 sec
+2020-03-25 16:30:17,127 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4611331861662987
+2020-03-25 16:30:17,128 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #32
+2020-03-25 16:30:22,946 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [64787 71240 45230 53194 30005 27149 65909 43643 96635 12878 78958 59031
+ 33069 71319 37288 18698 81864 12843 29497  5123]
+2020-03-25 16:30:25,534 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #32 for 8.406139850616455 sec
+2020-03-25 16:30:25,534 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.45910228108903606
+2020-03-25 16:30:25,534 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #33
+2020-03-25 16:30:31,223 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [39992 20517 90928  9769 27406 59547 71402 93174 94999 87351 90253 69944
+  1277 25613 52279 11139 23434 56213  4627   906]
+2020-03-25 16:30:33,912 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #33 for 8.377558946609497 sec
+2020-03-25 16:30:33,912 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.46922737306843265
+2020-03-25 16:30:33,912 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #34
+2020-03-25 16:30:39,591 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [83524 26547 43236 94959 41471 97778 68048 84480 27840  8375 16397 14807
+ 39525 83559 64671 43418  9389 97302 41487 49549]
+2020-03-25 16:30:42,803 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #34 for 8.890788078308105 sec
+2020-03-25 16:30:42,803 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4659896983075791
+2020-03-25 16:30:42,803 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #35
+2020-03-25 16:30:49,232 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [98621 26229 60793 76668 30862 68802 91622  7401 40033 25986 15244 65294
+ 98524 65705 39923 86120 89405 97984 50456 97842]
+2020-03-25 16:30:51,804 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #35 for 9.000988245010376 sec
+2020-03-25 16:30:51,805 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.46501839587932303
+2020-03-25 16:30:51,805 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #36
+2020-03-25 16:30:58,046 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [73517 90393 29522 70331 19477  9101 40676 17443 15500 22675 96457 71060
+ 25930 14144 26971 29343 77296 17597 36522 29509]
+2020-03-25 16:31:00,697 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #36 for 8.89241075515747 sec
+2020-03-25 16:31:00,697 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4707873436350258
+2020-03-25 16:31:00,698 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #37
+2020-03-25 16:31:06,483 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [21144 13504 15902 76908 31818 85831 62001 44113 12247 32964 93519 57347
+ 29186 15153 54358 61202 23153 47384  8228 38185]
+2020-03-25 16:31:08,995 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #37 for 8.297407388687134 sec
+2020-03-25 16:31:08,995 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.46816777041942603
+2020-03-25 16:31:08,996 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #38
+2020-03-25 16:31:14,779 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [31263  3442 35298 71719 96056 23289  2368 66503  2400 16371 67302 12609
+   421 93089  4617 10386 84565 68504 15872 71314]
+2020-03-25 16:31:17,525 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #38 for 8.529247045516968 sec
+2020-03-25 16:31:17,525 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.46799116997792495
+2020-03-25 16:31:17,525 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #39
+2020-03-25 16:31:23,341 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [64940  8982 93946 16619  2776 38161 70246 28261 24672 12355 54956 49652
+ 85436 44517 21417 76600 19394 61136 67953 29433]
+2020-03-25 16:31:26,019 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #39 for 8.493616104125977 sec
+2020-03-25 16:31:26,019 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4702281089036056
+2020-03-25 16:31:26,019 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #40
+2020-03-25 16:31:31,734 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [38739 37825 15864 39320 13735  2645 64358 26970 13911 27751 21683 69747
+ 87842 84039 16391 98699 30088 95610 97945 15521]
+2020-03-25 16:31:34,235 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #40 for 8.21524715423584 sec
+2020-03-25 16:31:34,235 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47119941133186166
+2020-03-25 16:31:34,235 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #41
+2020-03-25 16:31:40,098 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [58285 92543 13966 77326 50734 87057  7899 54863 48165 88918 64394 95045
+ 95866 38370 44110  2695 54185 98441 51579 96954]
+2020-03-25 16:31:42,687 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #41 for 8.452322006225586 sec
+2020-03-25 16:31:42,688 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47711552612214864
+2020-03-25 16:31:42,688 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #42
+2020-03-25 16:31:48,459 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [88684 40585 25644 59248 79396 32253 89464 26403 23866 36279 29279  5686
+ 69930 30106 67587 25828 75344 80754 51404 60190]
+2020-03-25 16:31:51,039 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #42 for 8.35136103630066 sec
+2020-03-25 16:31:51,039 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4734657836644592
+2020-03-25 16:31:51,040 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #43
+2020-03-25 16:31:56,841 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [55984 87778 50759 32207 28524  3845 98967 65506 54619 71217 26504 35764
+  2957 43144 41133 28457 60794 91415 29248 66588]
+2020-03-25 16:31:59,422 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #43 for 8.382324934005737 sec
+2020-03-25 16:31:59,422 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.473701250919794
+2020-03-25 16:31:59,422 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #44
+2020-03-25 16:32:05,350 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [68745 39759 74916 73646 17120 98568 70990 58389 23574 80739 18790 55870
+  1382 34665 37807 40079 66011 21012 77185 87956]
+2020-03-25 16:32:08,029 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #44 for 8.606747150421143 sec
+2020-03-25 16:32:08,029 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4757027225901398
+2020-03-25 16:32:08,030 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #45
+2020-03-25 16:32:13,683 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [71589 26398 56064 93945 31796 21850 91173 95291 43283 61548 94273 40379
+  6850 74706  5058 29397 93275 81756 27580 49023]
+2020-03-25 16:32:16,270 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #45 for 8.240042924880981 sec
+2020-03-25 16:32:16,270 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47402501839587935
+2020-03-25 16:32:16,270 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #46
+2020-03-25 16:32:22,201 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [74579 85106 69347 71265 52784  4111 78305 56613 13751 88465 36804 89673
+ 44490 66955 35088 96890   931 21178 38387  7244]
+2020-03-25 16:32:24,776 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #46 for 8.506168842315674 sec
+2020-03-25 16:32:24,777 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4684915378955114
+2020-03-25 16:32:24,777 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #47
+2020-03-25 16:32:30,461 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [90013 57661 56242 37152 29631 31553 76432 63900 18500 21368 55774 84970
+ 70132 15307 96828 42997   953 47701 18925 98045]
+2020-03-25 16:32:33,034 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #47 for 8.25709319114685 sec
+2020-03-25 16:32:33,034 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47426048565121415
+2020-03-25 16:32:33,034 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #48
+2020-03-25 16:32:38,725 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [49586 11424 44574 67856 52944 70403 93220 93226 67135 64596 22640 77365
+ 92924 93189  2902 62402 98698 79281 87759 16421]
+2020-03-25 16:32:41,345 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #48 for 8.310884952545166 sec
+2020-03-25 16:32:41,345 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47573215599705665
+2020-03-25 16:32:41,346 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #49
+2020-03-25 16:32:47,195 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [91677 61899 41175 79218 48292 47847 77415 35679 49599 95847 38914  7464
+ 35331  5644 48628 58187 86037 78894 27624 89837]
+2020-03-25 16:32:49,825 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #49 for 8.478983879089355 sec
+2020-03-25 16:32:49,825 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4770860927152318
+2020-03-25 16:32:49,825 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #50
+2020-03-25 16:32:55,472 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [61811 38785 79926 33185 49169 28042 15749 64576 72814 53839 32298 30508
+  6314 19908 53386 58091 25026 29708 16495 17812]
+2020-03-25 16:32:58,096 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #50 for 8.271147966384888 sec
+2020-03-25 16:32:58,096 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4771449595290655
+2020-03-25 16:32:58,097 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #51
+2020-03-25 16:33:03,815 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [30319 57441 28263 27681 34272 92533 93811 83703 34176 76301 17375 23888
+  7319 86574 68075 34457 75583  2994 95708 81012]
+2020-03-25 16:33:06,349 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #51 for 8.25186800956726 sec
+2020-03-25 16:33:06,349 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47823399558498897
+2020-03-25 16:33:06,349 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #52
+2020-03-25 16:33:12,176 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [14649 75360 30271 89635 64559 71958  2880 49761 25103 90337 91223  9121
+ 49125 32934 34688 80437 80724 15321 12380 78684]
+2020-03-25 16:33:14,741 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #52 for 8.391578674316406 sec
+2020-03-25 16:33:14,741 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47932303164091244
+2020-03-25 16:33:14,741 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #53
+2020-03-25 16:33:20,346 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [69919 47631 62909 15198 66794 46402 71486 89689 90325 15997 20943 41630
+ 83320 59606 72539 79330 86757 80559 46013 92400]
+2020-03-25 16:33:23,021 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #53 for 8.279711961746216 sec
+2020-03-25 16:33:23,021 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4766151582045622
+2020-03-25 16:33:23,021 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #54
+2020-03-25 16:33:28,719 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [16857 44647 98479 22382 94624 10544 87806 82923 10254 66386 51932 69840
+ 48835 34359 75493 56365 48714 36399 65568 36789]
+2020-03-25 16:33:31,234 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #54 for 8.213064908981323 sec
+2020-03-25 16:33:31,234 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4768211920529801
+2020-03-25 16:33:31,235 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #55
+2020-03-25 16:33:37,066 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [32202 47662 35428 55022 98446 30387 52807 24310 16270 62627 34495 74058
+ 33258 85887  9235 16927   722 89745 54171 41056]
+2020-03-25 16:33:39,677 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #55 for 8.44238805770874 sec
+2020-03-25 16:33:39,677 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4771449595290655
+2020-03-25 16:33:39,677 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #56
+2020-03-25 16:33:45,511 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [16200 98285 85263 17698 62792 36129  1809 56673 89065 81840  3289  6636
+ 11217 90872 11108 71964 20182 68019 30446 14450]
+2020-03-25 16:33:48,094 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #56 for 8.416456937789917 sec
+2020-03-25 16:33:48,094 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47579102281089036
+2020-03-25 16:33:48,094 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #57
+2020-03-25 16:33:53,767 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [26610 23894 82397 90085 92727 78902 19616  8467 26887 70973 26768 37150
+ 74675 87430 54870 82445  7384 45984 74456 41382]
+2020-03-25 16:33:56,369 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #57 for 8.274286270141602 sec
+2020-03-25 16:33:56,369 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4782928623988227
+2020-03-25 16:33:56,369 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #58
+2020-03-25 16:34:02,223 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [59017 77463 80983 22548 94235  6541 82759 41547 83547 30017 34411 66589
+ 90987 37412 59087 41871 37016 63914 47204 28942]
+2020-03-25 16:34:04,942 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #58 for 8.572968006134033 sec
+2020-03-25 16:34:04,942 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4780573951434879
+2020-03-25 16:34:04,942 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #59
+2020-03-25 16:34:10,612 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 5942 69975 20052 29120 20193 12834 84897  4293 70107 26898 78604 68405
+ 49351 38029 27698  3584 42464  4349  6993 11515]
+2020-03-25 16:34:13,289 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #59 for 8.346852779388428 sec
+2020-03-25 16:34:13,290 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4733774834437086
+2020-03-25 16:34:13,290 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #60
+2020-03-25 16:34:19,504 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [80116 30127  9521 13920 22846 63947 22539 21574 18982 89075 17403  9684
+ 53810 41822 31270 25991 16428  5492 14474 71646]
+2020-03-25 16:34:22,203 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #60 for 8.913230180740356 sec
+2020-03-25 16:34:22,203 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4786754966887417
+2020-03-25 16:34:22,203 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #61
+2020-03-25 16:34:27,886 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [37746 49184 26306 94563 49342  2529 88457 61673 96127 34584 80231 50676
+ 26342 79038 46740 65991 16075  6136 74119 87711]
+2020-03-25 16:34:30,520 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #61 for 8.316433906555176 sec
+2020-03-25 16:34:30,520 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47596762325239145
+2020-03-25 16:34:30,520 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #62
+2020-03-25 16:34:36,253 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [87847 73057 25463 91045 64957 94951 55432 28652  6622 15931 43802 15024
+ 69897 96100 29206 58231 36825  4576 67108 31598]
+2020-03-25 16:34:38,875 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #62 for 8.354557037353516 sec
+2020-03-25 16:34:38,875 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.47573215599705665
+2020-03-25 16:34:38,875 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #63
+2020-03-25 16:34:44,538 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 3489 21468 25397 11438 39673 10426 35686 81199 44480 24950 16378 47747
+ 65101 94706 93795 12229 64786 66087 84089 39628]
+2020-03-25 16:34:47,261 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #63 for 8.385303974151611 sec
+2020-03-25 16:34:47,261 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.479411331861663
+2020-03-25 16:34:47,261 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #64
+2020-03-25 16:34:52,872 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [51353 81893 56827 66597  5830 58948 88881 33769 33341 96676 66051 29941
+ 70086 43532 27206 91946 12237 30370 96487 70040]
+2020-03-25 16:34:55,587 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #64 for 8.325644969940186 sec
+2020-03-25 16:34:55,587 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4787637969094923
+2020-03-25 16:34:55,587 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #65
+2020-03-25 16:35:01,264 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [53458 79134 60050 71551 17633 58504 67898 71486 96188 66004 34697 44634
+ 12230 20671 53362 16999 15029 97372 19858 13327]
+2020-03-25 16:35:04,393 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #65 for 8.805910110473633 sec
+2020-03-25 16:35:04,393 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4789109639440765
+2020-03-25 16:35:04,394 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #66
+2020-03-25 16:35:09,968 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [27803 25511 19210 85527 30418 91841 40019  6329 40325 77496  9083 86873
+ 22701 59110 34377 60004 94912 24374 27204 79603]
+2020-03-25 16:35:12,705 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #66 for 8.311021089553833 sec
+2020-03-25 16:35:12,705 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48373804267844
+2020-03-25 16:35:12,705 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #67
+2020-03-25 16:35:18,410 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [53637  5361 24343 78475 41818 10980 22623 19015 75937 43555 71213 53054
+  2450 59012  9771 60501 34495 58841 95890 40070]
+2020-03-25 16:35:21,020 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #67 for 8.314785718917847 sec
+2020-03-25 16:35:21,020 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48085356880058866
+2020-03-25 16:35:21,020 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #68
+2020-03-25 16:35:26,958 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 3949 16346 12747 80764 35903 86108 85887 74700 76578 69154 51166 77188
+ 26640 12758 65857 19002 33509 66066 34337 27901]
+2020-03-25 16:35:29,637 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #68 for 8.616727828979492 sec
+2020-03-25 16:35:29,637 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.482560706401766
+2020-03-25 16:35:29,638 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #69
+2020-03-25 16:35:35,306 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [36352 61680 46124 69353 93670  4829 96711 98079 95616   314 84259 59745
+ 20188 44033 97446 13168 11952 79612 73618 28914]
+2020-03-25 16:35:38,013 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #69 for 8.375723123550415 sec
+2020-03-25 16:35:38,014 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4785283296541575
+2020-03-25 16:35:38,014 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #70
+2020-03-25 16:35:44,115 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [10532 80676 75575 29451 58349 18296 30453 11160 23763 70758 75210  1407
+  2509 21653 44061  6461 40380 33371 32856 96088]
+2020-03-25 16:35:46,790 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #70 for 8.775675058364868 sec
+2020-03-25 16:35:46,790 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48132450331125826
+2020-03-25 16:35:46,790 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #71
+2020-03-25 16:35:52,409 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 6246 71761 54453 29186 38554 62639 85464 94462 75607 51858  8330 11815
+ 20576 97391  7925 48228 89082 49409 75558 37466]
+2020-03-25 16:35:55,232 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #71 for 8.441510915756226 sec
+2020-03-25 16:35:55,232 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4819131714495953
+2020-03-25 16:35:55,232 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #72
+2020-03-25 16:36:01,025 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [20177  1834 38570  1772 70447 34617 70199  5681 18497 80780 19088 23464
+ 20539 57312 56766 64162 40706 16456 37323 76823]
+2020-03-25 16:36:03,660 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #72 for 8.427778005599976 sec
+2020-03-25 16:36:03,660 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4812656364974246
+2020-03-25 16:36:03,660 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #73
+2020-03-25 16:36:09,345 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [59602 55212 97192 30925 52561 31930 69785 33088 40205 24691 14989 76078
+ 60198 52604  5075 15481 95567 35952  5280  9314]
+2020-03-25 16:36:11,990 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #73 for 8.33021879196167 sec
+2020-03-25 16:36:11,993 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48467991169977925
+2020-03-25 16:36:11,993 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #74
+2020-03-25 16:36:17,683 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [29898 14595 60880 70073 97849 87515 52910 23151 58761  9499 59180 71942
+  3081 87814 54514 23254 75671 38933 96194 52285]
+2020-03-25 16:36:20,412 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #74 for 8.418862104415894 sec
+2020-03-25 16:36:20,412 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48553348050036793
+2020-03-25 16:36:20,412 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #75
+2020-03-25 16:36:26,189 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [92703  9790 76570 14380 94798 32473   164 32401 86682 51562 22854  4557
+ 97479 63697 23315 76876 95183  5006 74504 96527]
+2020-03-25 16:36:28,878 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #75 for 8.465986013412476 sec
+2020-03-25 16:36:28,879 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.483355408388521
+2020-03-25 16:36:28,879 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #76
+2020-03-25 16:36:34,591 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [95189 72996 70680 26175 73126 16164 81202 88007 61227 15766 16484 61856
+ 22071 27465 62092 66953 84375 17818 55901 15450]
+2020-03-25 16:36:37,332 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #76 for 8.453157901763916 sec
+2020-03-25 16:36:37,332 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48759381898454746
+2020-03-25 16:36:37,332 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #77
+2020-03-25 16:36:43,071 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 6477  4049 83747 30316 30579 86682 90386 14830 70274 72594 83677 48545
+ 26985 15952 44826  8554 38701 34809 56146 93279]
+2020-03-25 16:36:45,892 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #77 for 8.559794902801514 sec
+2020-03-25 16:36:45,893 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48844738778513613
+2020-03-25 16:36:45,893 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #78
+2020-03-25 16:36:51,695 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [68501 96057 62539 49133 14317 65216 70886 62728 36860 40108  3529 25499
+ 16417 22093 28383 25010 17387 35130  6687 29828]
+2020-03-25 16:36:54,335 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #78 for 8.442065715789795 sec
+2020-03-25 16:36:54,335 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4857395143487859
+2020-03-25 16:36:54,335 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #79
+2020-03-25 16:37:00,118 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [13900 80673 42413 51028 55221 34362 55242 53454 41713 20482 75274 37276
+ 49419 18628  6043 72282 67076 59769 95669  6243]
+2020-03-25 16:37:02,845 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #79 for 8.509161949157715 sec
+2020-03-25 16:37:02,845 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4871523178807947
+2020-03-25 16:37:02,845 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #80
+2020-03-25 16:37:08,675 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [80582 18810 59189 36531 69450 57915 76144 35228 97964 46170 91841 24409
+ 15626 23363 80600 61520 41575 32385 88424 11384]
+2020-03-25 16:37:11,461 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #80 for 8.615810871124268 sec
+2020-03-25 16:37:11,461 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4901839587932303
+2020-03-25 16:37:11,461 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #81
+2020-03-25 16:37:17,116 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [90018 49727 11955 54855 92597 22767 81926 33337  1032  7124 56450 35622
+ 70227 96242 47341 49929 13977 23012 87339 62283]
+2020-03-25 16:37:19,871 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #81 for 8.409946918487549 sec
+2020-03-25 16:37:19,871 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48621044885945547
+2020-03-25 16:37:19,872 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #82
+2020-03-25 16:37:25,598 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [85958 10696 98222 51842 67715  5849 83335 72885 72441 74932 28244  4828
+ 57779 40794  4001 47003 73581 89553 63828 69107]
+2020-03-25 16:37:28,325 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #82 for 8.453830242156982 sec
+2020-03-25 16:37:28,326 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4879470198675497
+2020-03-25 16:37:28,326 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #83
+2020-03-25 16:37:34,065 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [36267 93761 73113 63890 80480 59211 61565 42712 39916 78546 61271 75516
+ 58960 53561 98242 89535 84120 81699 40635 68040]
+2020-03-25 16:37:36,836 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #83 for 8.50973391532898 sec
+2020-03-25 16:37:36,836 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48515084621044885
+2020-03-25 16:37:36,836 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #84
+2020-03-25 16:37:42,526 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [26806 30541 15198 82034 14242 46802 17841 75683 58581 19071 79316 83087
+ 14836 19338 39233 53466 87863 37174 85837 38773]
+2020-03-25 16:37:45,213 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #84 for 8.377193927764893 sec
+2020-03-25 16:37:45,214 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48980132450331126
+2020-03-25 16:37:45,214 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #85
+2020-03-25 16:37:51,008 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [15979  9582 75489 53788 47285 13304  4096 24942 65591 61432 75941 75753
+ 58561  8468 60981 40384 85321 60934 50036 91922]
+2020-03-25 16:37:53,791 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #85 for 8.576982021331787 sec
+2020-03-25 16:37:53,791 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.48615158204562176
+2020-03-25 16:37:53,791 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #86
+2020-03-25 16:37:59,438 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [35649 95329 34446 43081 76760 33083 46419 40700 25446 16595 87256 81699
+ 26607 38544 92501 57433 18121 10821 88627 49038]
+2020-03-25 16:38:02,145 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #86 for 8.353708744049072 sec
+2020-03-25 16:38:02,145 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4916850625459897
+2020-03-25 16:38:02,145 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #87
+2020-03-25 16:38:07,917 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [86386 30880  4299 31185  5140 84847 94175 68114 28462 13063 85274 58462
+ 57336 88466 92582 90267 84866 50881 64848  2852]
+2020-03-25 16:38:10,589 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #87 for 8.44384503364563 sec
+2020-03-25 16:38:10,589 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4870345842531273
+2020-03-25 16:38:10,590 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #88
+2020-03-25 16:38:16,261 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [ 5188 38736 45174  7957 91067 81210  3661 50669 40175 65055 75295 64843
+ 65483 67289 73192 66881 16574 16169 32716 84201]
+2020-03-25 16:38:19,168 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #88 for 8.578068017959595 sec
+2020-03-25 16:38:19,168 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.49036055923473143
+2020-03-25 16:38:19,168 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #89
+2020-03-25 16:38:24,860 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [11295 90581 13179 94578 42082 90294 61028 11231 93977 14242 21423 50270
+ 60291 59254 16466 73339 65480 80993 38542 54022]
+2020-03-25 16:38:27,550 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #89 for 8.381975889205933 sec
+2020-03-25 16:38:27,550 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4900662251655629
+2020-03-25 16:38:27,551 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #90
+2020-03-25 16:38:33,216 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [16785 28864 75524 53090 69329 35792 78631 53198 34768 13451 38884 47261
+ 86422 91039 59945 43552 74729 39918 40331 34830]
+2020-03-25 16:38:36,175 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #90 for 8.623948097229004 sec
+2020-03-25 16:38:36,176 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.494186902133922
+2020-03-25 16:38:36,176 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #91
+2020-03-25 16:38:41,790 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [70824 95012 39934  3387 25178 66540 35760 62503 96623 38278 55607 79784
+ 79072  7671 35332 34912 57680 68935 97022  3890]
+2020-03-25 16:38:44,768 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #91 for 8.592089891433716 sec
+2020-03-25 16:38:44,768 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.49471670345842533
+2020-03-25 16:38:44,769 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #92
+2020-03-25 16:38:50,409 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [96116 23358 17443 21110 35740  1305 62753 50914 24815 15926 61568 61998
+ 84647 92312 41924 15353 76140 71994 64497 85262]
+2020-03-25 16:38:53,103 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #92 for 8.334303855895996 sec
+2020-03-25 16:38:53,103 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.49236203090507724
+2020-03-25 16:38:53,103 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #93
+2020-03-25 16:38:58,796 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [50414 85746 32532 16990 73435 89503 91128 61486 37245 34819 68060 50169
+  4258 96251 27532 31746 44201  8014 53292 25496]
+2020-03-25 16:39:01,576 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #93 for 8.472673177719116 sec
+2020-03-25 16:39:01,576 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4933627667402502
+2020-03-25 16:39:01,577 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #94
+2020-03-25 16:39:07,261 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [56199 38158 75091 21085 33601 55754 98034  6459 44752 44374 77488 38870
+ 94740  6310 45950 21092 86339 16204 41861 23303]
+2020-03-25 16:39:10,151 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #94 for 8.574404239654541 sec
+2020-03-25 16:39:10,151 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4944518027961737
+2020-03-25 16:39:10,151 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #95
+2020-03-25 16:39:15,845 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [11876  6612 38304  7664 42475 87531 48874 33982 75673  2101 11722 76917
+ 27460 73150 33778 54774 68925 57538 85145  7438]
+2020-03-25 16:39:18,566 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #95 for 8.414839744567871 sec
+2020-03-25 16:39:18,566 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.49557027225901396
+2020-03-25 16:39:18,567 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #96
+2020-03-25 16:39:24,343 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [37013 71570 62439 87812  3432  3189 93806 40234 67200 36696 11650 54221
+ 46380 72985 71930 85341 12510 75078 82587 90679]
+2020-03-25 16:39:27,126 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #96 for 8.559462070465088 sec
+2020-03-25 16:39:27,126 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4933038999264165
+2020-03-25 16:39:27,127 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #97
+2020-03-25 16:39:32,793 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [86971 39561 83663 31063 11877 25248 24508 53364  5439 65139 42000  4476
+ 47325 76534 16669 50207 18845 66804 15289 65628]
+2020-03-25 16:39:35,625 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #97 for 8.498555898666382 sec
+2020-03-25 16:39:35,625 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4932450331125828
+2020-03-25 16:39:35,626 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #98
+2020-03-25 16:39:41,217 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [46690 42060 94867 19787 19553 17453 12842 24562 87814 43520 15727 57801
+ 94770  4074 78321 28737  4073 62093  4445 68212]
+2020-03-25 16:39:44,081 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #98 for 8.455457925796509 sec
+2020-03-25 16:39:44,081 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.49654157468727006
+2020-03-25 16:39:44,082 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - start step #99
+2020-03-25 16:39:49,644 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - query idx: [61778 67925 50678 90408 91210  6513 84179 71581 82272 39614  7054 48837
+ 59571 94685 97589 75614 23638  6977 38474 36459]
+2020-03-25 16:39:52,448 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish step #99 for 8.366616010665894 sec
+2020-03-25 16:39:52,448 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - current val_accuracy: 0.4980721118469463
+2020-03-25 16:39:52,449 - exp_torch_topics_d128_least_confident_i2000_b20_q100_sf512_1 - INFO - finish experiment process for 869.8162090778351 sec

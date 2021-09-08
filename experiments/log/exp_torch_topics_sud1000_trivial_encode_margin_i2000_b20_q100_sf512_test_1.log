@@ -1,0 +1,39 @@
+2020-04-13 23:31:36,913 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start experiment process
+2020-04-13 23:31:44,866 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - initial val_accuracy: 0.07308314937454011
+2020-04-13 23:31:44,944 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #0
+2020-04-13 23:33:00,863 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - query idx: [76045 21802 53175 62898 67221 46188  2957 90798 79014 90950 95201 73896
+ 54310 47097 60967 74246 29257 55843  5559 30749]
+2020-04-13 23:33:08,056 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - autoencoder train loss tensor(1.2864, grad_fn=<DivBackward0>)
+2020-04-13 23:33:11,351 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - finish step #0 for 86.40700507164001 sec
+2020-04-13 23:33:11,351 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - current val_accuracy: 0.07228844738778514
+2020-04-13 23:33:11,352 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #1
+2020-04-13 23:43:50,821 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start experiment process
+2020-04-13 23:43:59,367 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - initial val_accuracy: 0.04812362030905077
+2020-04-13 23:43:59,370 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #0
+2020-04-13 23:47:41,156 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - query idx: [71085 86765 76419 68016 49116 39961 19099 54332 30334   253 88818 56863
+ 10314  8710 82247 34866 84557 16298 38392 93293]
+2020-04-13 23:48:33,580 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - autoencoder train loss tensor(1.2859, grad_fn=<DivBackward0>)
+2020-04-13 23:48:43,862 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - finish step #0 for 284.4906380176544 sec
+2020-04-13 23:48:43,868 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - current val_accuracy: 0.06440029433406917
+2020-04-13 23:48:43,872 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #1
+2020-04-13 23:50:44,505 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - query idx: [84505 98240 66588  6348 69769 90475 95469 64019 91026  9315 30705 78897
+ 71531 67042 87551 84212 31294 12947 14510 73966]
+2020-04-13 23:51:11,289 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - autoencoder train loss tensor(0.8892, grad_fn=<DivBackward0>)
+2020-04-13 23:51:21,232 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - finish step #1 for 157.35670018196106 sec
+2020-04-13 23:51:21,286 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - current val_accuracy: 0.07034584253127299
+2020-04-13 23:51:22,612 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #2
+2020-04-13 23:53:03,700 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - query idx: [ 4381  8110 23230 83938 58762 57156 71638 26553 82397 50367 35980 44221
+ 27012 27626 44223 26036 31434 24615 12320 37334]
+2020-04-13 23:53:18,392 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - autoencoder train loss tensor(0.8030, grad_fn=<DivBackward0>)
+2020-04-13 23:53:24,567 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - finish step #2 for 121.22145676612854 sec
+2020-04-13 23:53:24,567 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - current val_accuracy: 0.09403973509933775
+2020-04-13 23:53:24,567 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #3
+2020-04-13 23:58:23,265 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start experiment process
+2020-04-13 23:58:29,752 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - initial val_accuracy: 0.063841059602649
+2020-04-13 23:58:29,753 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #0
+2020-04-14 00:00:13,857 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - query idx: [ 1903 67423 44510 48021 24397 72941 95888  9714 46093 80155 81182 86928
+ 41420 70414 13940 82079 56105 75642 29202 27188]
+2020-04-14 00:00:23,662 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - autoencoder train loss tensor(1.2827, grad_fn=<DivBackward0>)
+2020-04-14 00:00:27,883 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - finish step #0 for 118.12903022766113 sec
+2020-04-14 00:00:27,883 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - current val_accuracy: 0.07437821927888152
+2020-04-14 00:00:27,883 - exp_torch_topics_sud1000_trivial_encode_margin_i2000_b20_q100_sf512_test_1 - INFO - start step #1
